@@ -1,0 +1,30 @@
+C:\WPF\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+C:\WPF\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+C:\WPF\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+C:\WPF\ClassExample\ClassExample\obj\Debug\ClassExample.csprojAssemblyReference.cache
+C:\WPF\ClassExample\ClassExample\obj\Debug\MainWindow.g.cs
+C:\WPF\ClassExample\ClassExample\obj\Debug\App.g.cs
+C:\WPF\ClassExample\ClassExample\obj\Debug\ClassExample_MarkupCompile.cache
+C:\WPF\ClassExample\ClassExample\obj\Debug\ClassExample_MarkupCompile.lref
+C:\WPF\ClassExample\ClassExample\obj\Debug\MainWindow.baml
+C:\WPF\ClassExample\ClassExample\obj\Debug\ClassExample.g.resources
+C:\WPF\ClassExample\ClassExample\obj\Debug\ClassExample.Properties.Resources.resources
+C:\WPF\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.GenerateResource.cache
+C:\WPF\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+C:\WPF\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+C:\WPF\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\ClassExample.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\ClassExample_MarkupCompile.cache
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\ClassExample_MarkupCompile.lref
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\ClassExample.g.resources
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\ClassExample.Properties.Resources.resources
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+D:\Шаг\Доп инфо\WPF\Lesson 15 example helpers\ClassExample\ClassExample\obj\Debug\ClassExample.pdb

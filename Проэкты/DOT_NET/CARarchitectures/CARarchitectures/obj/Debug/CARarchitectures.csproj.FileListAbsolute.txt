@@ -1,0 +1,12 @@
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\bin\Debug\CARarchitectures.exe.config
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\bin\Debug\CARarchitectures.exe
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\bin\Debug\CARarchitectures.pdb
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\bin\Debug\EntityFramework.dll
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\bin\Debug\EntityFramework.SqlServer.dll
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\bin\Debug\EntityFramework.xml
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\bin\Debug\EntityFramework.SqlServer.xml
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\obj\Debug\CARarchitectures.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\obj\Debug\CARarchitectures.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\obj\Debug\CARarchitectures.csproj.CopyComplete
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\obj\Debug\CARarchitectures.exe
+D:\Шаг\Проэкты\DOT_NET\CARarchitectures\CARarchitectures\obj\Debug\CARarchitectures.pdb

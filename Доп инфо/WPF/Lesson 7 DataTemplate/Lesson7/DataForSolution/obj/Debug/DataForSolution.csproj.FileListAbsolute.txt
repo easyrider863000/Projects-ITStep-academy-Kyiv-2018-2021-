@@ -1,0 +1,24 @@
+C:\WPF\Lesson 4 BaseControls\Lesson419p31\DataForSolution\bin\Debug\DataForSolution.dll
+C:\WPF\Lesson 4 BaseControls\Lesson419p31\DataForSolution\bin\Debug\DataForSolution.pdb
+C:\WPF\Lesson 4 BaseControls\Lesson419p31\DataForSolution\obj\Debug\DataForSolution.csprojAssemblyReference.cache
+C:\WPF\Lesson 4 BaseControls\Lesson419p31\DataForSolution\obj\Debug\DataForSolution.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 4 BaseControls\Lesson419p31\DataForSolution\obj\Debug\DataForSolution.dll
+C:\WPF\Lesson 4 BaseControls\Lesson419p31\DataForSolution\obj\Debug\DataForSolution.pdb
+C:\WPF\Lesson 6 Binding\Lesson6Binding\DataForSolution\bin\Debug\DataForSolution.dll
+C:\WPF\Lesson 6 Binding\Lesson6Binding\DataForSolution\bin\Debug\DataForSolution.pdb
+C:\WPF\Lesson 6 Binding\Lesson6Binding\DataForSolution\obj\Debug\DataForSolution.csprojAssemblyReference.cache
+C:\WPF\Lesson 6 Binding\Lesson6Binding\DataForSolution\obj\Debug\DataForSolution.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 6 Binding\Lesson6Binding\DataForSolution\obj\Debug\DataForSolution.dll
+C:\WPF\Lesson 6 Binding\Lesson6Binding\DataForSolution\obj\Debug\DataForSolution.pdb
+C:\WPF\Lesson 7 DataTemplate\Lesson7\DataForSolution\bin\Debug\DataForSolution.dll
+C:\WPF\Lesson 7 DataTemplate\Lesson7\DataForSolution\bin\Debug\DataForSolution.pdb
+C:\WPF\Lesson 7 DataTemplate\Lesson7\DataForSolution\obj\Debug\DataForSolution.csprojAssemblyReference.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\DataForSolution\obj\Debug\DataForSolution.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\DataForSolution\obj\Debug\DataForSolution.dll
+C:\WPF\Lesson 7 DataTemplate\Lesson7\DataForSolution\obj\Debug\DataForSolution.pdb
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\DataForSolution\bin\Debug\DataForSolution.dll
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\DataForSolution\bin\Debug\DataForSolution.pdb
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\DataForSolution\obj\Debug\DataForSolution.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\DataForSolution\obj\Debug\DataForSolution.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\DataForSolution\obj\Debug\DataForSolution.dll
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\DataForSolution\obj\Debug\DataForSolution.pdb

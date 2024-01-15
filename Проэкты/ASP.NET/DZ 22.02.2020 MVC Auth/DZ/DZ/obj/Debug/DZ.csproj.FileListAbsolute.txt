@@ -1,0 +1,593 @@
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\DZ.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\DZ.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\DZ.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\csc.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\csc.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\csc.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\csi.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\csi.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\csi.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.AppContext.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Collections.Immutable.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Console.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.IO.Compression.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.IO.FileSystem.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.IO.Pipes.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Reflection.Metadata.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Security.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Security.Claims.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.ValueTuple.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Xml.XPath.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\vbc.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\vbc.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\vbc.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\VBCSCompiler.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\roslyn\VBCSCompiler.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\EntityFramework.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\EntityFramework.SqlServer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\Microsoft.Web.Infrastructure.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Helpers.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Mvc.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Razor.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Webpages.Deployment.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Webpages.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Webpages.Razor.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\DAL_Paggination.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\EntityFramework.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\EntityFramework.SqlServer.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Razor.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Webpages.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Webpages.Deployment.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Webpages.Razor.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Helpers.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\System.Web.Mvc.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\obj\Debug\DZ.csproj.CopyComplete
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\obj\Debug\DZ.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DZ\obj\Debug\DZ.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\DZ.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\DZ.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\DZ.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\csc.exe
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\csc.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\csc.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\csi.exe
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\csi.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\csi.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.AppContext.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Collections.Immutable.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Console.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.IO.Compression.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.IO.FileSystem.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.IO.Pipes.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Reflection.Metadata.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Security.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Security.Claims.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.ValueTuple.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Xml.XPath.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\vbc.exe
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\vbc.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\vbc.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\VBCSCompiler.exe
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\roslyn\VBCSCompiler.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\EntityFramework.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\EntityFramework.SqlServer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\Microsoft.Web.Infrastructure.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Helpers.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Mvc.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Razor.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Webpages.Deployment.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Webpages.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Webpages.Razor.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\DAL_Paggination.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\EntityFramework.xml
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\EntityFramework.SqlServer.xml
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Razor.xml
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Webpages.xml
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Webpages.Deployment.xml
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Webpages.Razor.xml
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Helpers.xml
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\System.Web.Mvc.xml
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\obj\Debug\DZ.csproj.CopyComplete
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\obj\Debug\DZ.dll
+D:\Шаг\Проэкты\ASP.NET\DZ strongtyped\DZ\DZ\obj\Debug\DZ.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\DZ.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\DZ.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\DZ.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\csc.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\csc.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\csc.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\csi.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\csi.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\csi.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.AppContext.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Collections.Immutable.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Console.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.IO.Compression.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.IO.FileSystem.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.IO.Pipes.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Reflection.Metadata.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Security.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Security.Claims.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.ValueTuple.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Xml.XPath.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\vbc.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\vbc.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\vbc.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\VBCSCompiler.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\roslyn\VBCSCompiler.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\EntityFramework.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\EntityFramework.SqlServer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\Microsoft.Web.Infrastructure.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Helpers.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Mvc.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Razor.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Webpages.Deployment.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Webpages.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Webpages.Razor.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\DAL_Paggination.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\EntityFramework.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\EntityFramework.SqlServer.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Razor.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Webpages.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Webpages.Deployment.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Webpages.Razor.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Helpers.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\System.Web.Mvc.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\obj\Debug\DZ.csproj.CopyComplete
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\obj\Debug\DZ.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DZ\obj\Debug\DZ.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\DZ.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\DZ.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\DZ.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\csc.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\csc.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\csc.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\csi.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\csi.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\csi.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.AppContext.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Collections.Immutable.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Console.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.IO.Compression.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.IO.FileSystem.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.IO.Pipes.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Reflection.Metadata.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Security.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Security.Claims.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.ValueTuple.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Xml.XPath.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\vbc.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\vbc.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\vbc.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\VBCSCompiler.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\roslyn\VBCSCompiler.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\EntityFramework.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\EntityFramework.SqlServer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Microsoft.Web.Infrastructure.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Helpers.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Mvc.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Razor.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Webpages.Deployment.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Webpages.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Webpages.Razor.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\DAL_Paggination.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\EntityFramework.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\EntityFramework.SqlServer.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Razor.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Webpages.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Webpages.Deployment.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Webpages.Razor.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Helpers.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\System.Web.Mvc.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\obj\Debug\DZ.csproj.CopyComplete
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\obj\Debug\DZ.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\obj\Debug\DZ.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Ninject.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Ninject.Web.Common.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Ninject.Web.Common.WebHost.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Ninject.Web.Mvc.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Ninject.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Ninject.Web.Common.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Ninject.Web.Common.WebHost.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DZ\bin\Ninject.Web.Mvc.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\DZ.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\DZ.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\DZ.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\csc.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\csc.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\csc.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\csi.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\csi.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\csi.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.AppContext.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Collections.Immutable.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Console.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.IO.Compression.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.IO.FileSystem.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.IO.Pipes.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Reflection.Metadata.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Security.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Security.Claims.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.ValueTuple.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Xml.XPath.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\vbc.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\vbc.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\vbc.rsp
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\VBCSCompiler.exe
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\roslyn\VBCSCompiler.exe.config
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\EntityFramework.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\EntityFramework.SqlServer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Web.Infrastructure.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Ninject.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Ninject.Web.Common.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Ninject.Web.Common.WebHost.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Ninject.Web.Mvc.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Helpers.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Mvc.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Razor.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Webpages.Deployment.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Webpages.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Webpages.Razor.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\DAL_Paggination.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\EntityFramework.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\EntityFramework.SqlServer.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Ninject.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Ninject.Web.Common.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Ninject.Web.Common.WebHost.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Ninject.Web.Mvc.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Razor.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Webpages.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Webpages.Deployment.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Webpages.Razor.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Helpers.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Mvc.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\obj\Debug\DZ.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\obj\Debug\DZ.csproj.CopyComplete
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\obj\Debug\DZ.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\obj\Debug\DZ.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Win32.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\netstandard.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.AppContext.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Collections.Concurrent.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Collections.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Collections.NonGeneric.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Collections.Specialized.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.ComponentModel.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.ComponentModel.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.ComponentModel.TypeConverter.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Console.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Data.Common.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Diagnostics.Contracts.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Diagnostics.Debug.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Diagnostics.Process.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Diagnostics.StackTrace.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Diagnostics.Tools.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Diagnostics.TraceSource.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Diagnostics.Tracing.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Drawing.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Dynamic.Runtime.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Globalization.Calendars.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Globalization.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Globalization.Extensions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.Compression.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.Compression.ZipFile.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.FileSystem.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.FileSystem.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.FileSystem.Watcher.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.IsolatedStorage.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.MemoryMappedFiles.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.Pipes.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Linq.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Linq.Expressions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Linq.Parallel.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Linq.Queryable.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.Http.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.NameResolution.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.NetworkInformation.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.Ping.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.Requests.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.Security.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.Sockets.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.WebHeaderCollection.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.WebSockets.Client.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.WebSockets.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.ObjectModel.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Reflection.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Reflection.Extensions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Reflection.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Resources.Reader.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Resources.ResourceManager.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Resources.Writer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.Extensions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.Handles.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.InteropServices.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.Numerics.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.Serialization.Formatters.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.Serialization.Json.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.Serialization.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.Serialization.Xml.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.Claims.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.Cryptography.Algorithms.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.Cryptography.Csp.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.Cryptography.Encoding.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.Cryptography.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.Principal.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.SecureString.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Text.Encoding.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Text.Encoding.Extensions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Text.RegularExpressions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Threading.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Threading.Overlapped.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Threading.Tasks.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Threading.Tasks.Parallel.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Threading.Thread.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Threading.ThreadPool.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Threading.Timer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.ValueTuple.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Xml.ReaderWriter.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Xml.XDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Xml.XmlDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Xml.XmlSerializer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Xml.XPath.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Xml.XPath.XDocument.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Authentication.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Http.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Identity.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Configuration.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Identity.Core.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Logging.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Options.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Primitives.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.WebEncoders.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Net.Http.Headers.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Owin.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Owin.Security.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Win32.Registry.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Newtonsoft.Json.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Owin.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Buffers.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.ComponentModel.Annotations.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Memory.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.Http.Formatting.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Numerics.Vectors.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.AccessControl.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.Cryptography.Xml.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.Permissions.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Security.Principal.Windows.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Text.Encodings.Web.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Http.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Http.Owin.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Authentication.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Http.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.Identity.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Configuration.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Identity.Core.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Logging.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Options.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.Primitives.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Extensions.WebEncoders.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Net.Http.Headers.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Owin.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Owin.Security.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Newtonsoft.Json.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Buffers.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Memory.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Net.Http.Formatting.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Numerics.Vectors.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Text.Encodings.Web.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Http.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\System.Web.Http.Owin.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DZ\bin\Microsoft.Owin.Host.SystemWeb.xml

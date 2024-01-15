@@ -1,0 +1,43 @@
+﻿@model IEnumerable<DAL_Paggination.Good>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>GoodId</th>
+            <th>GoodName</th>
+            <th>ManufacturerId</th>
+            <th>CategoryId</th>
+            <th>Price</th>
+            <th>GoodCount</th>
+            <th>Button for delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var good in Model)
+        {
+            <tr>
+                <td>@good.GoodId</td>
+                <td>@good.GoodName</td>
+                <td>@good.ManufacturerId</td>
+                <td>@good.CategoryId</td>
+                <td>@good.Price</td>
+                <td>@good.GoodCount</td>
+                <td>
+                    @Ajax.ActionLink("Delete",
+                                          "Delete",
+                                          new { @id = good.GoodId, @type = "Good" },
+                                          new AjaxOptions { UpdateTargetId = "place" },
+                                          new { @class = ViewBag.good.IsInvolvedManufacturer(good.GoodId) ? "btn btn-danger disabled" : "btn btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div id="paging">
+    @for (int i = 0; i < ViewBag.PageCount; i++)
+    {
+        @Ajax.ActionLink($"{i + 1}", "TableGoods", new { id = @i + 1 }, new AjaxOptions { UpdateTargetId = "place" }, new { @class = "btn btn-success" })
+    }
+</div>
+
+

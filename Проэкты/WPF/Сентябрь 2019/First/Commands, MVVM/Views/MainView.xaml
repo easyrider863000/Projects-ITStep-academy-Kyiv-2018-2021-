@@ -1,0 +1,27 @@
+﻿<Window x:Class="Commands__MVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Commands__MVVM"
+        xmlns:vm="clr-namespace:Commands__MVVM.ViewModels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <ListBox Height="300" ItemsSource="{Binding Student}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="{Binding Name}"></Label>
+                            <Label Content="{Binding LastName}"></Label>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                
+            </ListBox>
+            <Button Command="{Binding AddCommand}">Add</Button>
+            <Button Command="{Binding RemoveCommand}">Remove</Button>
+        </StackPanel>
+    </Grid>
+</Window>

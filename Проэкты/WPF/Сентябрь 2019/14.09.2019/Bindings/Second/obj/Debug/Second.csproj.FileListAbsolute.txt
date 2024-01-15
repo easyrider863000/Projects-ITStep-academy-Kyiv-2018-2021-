@@ -1,0 +1,15 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\bin\Debug\Second.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\bin\Debug\Second.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\bin\Debug\Second.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\Second_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\Second_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\Second.g.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\Second.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\Second.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\Second.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Second\obj\Debug\Second.pdb

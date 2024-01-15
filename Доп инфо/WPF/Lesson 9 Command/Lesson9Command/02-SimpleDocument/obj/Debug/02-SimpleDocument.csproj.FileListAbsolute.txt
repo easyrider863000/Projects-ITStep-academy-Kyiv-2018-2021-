@@ -1,0 +1,60 @@
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.exe.config
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.exe
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.pdb
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csprojAssemblyReference.cache
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\App.g.cs
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument_MarkupCompile.cache
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument_MarkupCompile.lref
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.g.resources
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\_02_SimpleDocument.Properties.Resources.resources
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csproj.GenerateResource.cache
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.exe
+C:\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.pdb
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.exe.config
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.exe
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.pdb
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csprojAssemblyReference.cache
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\MainWindow.g.cs
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\App.g.cs
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument_MarkupCompile.cache
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument_MarkupCompile.lref
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\MainWindow.baml
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.g.resources
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\_02_SimpleDocument.Properties.Resources.resources
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csproj.GenerateResource.cache
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csproj.CoreCompileInputs.cache
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.exe
+Y:\Группы\!9п1_31\wpf\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.pdb
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.exe.config
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.exe
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.pdb
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.g.resources
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\_02_SimpleDocument.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.exe
+D:\Шаг\Доп инфо\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.pdb
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.exe.config
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.exe
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\bin\Debug\02-SimpleDocument.pdb
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument_MarkupCompile.cache
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument_MarkupCompile.lref
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.g.resources
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\_02_SimpleDocument.Properties.Resources.resources
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.exe
+D:\Шаг\Доп инфо\WPF\Lesson 9 Command\Lesson9Command\02-SimpleDocument\obj\Debug\02-SimpleDocument.pdb

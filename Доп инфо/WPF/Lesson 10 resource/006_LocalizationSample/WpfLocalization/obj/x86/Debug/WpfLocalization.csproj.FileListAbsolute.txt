@@ -1,0 +1,62 @@
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\bin\Debug\WpfLocalization.exe
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\bin\Debug\WpfLocalization.pdb
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\MainWindow.baml
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\MainWindow.g.cs
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\App.g.cs
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization_MarkupCompile.cache
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.g.resources
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.LocalizeResources.resources
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.Properties.Resources.resources
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.exe
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.pdb
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization_MarkupCompile.lref
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\bin\Debug\WpfLocalization.exe.config
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\bin\Debug\ru\WpfLocalization.resources.dll
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.LocalizeResources.ru.resources
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\ru\WpfLocalization.resources.dll
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\bin\Debug\en\WpfLocalization.resources.dll
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\bin\Debug\en-GB\WpfLocalization.resources.dll
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.LocalizeResources.en.resources
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.LocalizeResources.en-GB.resources
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\en\WpfLocalization.resources.dll
+D:\Work\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\en-GB\WpfLocalization.resources.dll
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\bin\Debug\WpfLocalization.exe.config
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.exe
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.pdb
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\MainWindow.g.cs
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\App.g.cs
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization_MarkupCompile.cache
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization_MarkupCompile.lref
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\bin\Debug\WpfLocalization.exe
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\bin\Debug\WpfLocalization.pdb
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\bin\Debug\ru\WpfLocalization.resources.dll
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\MainWindow.baml
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.g.resources
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.LocalizeResources.resources
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.Properties.Resources.resources
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.LocalizeResources.ru.resources
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.csproj.GenerateResource.Cache
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\ru\WpfLocalization.resources.dll
+D:\Lessons\WPF\009 Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.csprojResolveAssemblyReference.cache
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\bin\Debug\WpfLocalization.exe.config
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\bin\Debug\WpfLocalization.exe
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\bin\Debug\WpfLocalization.pdb
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\bin\Debug\ru\WpfLocalization.resources.dll
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.csprojAssemblyReference.cache
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\MainWindow.g.cs
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\App.g.cs
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization_MarkupCompile.cache
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization_MarkupCompile.lref
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\MainWindow.baml
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.g.resources
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.LocalizeResources.resources
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.Properties.Resources.resources
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.LocalizeResources.ru.resources
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.csproj.GenerateResource.cache
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\ru\WpfLocalization.resources.dll
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.exe
+C:\WPF\Lesson 10 Resource\009_Resources\009_Resources\006_LocalizationSample\WpfLocalization\obj\x86\Debug\WpfLocalization.pdb

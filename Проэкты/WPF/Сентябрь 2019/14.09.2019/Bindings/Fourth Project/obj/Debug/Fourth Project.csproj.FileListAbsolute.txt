@@ -1,0 +1,14 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\bin\Debug\Fourth Project.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\bin\Debug\Fourth Project.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\bin\Debug\Fourth Project.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\Fourth Project_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\Fourth Project_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\Fourth Project.g.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\Fourth_Project.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\Fourth Project.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\Fourth Project.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\Fourth Project.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fourth Project\obj\Debug\Fourth Project.pdb

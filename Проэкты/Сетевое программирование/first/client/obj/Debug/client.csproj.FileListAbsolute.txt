@@ -1,0 +1,7 @@
+D:\Шаг\Проэкты\Сетевое программирование\first\client\bin\Debug\client.exe.config
+D:\Шаг\Проэкты\Сетевое программирование\first\client\bin\Debug\client.exe
+D:\Шаг\Проэкты\Сетевое программирование\first\client\bin\Debug\client.pdb
+D:\Шаг\Проэкты\Сетевое программирование\first\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\Сетевое программирование\first\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\Сетевое программирование\first\client\obj\Debug\client.exe
+D:\Шаг\Проэкты\Сетевое программирование\first\client\obj\Debug\client.pdb

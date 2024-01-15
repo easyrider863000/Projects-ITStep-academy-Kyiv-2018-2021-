@@ -1,0 +1,7 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\First\Commands, MVVM\obj\Debug\Commands, MVVM.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\First\Commands, MVVM\obj\Debug\Views\MainView.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\First\Commands, MVVM\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\First\Commands, MVVM\obj\Debug\Commands, MVVM_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\First\Commands, MVVM\obj\Debug\Commands, MVVM_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\First\Commands, MVVM\obj\Debug\Commands, MVVM.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\First\Commands, MVVM\obj\Debug\Commands, MVVM.pdb

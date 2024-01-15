@@ -1,0 +1,32 @@
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\bin\Debug\Lesson_2.ICommand.exe.config
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\bin\Debug\Lesson_2.ICommand.exe
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\bin\Debug\Lesson_2.ICommand.pdb
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Lesson 2. ICommand.csprojAssemblyReference.cache
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Views\MainView.g.cs
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\App.g.cs
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand_MarkupCompile.cache
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand_MarkupCompile.lref
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Views\MainView.baml
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand.g.resources
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand.Properties.Resources.resources
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Lesson 2. ICommand.csproj.GenerateResource.cache
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Lesson 2. ICommand.csproj.CoreCompileInputs.cache
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand.exe
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand.pdb
+D:\Projects\Lesson 2. ICommand\Lesson 2. ICommand\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\bin\Debug\Lesson_2.ICommand.exe.config
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\bin\Debug\Lesson_2.ICommand.exe
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\bin\Debug\Lesson_2.ICommand.pdb
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Lesson 2. ICommand.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Views\MainView.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand_MarkupCompile.cache
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand_MarkupCompile.lref
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Views\MainView.baml
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand.g.resources
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand.Properties.Resources.resources
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Lesson 2. ICommand.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Lesson 2. ICommand.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand.exe
+D:\Шаг\Доп инфо\WPF\Lesson 4. ICommand\Lesson 2. ICommand\obj\Debug\Lesson_2.ICommand.pdb

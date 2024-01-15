@@ -1,0 +1,15 @@
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\bin\Debug\03-DynamicResources.exe.config
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\bin\Debug\03-DynamicResources.exe
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\bin\Debug\03-DynamicResources.pdb
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\03-DynamicResources.csprojAssemblyReference.cache
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\App.g.cs
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\03-DynamicResources_MarkupCompile.cache
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\03-DynamicResources_MarkupCompile.lref
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\03-DynamicResources.g.resources
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\_03_DynamicResources.Properties.Resources.resources
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\03-DynamicResources.csproj.GenerateResource.cache
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\03-DynamicResources.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\03-DynamicResources.exe
+C:\WPF\Lesson 10 Resource\Lesson10\03-DynamicResources\obj\Debug\03-DynamicResources.pdb

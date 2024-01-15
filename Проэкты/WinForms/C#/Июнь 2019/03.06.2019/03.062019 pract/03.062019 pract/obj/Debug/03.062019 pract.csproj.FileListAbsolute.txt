@@ -1,0 +1,22 @@
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\bin\Debug\03.062019 pract.exe.config
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\bin\Debug\03.062019 pract.exe
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\bin\Debug\03.062019 pract.pdb
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\obj\Debug\03.062019 pract.csprojAssemblyReference.cache
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\obj\Debug\_03._062019_pract.Form1.resources
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\obj\Debug\_03._062019_pract.Properties.Resources.resources
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\obj\Debug\03.062019 pract.csproj.GenerateResource.cache
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\obj\Debug\03.062019 pract.csproj.CoreCompileInputs.cache
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\obj\Debug\03.062019 pract.exe
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\obj\Debug\03.062019 pract.pdb
+C:\03.06.2019 all\03.062019 pract\03.062019 pract\obj\Debug\_03._062019_pract.Form2.resources
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\bin\Debug\03.062019 pract.exe.config
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\bin\Debug\03.062019 pract.exe
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\bin\Debug\03.062019 pract.pdb
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\obj\Debug\03.062019 pract.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\obj\Debug\_03._062019_pract.Form1.resources
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\obj\Debug\_03._062019_pract.Form2.resources
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\obj\Debug\_03._062019_pract.Properties.Resources.resources
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\obj\Debug\03.062019 pract.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\obj\Debug\03.062019 pract.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\obj\Debug\03.062019 pract.exe
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\03.06.2019\03.062019 pract\03.062019 pract\obj\Debug\03.062019 pract.pdb

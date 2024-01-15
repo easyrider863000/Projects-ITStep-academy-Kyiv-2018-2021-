@@ -1,0 +1,40 @@
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\bin\Debug\04-ApplicationResource.exe.config
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\bin\Debug\04-ApplicationResource.exe
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\bin\Debug\04-ApplicationResource.pdb
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.csprojAssemblyReference.cache
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\Window1.g.cs
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\Window2.g.cs
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\App.g.cs
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource_MarkupCompile.cache
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource_MarkupCompile.lref
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\App.baml
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\Window1.baml
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\Window2.baml
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.g.resources
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\_04_ApplicationResource.Properties.Resources.resources
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.csproj.GenerateResource.cache
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.exe
+C:\WPF\Lesson 10 Resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.pdb
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\bin\Debug\04-ApplicationResource.exe.config
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\bin\Debug\04-ApplicationResource.exe
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\bin\Debug\04-ApplicationResource.pdb
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\Window1.g.cs
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\Window2.g.cs
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\App.baml
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\Window1.baml
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\Window2.baml
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.g.resources
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\_04_ApplicationResource.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.exe
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\04-ApplicationResource\obj\Debug\04-ApplicationResource.pdb

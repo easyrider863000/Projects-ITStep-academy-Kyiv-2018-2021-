@@ -1,0 +1,36 @@
+<div *ngIf="!loading">
+
+    <div class="filter">
+        <input 
+            id="filter-box" 
+            type="text" 
+            placeholder="Введите условие фильтрации"
+            [(ngModel)]="filters">
+    </div>
+    <hr>
+
+    <table id="table1" *ngIf="todosService.tasks.length; else noTasks">
+        <tr>
+            <th>№</th>
+            <th>Задача</th>
+            <th>Дата</th>
+            <th>Статус</th>
+            <th>Отмена</th>
+        </tr>
+        <tr *ngFor="let task of todosService.tasks | todosFilter:filters; let i = index">
+            <td>{{ i + 1 }}</td>
+            <td [class.done]="task.completed">{{ task.title }}</td>
+            <td [class.done]="task.completed">{{ task.date }}</td>
+            <td><input type="checkbox" [checked]="task.completed" (change)="onChange(task.id)"></td>
+            <td><button (click)="delTask(task.id)">&times;</button></td>
+        </tr>
+    </table>
+
+    <ng-template #noTasks>
+        <h3>Not any tasks now!</h3>
+    </ng-template>
+</div>
+
+<div *ngIf="loading">
+    <h5>Loading ...</h5>
+</div>

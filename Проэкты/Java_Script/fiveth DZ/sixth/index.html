@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body style="background-color: wheat;">
+    <div id="choose">
+        <div>
+            <span>Direction: </span>
+            <select id="dir" style="width: 150px;"></select>
+            <span> Date: </span>
+            <input type="date" style="width: 150px;" id="date">
+            <button id="search" style="width: 150px;">Search</button>
+        </div>
+        <div id="places">
+            <hr>
+            <table border="1">
+                <tr>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>3</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>1</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>5</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>7</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>9</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>11</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>13</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>15</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>17</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>19</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>21</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>23</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>25</label></td>
+                    <td style="width: 37px;"><input name="check" type="checkbox"><label>27</label></td>
+                </tr>
+                <tr>
+                    <td><input name="check" type="checkbox"><label>2</label></td>
+                    <td><input name="check" type="checkbox"><label>4</label></td>
+                    <td><input name="check" type="checkbox"><label>6</label></td>
+                    <td><input name="check" type="checkbox"><label>8</label></td>
+                    <td><input name="check" type="checkbox"><label>10</label></td>
+                    <td><input name="check" type="checkbox"><label>12</label></td>
+                    <td><input name="check" type="checkbox"><label>14</label></td>
+                    <td><input name="check" type="checkbox"><label>16</label></td>
+                    <td><input name="check" type="checkbox"><label>18</label></td>
+                    <td><input name="check" type="checkbox"><label>10</label></td>
+                    <td><input name="check" type="checkbox"><label>22</label></td>
+                    <td><input name="check" type="checkbox"><label>24</label></td>
+                    <td><input name="check" type="checkbox"><label>26</label></td>
+                    <td><input name="check" type="checkbox"><label>28</label></td>
+                </tr>
+            </table>
+            <hr>
+            <div style="text-align: center;">Total price <b><span id="price">0</span></b> $ <button style="width: 150px;" id="book">Book</button></div>
+        </div>
+    </div>
+    <div id="result">
+            <h4>My tickets:</h4>
+            <table id="last-table" border="1">
+                <tr>
+                    <th>Direction</th>
+                    <th>Date</th>
+                    <th>Seat</th>
+                </tr>
+            </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CarsArchitecureModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BodyTypeDB">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BodyName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CarDB">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="4000" Nullable="false" />
+    <Property Name="Model" Type="nvarchar" MaxLength="4000" Nullable="false" />
+    <Property Name="CurrentPhotoId" Type="int" />
+    <Property Name="IdCountryManufacturer" Type="int" />
+    <Property Name="IdBodyType" Type="int" />
+    <Property Name="Mass" Type="int" Nullable="false" />
+    <Property Name="EngineCapacity" Type="float" Nullable="false" />
+    <Property Name="Power" Type="int" Nullable="false" />
+    <Property Name="YearOfIssue" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CountryManufacturerDB">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ManufacturerName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PhotoDB">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PhotoPath" Type="nvarchar" MaxLength="4000" />
+    <Property Name="CarId" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__CarDB__IdBodyTyp__3C69FB99">
+    <End Role="BodyTypeDB" Type="Self.BodyTypeDB" Multiplicity="0..1" />
+    <End Role="CarDB" Type="Self.CarDB" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BodyTypeDB">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CarDB">
+        <PropertyRef Name="IdBodyType" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CarDB__IdCountry__3B75D760">
+    <End Role="CountryManufacturerDB" Type="Self.CountryManufacturerDB" Multiplicity="0..1" />
+    <End Role="CarDB" Type="Self.CarDB" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CountryManufacturerDB">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CarDB">
+        <PropertyRef Name="IdCountryManufacturer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PhotoDB__CarId__3F466844">
+    <End Role="CarDB" Type="Self.CarDB" Multiplicity="0..1" />
+    <End Role="PhotoDB" Type="Self.PhotoDB" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CarDB">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PhotoDB">
+        <PropertyRef Name="CarId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CarsArchitecureModelStoreContainer">
+    <EntitySet Name="BodyTypeDB" EntityType="Self.BodyTypeDB" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CarDB" EntityType="Self.CarDB" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CountryManufacturerDB" EntityType="Self.CountryManufacturerDB" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhotoDB" EntityType="Self.PhotoDB" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__CarDB__IdBodyTyp__3C69FB99" Association="Self.FK__CarDB__IdBodyTyp__3C69FB99">
+      <End Role="BodyTypeDB" EntitySet="BodyTypeDB" />
+      <End Role="CarDB" EntitySet="CarDB" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CarDB__IdCountry__3B75D760" Association="Self.FK__CarDB__IdCountry__3B75D760">
+      <End Role="CountryManufacturerDB" EntitySet="CountryManufacturerDB" />
+      <End Role="CarDB" EntitySet="CarDB" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PhotoDB__CarId__3F466844" Association="Self.FK__PhotoDB__CarId__3F466844">
+      <End Role="CarDB" EntitySet="CarDB" />
+      <End Role="PhotoDB" EntitySet="PhotoDB" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,15 @@
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\bin\Debug\05-CheckBox.exe.config
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\bin\Debug\05-CheckBox.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\bin\Debug\05-CheckBox.pdb
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\05-CheckBox.csprojAssemblyReference.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\App.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\05-CheckBox_MarkupCompile.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\05-CheckBox_MarkupCompile.lref
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\05-CheckBox.g.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\_05_CheckBox.Properties.Resources.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\05-CheckBox.csproj.GenerateResource.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\05-CheckBox.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\05-CheckBox.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\05-CheckBox\obj\Debug\05-CheckBox.pdb

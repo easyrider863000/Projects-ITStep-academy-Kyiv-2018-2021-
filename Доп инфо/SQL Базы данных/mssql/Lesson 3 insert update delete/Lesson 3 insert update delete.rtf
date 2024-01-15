@@ -1,0 +1,195 @@
+{\rtf1\ansi\ansicpg1251\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset204 Times New Roman;}{\f1\fnil\fcharset0 Times New Roman;}{\f2\fnil\fcharset204 Arial Black;}{\f3\fnil\fcharset0 Arial Black;}{\f4\fnil\fcharset0 Courier New;}{\f5\fnil\fcharset0 Calibri;}{\f6\fnil\fcharset204 Calibri;}{\f7\fnil\fcharset204 Courier New;}{\f8\fnil Calibri;}{\f9\fnil\fcharset2 Symbol;}}
+{\colortbl ;\red79\green129\blue189;\red0\green0\blue255;\red0\green128\blue128;\red128\green128\blue128;\red255\green0\blue255;\red255\green0\blue0;\red0\green128\blue0;}
+{\*\generator Riched20 10.0.18362}\viewkind4\uc1 
+\pard\sl240\slmult1\f0\fs22\lang1049\'d7\'f2\'ee \'f2\'e0\'ea\'ee\'e5 \'e4\'ee\'ec\'e5\'ed; \'ce\'f2\'ed\'ee\'f8\'e5\'ed\'e8\'e5; \'ca\'ee\'f0\'f2\'e5\'e6; \'cd\'ee\'f0\'ec\'e0\'eb\'fc\'ed\'e0\'ff \'f4\'ee\'f0\'ec\'e0?\par
+\'d7\'f2\'ee \'f2\'e0\'ea\'ee\'e5 \'ef\'e5\'f0\'e2\'e8\'f7\'ed\'fb\'e9 \'ea\'eb\'fe\'f7 \'e8 \'f7\'f2\'ee \'f2\'e0\'ea\'ee\'e5 \'e2\'ed\'e5\'f8\'ed\'e8\'e9 \'ea\'eb\'fe\'f7?\par
+\'d7\'f2\'ee \'f2\'e0\'ea\'ee\'e5 \'ed\'ee\'f0\'ec\'e0\'eb\'e8\'e7\'e0\'f6\'e8\'ff \'c1\'c4? \'d7\'f2\'ee \'f2\'e0\'ea\'ee\'e5 \'e4\'e5\'ed\'ee\'f0\'ec\'e0\'eb\'e8\'e7\'e0\'f6\'e8\'ff \'c1\'c4? \'c4\'eb\'ff \'f7\'e5\'e3\'ee \'ee\'ed\'e0 \'ed\'f3\'e6\'ed\'e0?\par
+\'ca\'e0\'ea\'e8\'e5 \'f2\'e8\'ef\'fb \'f1\'ee\'e5\'e4\'e8\'ed\'e5\'ed\'e8\'e9 (join) \'f2\'e0\'e1\'eb\'e8\'f6 \'f1\'f3\'f9\'e5\'f1\'f2\'e2\'f3\'fe\'f2? \'c2 \'f7\'e5\'ec \'e8\'f5 \'f0\'e0\'e7\'ed\'e8\'f6\'e0?\par
+\'c2 \'f7\'e5\'ec \'f0\'e0\'e7\'ed\'e8\'f6\'e0 \'ec\'e5\'e6\'e4\'f3 WHERE \'e8 HAVING?\par
+\'d7\'f2\'ee \'f2\'e0\'ea\'ee\'e5 \'ef\'ee\'e4\'e7\'e0\'ef\'f0\'ee\'f1 (sub-query)?\par
+\f1\lang9 ORDER BY\par
+CAST, CONVERT\par
+\f0\lang1049\'ca\'e0\'ea \'ee\'e1\'fa\'ff\'e2\'eb\'ff\'e5\'f2\'f1\'ff \'ef\'e5\'f0\'e5\'ec\'e5\'ed\'ed\'e0\'ff\par
+
+\pard\sa200\sl276\slmult1\f1\lang9\par
+
+\pard\fi-321\li20\sl240\slmult1\cf1\b\f2\fs24\lang1049\'cc\'ee\'e4\'e8\'f4\'e8\'ea\'e0\'f6\'e8\'ff \'e4\'e0\'ed\'ed\'fb\'f5\par
+\f3\lang9\par
+
+\pard\sl240\slmult1\cf2\b0\f4\fs20 create\cf0  \cf2 table\cf0  \cf3 Good\par
+\cf4 (\par
+\cf0   \cf3 GoodId\cf0  \cf2 int\cf0  \cf4 not\cf0  \cf4 null\cf0  \cf2 identity\cf4 (\cf0 1\cf4 ,\cf0 1\cf4 )\cf0  \cf2 primary\cf0  \cf2 key\cf4 ,\par
+\cf0   \cf3 NameGood\cf0  \cf2 varchar\cf4 (\cf0 100\cf4 )\cf0  \cf4 not\cf0  \cf4 null,\par
+\cf0   \cf3 DateReceipt\cf0  \cf2 Date\cf0  \cf4 not\cf0  \cf4 null\cf0  \cf2 default\cf0  \cf5 GetDate\cf4 (),\par
+\cf0   \cf3 Price\cf0  \cf2 money\cf0  \cf4 not\cf0  \cf4 null\cf0  \cf2 default\cf0  0\par
+
+\pard\fi-321\li20\sl240\slmult1\cf4\b )\par
+
+\pard\fi-468\li100\sl240\slmult1\cf1\f3 INSERT INTO    \par
+
+\pard\fi-321\li20\sl240\slmult1\cf4\f4    \par
+
+\pard\sl240\slmult1\cf2\b0 SET\cf0  \cf2 NOCOUNT\cf0  \cf2 ON\cf4 ;\par
+\cf2 INSERT\cf0  \cf2 INTO\cf0  \cf3 Good\cf2  \cf4 (\cf3 NameGood, \cf4 )\cf0  \par
+\cf2 VALUES\cf4 (\cf6 'Chai'\cf4 );\par
+\cf2 SET\cf0  \cf2 NOCOUNT\cf0  \cf2 OFF\cf4 ;\par
+
+\pard\fi-321\li20\sl240\slmult1\b\par
+
+\pard\sl240\slmult1\cf2\b0 SET\cf0  \cf2 NOCOUNT\cf0  \cf2 ON\cf4 ;\par
+\cf2 INSERT\cf0  \cf2 INTO\cf0  \cf3 Good\cf2  \cf4 (\cf3 NameGood\cf4 )\cf0  \par
+\cf2 VALUES\cf4 (\cf6 'Chai'\cf4 ),(\cf6 'Milk'\cf4 ),(\cf6 'Coffee'\cf4 )\cf0  \cf4 ;\par
+\cf2 SET\cf0  \cf2 NOCOUNT\cf0  \cf2 OFF\cf4 ;\par
+\par
+\par
+\cf2 SET\cf0  \cf2 DATEFORMAT\cf0  \cf3 dmy\cf4 ;\cf2  --\cf0\f5\fs22  \f6\lang1049\'f4\'ee\'f0\'ec\'e0\'f2 \'e4\'e0\'f2\'fb \'e4\'e4.\'ec\'ec.\'e3\'e3\'e3\'e3\cf4\f7\fs20\par
+\cf2\f4\lang9 SET\cf0  \cf2 NOCOUNT\cf0  \cf2 ON\cf4 ;\par
+\par
+\cf2 INSERT\cf0  \cf2 INTO\cf0  \cf3 Good\cf2  \cf4 (\cf3 NameGood\cf4 ,\cf3 DateReceipt\cf4 ,\cf0  \cf3 Price\cf0  \cf4 )\cf0  \par
+\cf2 VALUES\par
+\cf4 (\cf6 'Chai'\cf4 ,\cf0  \cf6 '01.12.2014'\cf4 ,\cf0  33.77\cf4 ),\par
+(\cf6 'Chai'\cf4 ,\cf0  \cf6 '21.12.2014'\cf4 ,\cf0  37.\cf4 ),\par
+(\cf6 'Chai'\cf4 ,\cf0  \cf6 '31.12.2014'\cf4 ,\cf0  39\cf4 ),\par
+(\cf6 'Chai'\cf4 ,\cf0  \cf6 '09.01.2015'\cf4 ,\cf0  41\cf4 ),\par
+(\cf6 'Chai'\cf4 ,\cf0  \cf6 '23.02.2015'\cf4 ,\cf0  44\cf4 )\par
+\par
+\cf2 SET\cf0  \cf2 NOCOUNT\cf0  \cf2 OFF\cf4 ;\par
+\cf0\f5\fs22\par
+\f6\lang1049\'d4\'f3\'ed\'ea\'f6\'e8\'ff IDENT_CURRENT \'e0\'ed\'e0\'eb\'ee\'e3\'e8\'f7\'ed\'e0 \'f4\'f3\'ed\'ea\'f6\'e8\'ff\'ec \'e8\'e4\'e5\'ed\'f2\'e8\'f4\'e8\'ea\'e0\'f2\'ee\'f0\'ee\'e2 SQL Server 2000 SCOPE_IDENTITY \'e8 @@IDENTITY. \'c2\'f1\'e5 \'f2\'f0\'e8 \'f4\'f3\'ed\'ea\'f6\'e8\'e8 \'e2\'ee\'e7\'e2\'f0\'e0\'f9\'e0\'fe\'f2 \'f1\'ee\'e7\'e4\'e0\'ed\'ed\'fb\'ec\'e8 \'ef\'ee\'f1\'eb\'e5\'e4\'ed\'e8\'ec\'e8 \'e7\'ed\'e0\'f7\'e5\'ed\'e8\'ff \'e8\'e4\'e5\'ed\'f2\'e8\'f4\'e8\'ea\'e0\'f2\'ee\'f0\'ee\'e2. \'ce\'e4\'ed\'e0\'ea\'ee \'fd\'f2\'e8 \'f4\'f3\'ed\'ea\'f6\'e8\'e8 \'f0\'e0\'e7\'eb\'e8\'f7\'e0\'fe\'f2\'f1\'ff \'ee\'e1\'eb\'e0\'f1\'f2\'fc\'fe \'e4\'e5\'e9\'f1\'f2\'e2\'e8\'ff \'e8 \'f1\'e5\'e0\'ed\'f1\'ee\'ec, \'e2 \'f1\'ee\'ee\'f2\'e2\'e5\'f2\'f1\'f2\'e2\'e8\'e8 \'f1 \'ea\'ee\'f2\'ee\'f0\'fb\'ec\'e8 \'ee\'ef\'f0\'e5\'e4\'e5\'eb\'ff\'e5\'f2\'f1\'ff \'f2\'e5\'f0\'ec\'e8\'ed last. \par
+
+\pard{\pntext\f9\'B7\tab}{\*\pn\pnlvlblt\pnf9\pnindent360{\pntxtb\'B7}}\fi-360\li720\sl240\slmult1\f5\lang9 IDENT_CURRENT \f6\lang1049\'e2\'ee\'e7\'e2\'f0\'e0\'f9\'e0\'e5\'f2 \'ef\'ee\'f1\'eb\'e5\'e4\'ed\'e5\'e5 \'e7\'ed\'e0\'f7\'e5\'ed\'e8\'e5 \'e8\'e4\'e5\'ed\'f2\'e8\'f4\'e8\'f6\'e8\'f0\'f3\'fe\'f9\'e5\'e3\'ee \'f1\'f2\'ee\'eb\'e1\'f6\'e0, \'f1\'ee\'e7\'e4\'e0\'ed\'ed\'ee\'e5 \'e4\'eb\'ff \'ea\'ee\'ed\'ea\'f0\'e5\'f2\'ed\'ee\'e9 \'f2\'e0\'e1\'eb\'e8\'f6\'fb \'e2 \'eb\'fe\'e1\'ee\'ec \'f1\'e5\'e0\'ed\'f1\'e5 \'e8 \'ee\'e1\'eb\'e0\'f1\'f2\'e8 \'ef\'ee\'e8\'f1\'ea\'e0. \par
+{\pntext\f9\'B7\tab}\f5\lang9 @@IDENTITY \f6\lang1049\'e2\'ee\'e7\'e2\'f0\'e0\'f9\'e0\'e5\'f2 \'ef\'ee\'f1\'eb\'e5\'e4\'ed\'e5\'e5 \'e7\'ed\'e0\'f7\'e5\'ed\'e8\'e5 \'e8\'e4\'e5\'ed\'f2\'e8\'f4\'e8\'ea\'e0\'f2\'ee\'f0\'e0, \'f1\'ee\'e7\'e4\'e0\'ed\'ed\'ee\'e5 \'e4\'eb\'ff \'eb\'fe\'e1\'ee\'e9 \'f2\'e0\'e1\'eb\'e8\'f6\'fb \'e2 \'f2\'e5\'ea\'f3\'f9\'e5\'ec \'f1\'e5\'e0\'ed\'f1\'e5 \'ef\'ee \'e2\'f1\'e5\'ec \'ee\'e1\'eb\'e0\'f1\'f2\'ff\'ec \'ef\'ee\'e8\'f1\'ea\'e0. \par
+{\pntext\f9\'B7\tab}\f5\lang9 SCOPE_IDENTITY \f6\lang1049\'e2\'ee\'e7\'e2\'f0\'e0\'f9\'e0\'e5\'f2 \'ef\'ee\'f1\'eb\'e5\'e4\'ed\'e5\'e5 \'e7\'ed\'e0\'f7\'e5\'ed\'e8\'e5 \'e8\'e4\'e5\'ed\'f2\'e8\'f4\'e8\'ea\'e0\'f2\'ee\'f0\'e0, \'f1\'ee\'e7\'e4\'e0\'ed\'ed\'ee\'e5 \'e4\'eb\'ff \'eb\'fe\'e1\'ee\'e9 \'f2\'e0\'e1\'eb\'e8\'f6\'fb \'e2 \'f2\'e5\'ea\'f3\'f9\'e5\'ec \'f1\'e5\'e0\'ed\'f1\'e5 \'ef\'ee \'f2\'e5\'ea\'f3\'f9\'e5\'e9 \'ee\'e1\'eb\'e0\'f1\'f2\'e8 \'ef\'ee\'e8\'f1\'ea\'e0. \par
+
+\pard\sl240\slmult1\'c5\'f1\'eb\'e8 \'e7\'ed\'e0\'f7\'e5\'ed\'e8\'e5 IDENT_CURRENT \'f0\'e0\'e2\'ed\'ee NULL (\'ef\'ee\'f2\'ee\'ec\'f3 \'f7\'f2\'ee \'f2\'e0\'e1\'eb\'e8\'f6\'e0 \'ed\'e8\'ea\'ee\'e3\'e4\'e0 \'ed\'e5 \'f1\'ee\'e4\'e5\'f0\'e6\'e0\'eb\'e0 \'f1\'f2\'f0\'ee\'ea \'e8\'eb\'e8 \'e1\'fb\'eb\'e0 \'f3\'f1\'e5\'f7\'e5\'ed\'e0), \'f4\'f3\'ed\'ea\'f6\'e8\'ff IDENT_CURRENT \'e2\'ee\'e7\'e2\'f0\'e0\'f9\'e0\'e5\'f2 \'ed\'e0\'f7\'e0\'eb\'fc\'ed\'ee\'e5 \'e7\'ed\'e0\'f7\'e5\'ed\'e8\'e5. \par
+\f5\lang9\par
+\cf2\f4\fs20 SELECT\cf0  \cf5 @@IDENTITY\cf4 ;\par
+\cf2 SELECT\cf0  \cf5 IDENT_CURRENT\cf4 (\cf0  \cf6 'dbo.Good'\cf0  \cf4 )\par
+\cf2 SELECT\cf0  \cf5 SCOPE_IDENTITY\cf4 ();\par
+\cf0\f5\fs22\par
+\f6\lang1049\'c5\'f1\'eb\'e8 \'f1\'e2\'ee\'e9\'f1\'f2\'e2\'ee(\'ee\'e3\'f0\'e0\'ed\'e8\'f7\'e5\'ed\'e8\'e5)\cf2\f7\fs20  identity\cf4 (\cf0 1\cf4 ,\cf0 1\cf4 )\cf0\f6\fs22\'ed\'e5 \'e7\'e0\'e4\'e0\'ed\'ee \'ef\'f0\'e8 \'ee\'e1\'fa\'ff\'e2\'eb\'e5\'ed\'e8\'e8 \'ef\'ee\'eb\'ff \'ef\'f0\'e8 \'f1\'ee\'e7\'e4\'e0\'ed\'e8\'e8 \'f2\'e0\'e1\'eb\'e8\'f6\'fb, \'f2\'ee \'e4\'ee\'e1\'e0\'e2\'e8\'f2\'fc \'e5\'e3\'ee \'ea \'ef\'ee\'eb\'fe \'f1 \'ef\'ee\'ec\'ee\'f9\'fc\'fe \cf2\f7\fs20 ALTER\cf0  \cf2 TABLE \cf0\f6\fs22\'ed\'e5\'e2\'ee\'e7\'ec\'ee\'e6\'ed\'ee!!!  \'cc\'ee\'e6\'ed\'ee \'f2\'ee\'eb\'fc\'ea\'ee \'e4\'ee\'e2\'e8\'f2\'fc \'cd\'ce\'c2\'ce\'c5 \'ef\'ee\'eb\'e5 \'f1 \'fd\'f2\'e8\'ec \'f1\'e2\'ee\'e9\'f1\'f2\'e2\'ee\'ec, \'e0 \'f1\'f2\'e0\'f0\'ee\'e5 \'f3\'e4\'e0\'eb\'e8\'f2\'fc. \'cc\'ee\'e6\'ed\'ee \'ee\'f2\'ea\'eb\'fe\'f7\'e8\'f2\'fc \'f1\'e2\'ee\'e9\'f1\'f2\'e2\'ee\'85\par
+\cf2\f4\fs20\lang9 SET\cf0  \cf2 IDENTITY_INSERT\cf0  \cf3 dbo\cf4 .\cf3 Good\cf0  \cf2 ON--\f7\lang1049\'ee\'f2\'ea\'eb\'fe\'f7\'e8\'f2\'fc\par
+\cf0\f5\fs22\lang9\'85\cf2\f4\fs20\par
+SET\cf0  \cf2 IDENTITY_INSERT\cf0  \cf3 dbo\cf4 .\cf3 Good\cf0  \cf2 OFF--\f7\lang1049\'e2\'ea\'eb\'fe\'f7\'e8\'f2\'fc\cf4\par
+
+\pard\fi-468\li100\sl240\slmult1\cf1\b\f3\lang9 INSERT SELECT\par
+
+\pard\sl240\slmult1\cf2\b0\f4 insert\cf0  \cf2 into\cf0  \cf3 Good\cf2  \cf4 (\cf3 NameGood\cf4 ,\cf0  \cf3 Price\cf4 )\par
+\cf2 select\cf0  \cf3 productname\cf4 ,\cf0  \cf3 unitprice\cf0  \cf2 from\cf0  \cf3 Production\cf4 .\cf3 Products\cf0\f5\fs22   \par
+-\f6\lang1049\'e7\'ed\'e0\'f7\'e5\'ed\'e8\'ff \'e2\'fb\'e1\'e8\'f0\'e0\'fe\'f2\'f1\'ff \'e8\'e7 \'f1\'f3\'f9\'e5\'f1\'f2\'e2\'f3\'f9\'e5\'e9 \'f2\'e0\'e1\'eb\'e8\'f6\'fb.\cf3\f7\fs20\par
+\f4\lang9\par
+
+\pard\fi-468\li100\sl240\slmult1\cf1\b\f3 SELECT INTO \par
+
+\pard\sl240\slmult1\cf0\b0\f6\fs22\lang1049\'cd\'e5\'f1\'f2\'e0\'ed\'e4\'e0\'f0\'f2\'ed\'e0\'ff \'e8\'ed\'f1\'f2\'f0\'f3\'ea\'f6\'e8\'ff \'ff\'e7\'fb\'ea\'e0 T SQL. \par
+\cf2\f4\fs20\lang9 if\cf0  \cf5 OBJECT_ID\cf4 (\cf6 'dbo.Orders'\cf4 )\cf0   \cf4 IS\cf0  \cf4 NOT\cf0  \cf4 NULL\cf0  \cf2 DROP\cf0  \cf2 TABLE\cf0  \cf3 dbo\cf4 .\cf3 Orders\cf4 ;\par
+\cf2 SELECT\cf0      \cf3 orderid\cf4 ,\cf0  \cf3 custid\cf4 ,\cf0  \cf3 empid\cf4 ,\cf0  \cf3 orderdate\cf4 ,\cf0  \cf3 requireddate\cf4 ,\cf0  \cf3 shippeddate\cf4 ,\cf0  \cf3 shipperid\cf4 ,\cf0  \par
+\cf3 freight\cf4 ,\cf0  \cf3 shipname\cf4 ,\cf0  \cf3 shipaddress\cf4 ,\cf0  \cf3 shipcity\cf4 ,\cf0  \cf3 shipregion\cf4 ,\cf0  \cf3 shippostalcode\cf4 ,\cf0  \cf3 shipcountry\par
+\cf2 INTO\cf0  \cf3 dbo\cf4 .\cf3 Orders\par
+\cf2 FROM\cf0          \cf3 Sales\cf4 .\cf3 Orders;\cf0\f5\fs22\par
+\f6\lang1049\'d1\'ee\'e7\'e0\'e5\'f2\'f1\'ff \'f2\'e0\'e1\'eb\'e8\'f6\'e0 \cf6\f7\fs20 dbo.Orders \cf0\f6\fs22\'ef\'f0\'e0\'e2\'e4\'e0 \'e1\'e5\'e7 \'ef\'e5\'f0\'e2\'e8\'f7\'ed\'ee\'e3\'ee \'e8 \'ef\'f0\'ee\'f7\'e8\'f5 \'ea\'eb\'fe\'f7\'e5\'e9.\par
+\f5\lang9\par
+\b\i\f6\lang1049\'c7\'e0\'e4\'e0\'ed\'e8\'e5\par
+\b0\i0\'cd\'e0\'ef\'e8\'f1\'e0\'f2\'fc \'e7\'e0\'ef\'f0\'ee\'f1\'fb, \'ea\'ee\'f2\'ee\'f0\'fb\'e5 \'f1\'ee\'e7\'e4\'e0\'fe\'f2 \'ea\'ee\'ef\'e8\'e8 \'f2\'e0\'e1\'eb\'e8\'f6 \cf3\f7\fs20 Production\cf4 .\cf3 Products, Production\cf4 .\cf3 Categories \'e8 Production\cf4 .\cf3 Suppliers \cf0\f6\fs22\'e1\'e0\'e7\'fb \'e4\'e0\'ed\'ed\'fb\'f5 TSQLFundamentals2008 \'c2 \'c1\'c0\'c7\'c5 \'c4\'c0\'cd\'cd\'db\'d5 tempdb;\par
+\f5\lang9\par
+\b\i\f6\lang1049\'c7\'e0\'e4\'e0\'ed\'e8\'e5\par
+\b0\i0\'cd\'e0\'ef\'e8\'f1\'e0\'f2\'fc \'e7\'e0\'ef\'f0\'ee\'f1 \'ea \'e1\'e0\'e7\'e5 \'e4\'e0\'ed\'ed\'fb\'f5  tempdb, \'ea\'ee\'f2\'ee\'f0\'fb\'e9 \'e2\'fb\'e2\'ee\'e4\'e8\'f2 \'e2\'f1\'e5 \'f2\'ee\'e2\'e0\'f0\'fb - \'ed\'e0\'e8\'ec\'e5\'ed\'ee\'e2\'e0\'ed\'e8\'e5 \'ea\'e0\'f2\'e5\'e3\'ee\'f0\'e8\'e8, \'ed\'e0\'e8\'ec\'e5\'ed\'ee\'e2\'e0\'ed\'e8\'e5 \'f2\'ee\'e2\'e0\'f0\'e0 , \'ed\'e0\'e7\'e2\'e0\'ed\'e8\'e5 \'ef\'ee\'f1\'f2\'e0\'e2\'f9\'e8\'ea\'e0 \'e8 \'f6\'e5\'ed\'e0 \'f2\'ee\'e2\'e0\'f0\'e0 \f8\endash\f5\lang1033  \f6\lang1049\'f6\'e5\'ed\'fb \'ea\'ee\'f2\'ee\'f0\'fb\'f5 \'e2\'fb\'f8\'e5 \'f1\'f0\'e5\'e4\'ed\'e5\'e9 \'ef\'ee \'ea\'e0\'f2\'e5\'e3\'ee\'f0\'e8\'e8.\par
+\f5\lang9\par
+\par
+\par
+
+\pard\fi-321\li20\sl240\slmult1\cf1\b\f2\fs24\lang1049\'d3\'e4\'e0\'eb\'e5\'ed\'e8\'e5 \'e4\'e0\'ed\'ed\'fb\'f5\par
+
+\pard\sl240\slmult1\cf0\b0\f6\fs22\'d3\'e4\'e0\'eb\'ff\'e5\'f2 \'ee\'e4\'ed\'f3 \'e8\'eb\'e8 \'ed\'e5\'f1\'ea\'ee\'eb\'fc\'ea\'ee \'f1\'f2\'f0\'ee\'ea \'e8\'e7 \'f2\'e0\'e1\'eb\'e8\'f6\'fb \'e8\'eb\'e8 \'ef\'f0\'e5\'e4\'f1\'f2\'e0\'e2\'eb\'e5\'ed\'e8\'ff \'e2 SQL Server. \'cd\'e0\'ef\'f0\'e8\'ec\'e5\'f0\par
+\cf2\f4\fs20\lang9 DELETE\cf0  \cf2 FROM\cf0  \cf3 dbo\cf4 .\cf3 Orders\par
+\par
+\cf2 DELETE\cf0  \cf2 FROM\cf0  \cf3 dbo\cf4 .\cf3 Orders\par
+\cf2 WHERE\cf0  \cf3 [orderdate]\cf0  \cf4 between\cf0  \cf6 '01.01.2006'\cf0  \cf4 and\cf0  \cf6 '31.12.2006'\par
+\par
+\par
+\cf2 USE\cf0  \cf3 tempdb\cf4 ;\par
+\par
+\cf2 IF\cf0  \cf5 OBJECT_ID\cf4 (\cf6 'dbo.Orders'\cf4 ,\cf0  \cf6 'U'\cf4 )\cf0  \cf4 IS\cf0  \cf4 NOT\cf0  \cf4 NULL\cf0  \cf2 DROP\cf0  \cf2 TABLE\cf0  \cf3 dbo\cf4 .\cf3 Orders\cf4 ;\par
+\cf2 IF\cf0  \cf5 OBJECT_ID\cf4 (\cf6 'dbo.Customers'\cf4 ,\cf0  \cf6 'U'\cf4 )\cf0  \cf4 IS\cf0  \cf4 NOT\cf0  \cf4 NULL\cf0  \cf2 DROP\cf0  \cf2 TABLE\cf0  \cf3 dbo\cf4 .\cf3 Customers\cf4 ;\par
+\par
+\cf2 SELECT\cf0  \cf4 *\cf0  \cf2 INTO\cf0  \cf3 dbo\cf4 .\cf3 Customers\cf0  \cf2 FROM\cf0  \cf3 TSQLFundamentals2008\cf4 .\cf3 Sales\cf4 .\cf3 Customers\cf4 ;\par
+\cf2 SELECT\cf0  \cf4 *\cf0  \cf2 INTO\cf0  \cf3 dbo\cf4 .\cf3 Orders\cf0  \cf2 FROM\cf0  \cf3 TSQLFundamentals2008\cf4 .\cf3 Sales\cf4 .\cf3 Orders\cf4 ;\par
+\par
+\cf2 ALTER\cf0  \cf2 TABLE\cf0  \cf3 dbo\cf4 .\cf3 Customers\cf0  \cf2 ADD\par
+\cf0   \cf2 CONSTRAINT\cf0  \cf3 PK_Customers\cf0  \cf2 PRIMARY\cf0  \cf2 KEY\cf4 (\cf3 custid\cf4 );\par
+\cf2 ALTER\cf0  \cf2 TABLE\cf0  \cf3 dbo\cf4 .\cf3 Orders\cf0  \cf2 ADD\par
+\cf0   \cf2 CONSTRAINT\cf0  \cf3 PK_Orders\cf0  \cf2 PRIMARY\cf0  \cf2 KEY\cf4 (\cf3 orderid\cf4 ),\par
+\cf0   \cf2 CONSTRAINT\cf0  \cf3 FK_Orders_Customers\cf0  \cf2 FOREIGN\cf0  \cf2 KEY\cf4 (\cf3 custid\cf4 )\par
+\cf0     \cf2 REFERENCES\cf0  \cf3 dbo\cf4 .\cf3 Customers\cf4 (\cf3 custid\cf4 );\par
+\cf2 GO\par
+\par
+\cf7 ---------------------------------------------------------------------\par
+-- DELETE Statement\par
+---------------------------------------------------------------------\par
+\par
+\cf2 USE\cf0  \cf3 tempdb\cf4 ;\par
+\par
+\cf2 DELETE\cf0  \cf2 FROM\cf0  \cf3 dbo\cf4 .\cf3 Orders\par
+\cf2 WHERE\cf0  \cf3 orderdate\cf0  \cf4 <\cf0  \cf6 '20070101'\cf4 ;\par
+\par
+\cf0\b\f5\fs22 TRUNCATE\b0\~\f8\emdash\f5  \f6\lang1049\'e2 \'ff\'e7\'fb\'ea\'e0\'f5, \'ef\'ee\'e4\'ee\'e1\'ed\'fb\'f5 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/SQL"}}{\fldrslt{SQL}}}}\f5\fs22\lang9 ,  \cf2\ul DDL\cf0\ulnone -\f6\lang1049\'ee\'ef\'e5\'f0\'e0\'f6\'e8\'ff \'ee\'f7\'e8\'f1\'f2\'ea\'e8 \'e2\'f1\'e5\'f5 \'f1\'f2\'f0\'ee\'ea \'e2 \'f2\'e0\'e1\'eb\'e8\'f6\'e5. \'cb\'ee\'e3\'e8\'f7\'e5\'f1\'ea\'e8 \'f1\'f5\'ee\'e6\'e0 \'f1 \'ee\'ef\'e5\'f0\'e0\'f6\'e8\'e5\'e9 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/DELETE"}}{\fldrslt{DELETE}}}}\f5\fs22\lang9  \f6\lang1049\'e1\'e5\'e7 \'ee\'ef\'e5\'f0\'e0\'f2\'ee\'f0\'e0 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/WHERE"}}{\fldrslt{WHERE}}}}\f5\fs22\lang9 , \f6\lang1049\'ed\'ee \'e2 \'f1\'e8\'f2\'f3\'e0\'f6\'e8\'ff\'f5 \'ed\'e0 \'ef\'f0\'e0\'ea\'f2\'e8\'ea\'e5 \'e8\'ec\'e5\'e5\'f2 \'ee\'f2\'eb\'e8\'f7\'e8\'ff. \par
+\'ce\'f1\'ed\'ee\'e2\'ed\'fb\'e5 \'ee\'f2\'eb\'e8\'f7\'e8\'ff \'ee\'ef\'e5\'f0\'e0\'f2\'ee\'f0\'ee\'e2 TRUNCATE \'e8 DELETE, \'ea\'ee\'f2\'ee\'f0\'fb\'e5 \'ec\'ee\'e3\'f3\'f2 \'ef\'f0\'e8\'f1\'f3\'f2\'f1\'f2\'e2\'ee\'e2\'e0\'f2\'fc \'e2 \'f0\'e0\'e7\'eb\'e8\'f7\'ed\'fb\'f5 \'f0\'e5\'e0\'eb\'e8\'e7\'e0\'f6\'e8\'ff\'f5 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/%D0%A1%D0%A3%D0%91%D0%94"}}{\fldrslt{\'d1\'d3\'c1\'c4}}}}\f5\fs22\lang9 :\par
+
+\pard{\pntext\f9\'B7\tab}{\*\pn\pnlvlblt\pnf9\pnindent360{\pntxtb\'B7}}\fi-360\li720\sb100\sa100\sl240\slmult1\tx720\f6\lang1049\'ce\'ef\'e5\'f0\'e0\'f6\'e8\'ff TRUNCATE \'ed\'e5 \'e7\'e0\'ef\'e8\'f1\'fb\'e2\'e0\'e5\'f2 \'e2 \'e6\'f3\'f0\'ed\'e0\'eb \'f1\'ee\'e1\'fb\'f2\'e8\'e9 \'f3\'e4\'e0\'eb\'e5\'ed\'e8\'e5 \'ee\'f2\'e4\'e5\'eb\'fc\'ed\'fb\'f5 \'f1\'f2\'f0\'ee\'ea. \'c2\'f1\'eb\'e5\'e4\'f1\'f2\'e2\'e8\'e5 \'f7\'e5\'e3\'ee \'ed\'e5 \'ec\'ee\'e6\'e5\'f2 \'e0\'ea\'f2\'e8\'e2\'e8\'f0\'ee\'e2\'e0\'f2\'fc {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%B3%D0%B3%D0%B5%D1%80_%28%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%29"}}{\fldrslt{\'f2\'f0\'e8\'e3\'e3\'e5\'f0\'fb}}}}\f5\fs22\lang9 .\par
+{\pntext\f9\'B7\tab}\f6\lang1049\'cf\'ee\'f1\'eb\'e5 \'ee\'ef\'e5\'f0\'e0\'f6\'e8\'e8 TRUNCATE \'e4\'eb\'ff \'ed\'e5\'ea\'ee\'f2\'ee\'f0\'fb\'f5 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/%D0%A1%D0%A3%D0%91%D0%94"}}{\fldrslt{\'d1\'d3\'c1\'c4}}}}\f5\fs22\lang9  (\f6\lang1049\'ed\'e0\'ef\'f0\'e8\'ec\'e5\'f0, {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/Oracle_%28%D0%A1%D0%A3%D0%91%D0%94%29"}}{\fldrslt{Oracle}}}}\f5\fs22\lang9 ) \f6\lang1049\'f1\'eb\'e5\'e4\'f3\'e5\'f2 \'ed\'e5\'ff\'e2\'ed\'e0\'ff \'ee\'ef\'e5\'f0\'e0\'f6\'e8\'ff {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/COMMIT"}}{\fldrslt{COMMIT}}}}\f5\fs22\lang9 . \f6\lang1049\'cf\'ee\'fd\'f2\'ee\'ec\'f3 \'f3\'e4\'e0\'eb\'e5\'ed\'ed\'fb\'e5 \'e2 \'f2\'e0\'e1\'eb\'e8\'f6\'e5 \'e7\'e0\'ef\'e8\'f1\'e8 \'ed\'e5\'eb\'fc\'e7\'ff \'e2\'ee\'f1\'f1\'f2\'e0\'ed\'ee\'e2\'e8\'f2\'fc \'ee\'ef\'e5\'f0\'e0\'f6\'e8\'e5\'e9 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/ROLLBACK"}}{\fldrslt{ROLLBACK}}}}\f5\fs22\lang9 . \f6\lang1049\'cd\'ee \'f1\'f3\'f9\'e5\'f1\'f2\'e2\'f3\'fe\'f2 \'e8 \'d1\'d3\'c1\'c4, \'e2 \'ea\'ee\'f2\'ee\'f0\'fb\'f5 \'ee\'ef\'e5\'f0\'e0\'f6\'e8\'ff TRUNCATE \'ec\'ee\'e6\'e5\'f2 \'f3\'f7\'e0\'f1\'f2\'e2\'ee\'e2\'e0\'f2\'fc \'e2 \'f2\'f0\'e0\'ed\'e7\'e0\'ea\'f6\'e8\'ff\'f5, \'ed\'e0\'ef\'f0\'e8\'ec\'e5\'f0, {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/Microsoft_SQL_Server"}}{\fldrslt{Microsoft SQL Server}}}}\f5\fs22\lang9 .\par
+{\pntext\f9\'B7\tab}\f6\lang1049\'ce\'ef\'e5\'f0\'e0\'f6\'e8\'ff DELETE \'e1\'eb\'ee\'ea\'e8\'f0\'f3\'e5\'f2 \'ea\'e0\'e6\'e4\'f3\'fe \'f1\'f2\'f0\'ee\'ea\'f3, \'e0 TRUNCATE\~\f8\emdash\f5\lang1033  \f6\lang1049\'e2\'f1\'fe \'f2\'e0\'e1\'eb\'e8\'f6\'f3.\par
+{\pntext\f9\'B7\tab}\'ce\'ef\'e5\'f0\'e0\'f6\'e8\'ff TRUNCATE \'ed\'e5 \'e2\'ee\'e7\'e2\'f0\'e0\'f9\'e0\'e5\'f2 \'ea\'e0\'ea\'ee\'e3\'ee-\'f2\'ee \'ee\'f1\'ec\'fb\'f1\'eb\'e5\'ed\'ed\'ee\'e3\'ee \'e7\'ed\'e0\'f7\'e5\'ed\'e8\'ff (\'ee\'e1\'fb\'f7\'ed\'ee \'e2\'ee\'e7\'e2\'f0\'e0\'f9\'e0\'e5\'f2 0) \'e2 \'ee\'f2\'eb\'e8\'f7\'e8\'e5 \'ee\'f2 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/DELETE"}}{\fldrslt{DELETE}}}}\f5\fs22\lang9 , \f6\lang1049\'ea\'ee\'f2\'ee\'f0\'e0\'ff \'e2\'ee\'e7\'e2\'f0\'e0\'f9\'e0\'e5\'f2 \'f7\'e8\'f1\'eb\'ee \'f3\'e4\'e0\'eb\'e5\'ed\'ed\'fb\'f5 \'f1\'f2\'f0\'ee\'ea.\par
+{\pntext\f9\'B7\tab}\'ce\'ef\'e5\'f0\'e0\'f6\'e8\'ff TRUNCATE \'e2 \'ed\'e5\'ea\'ee\'f2\'ee\'f0\'fb\'f5 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/%D0%A1%D0%A3%D0%91%D0%94"}}{\fldrslt{\'d1\'d3\'c1\'c4}}}}\f5\fs22\lang9  (\f6\lang1049\'ed\'e0\'ef\'f0\'e8\'ec\'e5\'f0, {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/MySQL"}}{\fldrslt{MySQL}}}}\f5\fs22\lang9  \f6\lang1049\'e8\'eb\'e8 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/Microsoft_SQL_Server"}}{\fldrslt{Microsoft SQL Server}}}}\f5\fs22\lang9 ), \f6\lang1049\'f1\'e1\'f0\'e0\'f1\'fb\'e2\'e0\'e5\'f2 \'e7\'ed\'e0\'f7\'e5\'ed\'e8\'e5 \'f1\'f7\'e5\'f2\'f7\'e8\'ea\'ee\'e2 (\'e4\'eb\'ff \'ef\'ee\'eb\'e5\'e9 \'f1 AUTOINCREMENT / IDENTITY).\par
+{\pntext\f9\'B7\tab}\'ce\'ef\'e5\'f0\'e0\'f6\'e8\'ff TRUNCATE \'e2 \'ed\'e5\'ea\'ee\'f2\'ee\'f0\'fb\'f5 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/%D0%A1%D0%A3%D0%91%D0%94"}}{\fldrslt{\'d1\'d3\'c1\'c4}}}}\f5\fs22\lang9  (\f6\lang1049\'ed\'e0\'ef\'f0\'e8\'ec\'e5\'f0, {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/MySQL"}}{\fldrslt{MySQL}}}}\f5\fs22\lang9  \f6\lang1049\'e8\'eb\'e8 {\cf2\ul{\field{\*\fldinst{HYPERLINK "https://ru.wikipedia.org/wiki/Microsoft_SQL_Server"}}{\fldrslt{Microsoft SQL Server}}}}\f5\fs22\lang9 ) \f6\lang1049\'e7\'e0\'ef\'f0\'e5\'f9\'e5\'ed\'e0 \'e4\'eb\'ff \'f2\'e0\'e1\'eb\'e8\'f6, \'f1\'ee\'e4\'e5\'f0\'e6\'e0\'f9\'e8\'f5 \'e2\'ed\'e5\'f8\'ed\'e8\'e5 \'ea\'eb\'fe\'f7\'e8 \'e4\'f0\'f3\'e3\'e8\'f5 \'f2\'e0\'e1\'eb\'e8\'f6.\par
+
+\pard\sl240\slmult1\f5\lang9\par
+\par
+\par
+
+\pard\fi-321\li20\sl240\slmult1\cf1\b\f3\fs24 UPDATE \par
+
+\pard\sl240\slmult1\cf0\b0\f6\fs22\lang1049\'c8\'e7\'ec\'e5\'ed\'ff\'e5\'f2 \'f1\'f3\'f9\'e5\'f1\'f2\'e2\'f3\'fe\'f9\'e8\'e5 \'e4\'e0\'ed\'ed\'fb\'e5 \'e2 \'f2\'e0\'e1\'eb\'e8\'f6\'e5 \'e8\'eb\'e8 \'ef\'f0\'e5\'e4\'f1\'f2\'e0\'e2\'eb\'e5\'ed\'e8\'e8\par
+\cf2\f4\fs20\lang9 USE\cf0  \cf3 tempdb\cf4 ;\par
+\par
+\cf2 UPDATE\cf0  \cf3 dbo\cf4 .\cf3 OrderDetails\par
+\cf0   \cf2 SET\cf0  \cf3 discount\cf0  \cf4 =\cf0  \cf3 discount\cf0  \cf4 +\cf0  0.05\par
+\cf2 WHERE\cf0  \cf3 productid\cf0  \cf4 =\cf0  51\cf4 ;\par
+\par
+\cf7 -- In SQL Server 2008\par
+\cf2 UPDATE\cf0  \cf3 dbo\cf4 .\cf3 OrderDetails\par
+\cf0   \cf2 SET\cf0  \cf3 discount\cf0  \cf4 +=\cf0  0.05\par
+\cf2 WHERE\cf0  \cf3 productid\cf0  \cf4 =\cf0  51\cf4 ;\par
+\cf2 GO\par
+\par
+\par
+\cf0\f6\fs22\lang1049\'d1\'ee\'e7\'e4\'e0\'f2\'fc \'e2\cf3\f7\fs20  tempdb \cf0\f6\fs22  \'f2\'e0\'e1\'eb\'e8\'f6\'f3 \cf3\f7\fs20 dbo\cf4 .\cf3 T1\cf0\f6\fs22   (id int,col1 int, col2 int)\cf2\f7\fs20\par
+\f4\lang9 UPDATE\cf0  \cf3 dbo\cf4 .\cf3 T1\par
+\cf0   \cf2 SET\cf0  \cf3 col1\cf0  \cf4 =\cf0  \cf3 col1\cf0  \cf4 +\cf0  10\cf4 ,\cf0  \cf3 col2\cf0  \cf4 =\cf0  \cf3 col1\cf0  \cf4 +\cf0  10\cf4 ;\par
+\par
+\cf2 UPDATE\cf0  \cf3 dbo\cf4 .\cf3 T1\par
+\cf0   \cf2 SET\cf0  \cf3 col1\cf0  \cf4 =\cf0  \cf3 col2\cf4 ,\cf0  \cf3 col2\cf0  \cf4 =\cf0  \cf3 col1\cf4 ;\par
+\cf2 GO\par
+\par
+\par
+\par
+UPDATE\cf0  \cf3 OD\par
+\cf0   \cf2 SET\cf0  \cf3 discount\cf0  \cf4 =\cf0  \cf3 discount\cf0  \cf4 +\cf0  0.05\par
+\cf2 FROM\cf0  \cf3 dbo\cf4 .\cf3 OrderDetails\cf0  \cf2 AS\cf0  \cf3 OD\par
+\cf0   \cf4 JOIN\cf0  \cf3 dbo\cf4 .\cf3 Orders\cf0  \cf2 AS\cf0  \cf3 O\par
+\cf0     \cf2 ON\cf0  \cf3 OD\cf4 .\cf3 orderid\cf0  \cf4 =\cf0  \cf3 O\cf4 .\cf3 orderid\par
+\cf2 WHERE\cf0  \cf3 custid\cf0  \cf4 =\cf0  1\cf4 ;\par
+\par
+\cf2 UPDATE\cf0  \cf3 dbo\cf4 .\cf3 OrderDetails\par
+\cf0   \cf2 SET\cf0  \cf3 discount\cf0  \cf4 =\cf0  \cf3 discount\cf0  \cf4 +\cf0  0.05\par
+\cf2 WHERE\cf0  \cf4 EXISTS\par
+\cf2   \cf4 (\cf2 SELECT\cf0  \cf4 *\cf0  \cf2 FROM\cf0  \cf3 dbo\cf4 .\cf3 Orders\cf0  \cf2 AS\cf0  \cf3 O\par
+\cf0    \cf2 WHERE\cf0  \cf3 O\cf4 .\cf3 orderid\cf0  \cf4 =\cf0  \cf3 OrderDetails\cf4 .\cf3 orderid\par
+\cf0      \cf4 AND\cf0  \cf3 custid\cf0  \cf4 =\cf0  1\cf4 );\par
+\cf2 GO\par
+
+\pard\sa200\sl276\slmult1\cf0\f0\fs22\lang1049\par
+\b\'c7\'e0\'e4\'e0\'ed\'e8\'e5\par
+\b0\'c8\'ec\'ef\'ee\'f0\'f2\'e8\'f0\'ee\'e2\'e0\'f2\'fc \'e2 \f1\lang1033 ms sql server \f0\lang1058\'e1\'e0\'e7\'f3 \'e4\'e0\'ed\'ed\'fb\'f5 \f1\lang1033 Access books.mdb. \f0\lang1049\'cf\'f0\'e8\'e2\'e5\'f1\'f2\'e8 \'ef\'ee\'eb\'f3\'f7\'e5\'ed\'ed\'f3\'fe \'e1\'e0\'e7\'f3 \'e4\'e0\'ed\'ed\'fb\'f5 \'ea \'ed\'ee\'f0\'ec\'e0\'eb\'fc\'ed\'ee\'e9 \'f4\'ee\'f0\'ec\'e5, \'e8\'f1\'ef\'ee\'eb\'fc\'e7\'f3\'ff \'ee\'ef\'e5\'f0\'e0\'f2\'ee\'f0\'fb \f1\lang1033 insert, update.\f0\lang1049\par
+\f1\lang9\par
+}
+ 

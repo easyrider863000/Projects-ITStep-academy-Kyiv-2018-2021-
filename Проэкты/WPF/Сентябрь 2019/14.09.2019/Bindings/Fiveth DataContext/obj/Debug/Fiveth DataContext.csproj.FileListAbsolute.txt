@@ -1,0 +1,14 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\bin\Debug\Fiveth DataContext.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\bin\Debug\Fiveth DataContext.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\bin\Debug\Fiveth DataContext.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\Fiveth DataContext_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\Fiveth DataContext_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\Fiveth DataContext.g.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\Fiveth_DataContext.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\Fiveth DataContext.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\Fiveth DataContext.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\Fiveth DataContext.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Fiveth DataContext\obj\Debug\Fiveth DataContext.pdb

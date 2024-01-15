@@ -1,0 +1,15 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\bin\Debug\Third Project.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\bin\Debug\Third Project.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\bin\Debug\Third Project.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\Third Project.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\Third Project_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\Third Project_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\Third Project.g.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\Third_Project.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\Third Project.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\Third Project.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\Third Project.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\Third Project\obj\Debug\Third Project.pdb

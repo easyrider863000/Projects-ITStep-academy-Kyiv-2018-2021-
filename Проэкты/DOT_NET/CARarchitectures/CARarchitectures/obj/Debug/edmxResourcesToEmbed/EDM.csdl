@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CarsArchitecureModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BodyTypeDB">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BodyName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="CarDB" Relationship="Self.FK__CarDB__IdBodyTyp__3C69FB99" FromRole="BodyTypeDB" ToRole="CarDB" />
+  </EntityType>
+  <EntityType Name="CarDB">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="4000" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Model" Type="String" MaxLength="4000" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CurrentPhotoId" Type="Int32" />
+    <Property Name="IdCountryManufacturer" Type="Int32" />
+    <Property Name="IdBodyType" Type="Int32" />
+    <Property Name="Mass" Type="Int32" Nullable="false" />
+    <Property Name="EngineCapacity" Type="Double" Nullable="false" />
+    <Property Name="Power" Type="Int32" Nullable="false" />
+    <Property Name="YearOfIssue" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="BodyTypeDB" Relationship="Self.FK__CarDB__IdBodyTyp__3C69FB99" FromRole="CarDB" ToRole="BodyTypeDB" />
+    <NavigationProperty Name="CountryManufacturerDB" Relationship="Self.FK__CarDB__IdCountry__3B75D760" FromRole="CarDB" ToRole="CountryManufacturerDB" />
+    <NavigationProperty Name="PhotoDB" Relationship="Self.FK__PhotoDB__CarId__3F466844" FromRole="CarDB" ToRole="PhotoDB" />
+  </EntityType>
+  <EntityType Name="CountryManufacturerDB">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ManufacturerName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="CarDB" Relationship="Self.FK__CarDB__IdCountry__3B75D760" FromRole="CountryManufacturerDB" ToRole="CarDB" />
+  </EntityType>
+  <EntityType Name="PhotoDB">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PhotoPath" Type="String" MaxLength="4000" FixedLength="false" Unicode="true" />
+    <Property Name="CarId" Type="Int32" />
+    <NavigationProperty Name="CarDB" Relationship="Self.FK__PhotoDB__CarId__3F466844" FromRole="PhotoDB" ToRole="CarDB" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK__CarDB__IdBodyTyp__3C69FB99">
+    <End Role="BodyTypeDB" Type="Self.BodyTypeDB" Multiplicity="0..1" />
+    <End Role="CarDB" Type="Self.CarDB" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BodyTypeDB">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CarDB">
+        <PropertyRef Name="IdBodyType" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CarDB__IdCountry__3B75D760">
+    <End Role="CountryManufacturerDB" Type="Self.CountryManufacturerDB" Multiplicity="0..1" />
+    <End Role="CarDB" Type="Self.CarDB" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CountryManufacturerDB">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CarDB">
+        <PropertyRef Name="IdCountryManufacturer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PhotoDB__CarId__3F466844">
+    <End Role="CarDB" Type="Self.CarDB" Multiplicity="0..1" />
+    <End Role="PhotoDB" Type="Self.PhotoDB" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CarDB">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="PhotoDB">
+        <PropertyRef Name="CarId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CarsArchitecureEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BodyTypeDB" EntityType="Self.BodyTypeDB" />
+    <EntitySet Name="CarDB" EntityType="Self.CarDB" />
+    <EntitySet Name="CountryManufacturerDB" EntityType="Self.CountryManufacturerDB" />
+    <EntitySet Name="PhotoDB" EntityType="Self.PhotoDB" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK__CarDB__IdBodyTyp__3C69FB99" Association="Self.FK__CarDB__IdBodyTyp__3C69FB99">
+      <End Role="BodyTypeDB" EntitySet="BodyTypeDB" />
+      <End Role="CarDB" EntitySet="CarDB" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CarDB__IdCountry__3B75D760" Association="Self.FK__CarDB__IdCountry__3B75D760">
+      <End Role="CountryManufacturerDB" EntitySet="CountryManufacturerDB" />
+      <End Role="CarDB" EntitySet="CarDB" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PhotoDB__CarId__3F466844" Association="Self.FK__PhotoDB__CarId__3F466844">
+      <End Role="CarDB" EntitySet="CarDB" />
+      <End Role="PhotoDB" EntitySet="PhotoDB" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

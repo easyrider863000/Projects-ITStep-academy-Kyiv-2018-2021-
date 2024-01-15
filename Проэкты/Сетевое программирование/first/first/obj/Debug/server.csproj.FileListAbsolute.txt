@@ -1,0 +1,6 @@
+D:\Шаг\Проэкты\Сетевое программирование\first\first\bin\Debug\first.exe.config
+D:\Шаг\Проэкты\Сетевое программирование\first\first\bin\Debug\first.exe
+D:\Шаг\Проэкты\Сетевое программирование\first\first\bin\Debug\first.pdb
+D:\Шаг\Проэкты\Сетевое программирование\first\first\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\Сетевое программирование\first\first\obj\Debug\first.exe
+D:\Шаг\Проэкты\Сетевое программирование\first\first\obj\Debug\first.pdb

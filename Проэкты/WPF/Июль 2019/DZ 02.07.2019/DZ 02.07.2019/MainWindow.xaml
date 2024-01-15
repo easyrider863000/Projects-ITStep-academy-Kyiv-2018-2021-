@@ -1,0 +1,33 @@
+﻿<Window x:Class="DZ_02._07._2019.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DZ_02._07._2019"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Menu Grid.ColumnSpan="2">
+            <MenuItem Header="C">
+                <MenuItem Header="{x:Static local:ResourceLanquege.EnglishLb}"></MenuItem>
+                <MenuItem Header="{x:Static local:ResourceLanquege.RussianLb}"></MenuItem>
+                <MenuItem Header="{x:Static local:ResourceLanquege.UkranianLb}"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <ListBox Name="lbCountries" Margin="5" Grid.Column="0" Grid.Row="1" Grid.RowSpan="2" SelectionChanged="ListBox_SelectionChanged"></ListBox>
+        <Image Name="lbImage" Grid.Row="1" Grid.Column="1" Margin="5" Height="300"></Image>
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1">
+            <Button Click="ButtonPrev_Click" Margin="5" Width="190" Content="{x:Static local:ResourceLanquege.PreviousBtn}"></Button>
+            <Button Click="ButtonNext_Click" Margin="5" Width="190" Content="{x:Static local:ResourceLanquege.NextBtn}"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

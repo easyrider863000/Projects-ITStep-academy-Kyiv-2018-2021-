@@ -1,0 +1,30 @@
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\bin\Debug\02-BindingElementToElement.exe.config
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\bin\Debug\02-BindingElementToElement.exe
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\bin\Debug\02-BindingElementToElement.pdb
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.csprojAssemblyReference.cache
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\App.g.cs
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement_MarkupCompile.cache
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement_MarkupCompile.lref
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.g.resources
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\_02_BindingElementToElement.Properties.Resources.resources
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.csproj.GenerateResource.cache
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.exe
+C:\WPF\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.pdb
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\bin\Debug\02-BindingElementToElement.exe.config
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\bin\Debug\02-BindingElementToElement.exe
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\bin\Debug\02-BindingElementToElement.pdb
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.csprojAssemblyReference.cache
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\App.g.cs
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement_MarkupCompile.cache
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement_MarkupCompile.lref
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.g.resources
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\_02_BindingElementToElement.Properties.Resources.resources
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.csproj.GenerateResource.cache
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.exe
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\02-BindingElementToElement\obj\Debug\02-BindingElementToElement.pdb

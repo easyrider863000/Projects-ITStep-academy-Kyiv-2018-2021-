@@ -1,0 +1,41 @@
+.tip1 {
+    text-align: center;
+    width: 100px; 
+    height: 30px; 
+    margin-left: 26px;
+    background: rgb(168, 30, 223);
+    position: relative;
+    }
+    .tip1:before {
+    content: "";
+    position: absolute; 
+    right: calc(50% - 12px);
+    top: 100%;
+
+    width: 0; 
+    height: 0;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 12px solid rgb(168, 30, 223);
+}
+.tip2 {
+    text-align: center;
+    width: 100px; 
+    height: 30px; 
+    margin-left: 26px;
+    top:10px;
+    background: rgb(168, 30, 223);
+    position: relative;
+    }
+    .tip2:before {
+    content: "";
+    position: absolute; 
+    right: calc(50% - 12px);
+    bottom: 100%;
+
+    width: 0; 
+    height: 0;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-bottom: 12px solid rgb(168, 30, 223);
+}

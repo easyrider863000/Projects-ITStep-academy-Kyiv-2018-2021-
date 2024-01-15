@@ -1,0 +1,10 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\WinFormsExample\bin\Debug\WinFormsExample.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\WinFormsExample\bin\Debug\WinFormsExample.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\WinFormsExample\bin\Debug\WinFormsExample.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\WinFormsExample\obj\Debug\WinFormsExample.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\WinFormsExample\obj\Debug\WinFormsExample.Form1.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\WinFormsExample\obj\Debug\WinFormsExample.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\WinFormsExample\obj\Debug\WinFormsExample.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\WinFormsExample\obj\Debug\WinFormsExample.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\WinFormsExample\obj\Debug\WinFormsExample.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\WinFormsExample\obj\Debug\WinFormsExample.pdb

@@ -1,0 +1,2 @@
+﻿  hello.cpp
+d:\шаг\проэкты\сетевое программирование\hello\hello\hello.cpp(8): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

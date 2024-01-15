@@ -1,0 +1,32 @@
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\bin\Debug\07-DataTrigger.exe.config
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\bin\Debug\07-DataTrigger.exe
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\bin\Debug\07-DataTrigger.pdb
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.csprojAssemblyReference.cache
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\App.g.cs
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger_MarkupCompile.cache
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger_MarkupCompile.lref
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.g.resources
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\_07_DataTrigger.Properties.Resources.resources
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.csproj.GenerateResource.cache
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.exe
+C:\WPF\Lesson 11 style trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.pdb
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\bin\Debug\07-DataTrigger.exe.config
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\bin\Debug\07-DataTrigger.exe
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\bin\Debug\07-DataTrigger.pdb
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger_MarkupCompile.cache
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger_MarkupCompile.lref
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.g.resources
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\_07_DataTrigger.Properties.Resources.resources
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.exe
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\07-DataTrigger\obj\Debug\07-DataTrigger.pdb

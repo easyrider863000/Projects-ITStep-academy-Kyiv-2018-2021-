@@ -1,0 +1,32 @@
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\bin\Debug\Homework.exe.config
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\bin\Debug\Homework.exe
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\bin\Debug\Homework.pdb
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\App.g.cs
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\Homework_MarkupCompile.cache
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\Homework_MarkupCompile.lref
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\Homework.g.resources
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\Homework.exe
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\Homework.pdb
+C:\WPF\Lesson 11 style trigger\19p31\Lesson 11 styles trigger\Homework\Homework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\bin\Debug\Homework.exe.config
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\bin\Debug\Homework.exe
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\bin\Debug\Homework.pdb
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\Homework_MarkupCompile.cache
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\Homework_MarkupCompile.lref
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\Homework.g.resources
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\Homework.Properties.Resources.resources
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\Homework.exe
+D:\Шаг\Доп инфо\WPF\Lesson 12 mvvm\Homework\Homework\obj\Debug\Homework.pdb

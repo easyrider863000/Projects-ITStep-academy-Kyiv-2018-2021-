@@ -1,0 +1,7 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\IntroToADONET\obj\Debug\IntroToADONET.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\IntroToADONET\obj\Debug\IntroToADONET.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\IntroToADONET\bin\Debug\IntroToADONET.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\IntroToADONET\bin\Debug\IntroToADONET.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\IntroToADONET\bin\Debug\IntroToADONET.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\IntroToADONET\obj\Debug\IntroToADONET.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\IntroToADONET\IntroToADONET\obj\Debug\IntroToADONET.pdb

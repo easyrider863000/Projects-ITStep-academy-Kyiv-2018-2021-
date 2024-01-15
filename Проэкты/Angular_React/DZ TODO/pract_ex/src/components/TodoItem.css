@@ -1,0 +1,16 @@
+
+
+.item{
+    display: flex;
+    flex-direction: row;
+    background-color: darkcyan;
+    color: yellow;
+    border-color: yellow;
+    border-style: solid;
+    border-radius: 10px;
+    margin:10px;
+    font-size: 24px;
+}
+.item input{
+    align-self: center;
+}

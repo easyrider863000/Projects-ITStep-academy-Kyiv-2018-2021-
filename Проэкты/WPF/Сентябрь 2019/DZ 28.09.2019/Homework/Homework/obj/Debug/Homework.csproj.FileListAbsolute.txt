@@ -1,0 +1,68 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Homework_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Homework_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\Homework.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\Homework.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\Homework.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\System.Security.AccessControl.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\System.Security.Permissions.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\System.Security.Principal.Windows.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\System.Security.AccessControl.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\System.Security.Permissions.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\System.Security.Principal.Windows.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Views\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Views\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Homework.g.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Homework.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Homework.csproj.CopyComplete
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Homework.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\Homework.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\System.Windows.Interactivity.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\System.Windows.Interactivity.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\MaterialDesignColors.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\MaterialDesignColors.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Homework\Homework\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\Homework.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\Homework.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\Homework.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\MaterialDesignColors.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\System.Security.AccessControl.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\System.Security.Permissions.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\System.Security.Principal.Windows.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\System.Windows.Interactivity.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\MaterialDesignColors.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\System.Security.AccessControl.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\System.Security.Permissions.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\System.Security.Principal.Windows.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\bin\Debug\System.Windows.Interactivity.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Views\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Homework_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Homework_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Views\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Homework.g.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Homework.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Homework.csproj.CopyComplete
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Homework.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 28.09.2019\Homework\Homework\obj\Debug\Homework.pdb

@@ -1,0 +1,29 @@
+PHP - Personal Home Page Tools (архитектура MVC)
+
+https://drive.google.com/drive/folders/1E3Hypg-EkoUI7XWwllIt19ph1zKPxxyF?usp=sharing
+
+zzz.com.ua - бесплатный хостинг для php
+
+xampp - интерпритатор для профиссионалов по PHP
+
+https://www.uwamp.com/en/ - портативный быстрый интерпритатор для PHP
+
+
+
+
+
+переменная с $
+
+isset - для проверки существования переменной
+
+катонация строк происходит через точку(.), а не через +, как в с++
+
+"$a" - интерполяция строк(в данном случае: переменной а)
+
+
+
+
+
+
+
+

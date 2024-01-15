@@ -1,0 +1,15 @@
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\bin\Debug\04-WindowPositionSave.exe.config
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\bin\Debug\04-WindowPositionSave.exe
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\bin\Debug\04-WindowPositionSave.pdb
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\04-WindowPositionSave.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\App.g.cs
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\04-WindowPositionSave_MarkupCompile.cache
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\04-WindowPositionSave_MarkupCompile.lref
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\MainWindow.baml
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\04-WindowPositionSave.g.resources
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\_04_WindowPositionSave.Properties.Resources.resources
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\04-WindowPositionSave.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\04-WindowPositionSave.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\04-WindowPositionSave.exe
+C:\Users\Igor\source\repos\Lesson8\04-WindowPositionSave\obj\Debug\04-WindowPositionSave.pdb

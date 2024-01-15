@@ -1,0 +1,13 @@
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\bin\Debug\netcoreapp3.1\test.exe
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\bin\Debug\netcoreapp3.1\test.deps.json
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\bin\Debug\netcoreapp3.1\test.dll
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\bin\Debug\netcoreapp3.1\test.pdb
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\obj\Debug\netcoreapp3.1\test.dll
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\obj\Debug\netcoreapp3.1\test.pdb
+D:\Шаг\Проэкты\ASP.NET\Курсовая работа . Сайт с запчастями WebAPI CORE\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

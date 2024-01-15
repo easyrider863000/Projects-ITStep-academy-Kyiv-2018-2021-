@@ -1,0 +1,163 @@
+html{
+    font-size: 2vw;
+}
+.img-size-500{
+    width:500px;
+    transition-property: all;
+    transition-duration: 1s;   
+}
+.img-size-500:hover{
+    cursor: pointer;
+    box-shadow: 0 0 100px rgba(255,255,255,10);
+}
+
+.img-size-400{
+    width:400px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color:darkgray;
+}
+.img-duo{
+    border-style:solid;
+    border-right: None;
+    border-left: None;
+    border-color:darkgray;
+}
+.img-size-150{
+    width:150px;
+    transition-property: all;
+    transition-duration: 1s;
+    overflow: hidden;
+}
+.img-size-150:hover{
+    cursor: pointer;
+    box-shadow: 0 0 100px rgba(255,255,255,10);
+}
+.img-cursor{
+    transition-property: all;
+    transition-duration: 1s;
+    overflow: hidden;
+}
+.img-cursor:hover{
+    cursor: pointer;
+    box-shadow: 0 0 200px rgba(255,255,255,100);
+}
+
+.back{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK4z1c9yu3tIIpl2T3FLNhVxEp4J4g15n30S1VDElochOTN7ia") no-repeat;
+    background-size:100% 100%;
+}
+
+.img-appear{
+    visibility:visible;
+}
+@media screen and (min-width:990px)
+{
+    .img-appear{
+        visibility: hidden;
+        width:0px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.social:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.social {
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+}
+ 
+#social-fb{
+    color:darkgrey;
+} 
+#social-tw{
+    color:darkgrey;
+} 
+#social-gp{
+    color:darkgrey;
+} 
+#social-em{
+    color:darkgrey;
+}
+#social-fb:hover {
+    color: #3B5998;
+}
+#social-tw:hover {
+    color: #4099FF;
+}
+#social-gp:hover {
+    color: #d34836;
+}
+#social-em:hover {
+    color: #f39c12;
+}
+
+
+
+
+.btn-back-anim:hover{
+    animation: back-anim;
+    animation-duration: 4s;
+    animation-direction: normal;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out();
+
+}
+
+@keyframes back-anim{
+    from{
+        transform: rotate(0deg);
+    } 
+    2% {
+        transform: rotate(20deg);
+    } 
+    4% {
+        transform: rotate(-20deg);
+    } 
+    6% {
+        transform: rotate(20deg);
+    } 
+    8% {
+        transform: rotate(-20deg);
+    } 
+    10% {
+        transform: rotate(20deg);
+    } 
+    12% {
+        transform: rotate(-20deg);
+    } 
+    14% {
+        transform: rotate(20deg);
+    } 
+    16% {
+        transform: rotate(-20deg);
+    } 
+    18% {
+        transform: rotate(20deg);
+    } 
+    20% {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(0deg);
+    } 
+}

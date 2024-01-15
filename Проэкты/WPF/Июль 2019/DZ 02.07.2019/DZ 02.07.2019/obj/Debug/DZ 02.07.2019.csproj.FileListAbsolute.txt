@@ -1,0 +1,40 @@
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\bin\Debug\DZ 02.07.2019.exe.config
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\bin\Debug\DZ 02.07.2019.exe
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\bin\Debug\DZ 02.07.2019.pdb
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\MainWindow.baml
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.g.resources
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ_02._07._2019.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.exe
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.pdb
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\bin\Debug\ru\DZ 02.07.2019.resources.dll
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ_02._07._2019.ResourceLanquege.resources
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ_02._07._2019.ResourceLanquege.ua.resources
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ_02._07._2019.ResourceLanquege.ru.resources
+D:\Шаг\Проэкты\WPF\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\ru\DZ 02.07.2019.resources.dll
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\bin\Debug\DZ 02.07.2019.exe.config
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\bin\Debug\DZ 02.07.2019.exe
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\bin\Debug\DZ 02.07.2019.pdb
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\bin\Debug\ru\DZ 02.07.2019.resources.dll
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.g.resources
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ_02._07._2019.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ_02._07._2019.ResourceLanquege.resources
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ_02._07._2019.ResourceLanquege.ua.resources
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ_02._07._2019.ResourceLanquege.ru.resources
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\ru\DZ 02.07.2019.resources.dll
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.exe
+D:\Шаг\Проэкты\WPF\Июль 2019\DZ 02.07.2019\DZ 02.07.2019\obj\Debug\DZ 02.07.2019.pdb

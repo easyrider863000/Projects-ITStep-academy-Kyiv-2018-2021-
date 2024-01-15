@@ -1,0 +1,133 @@
+﻿<Window x:Class="Exam.MainWindow"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exam"
+        mc:Ignorable="d"
+        Title="Автомобили" Style="{DynamicResource WindowStyle}" MinWidth="800" MinHeight="500" Height="500" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Menu Style="{DynamicResource MenuStyle}" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
+            <MenuItem Style="{DynamicResource MenuStyle}" Header="{x:Static local:ResourceLanquage.ThemesMn}">
+                <MenuItem Name="lbLight" Style="{DynamicResource MenuStyle}" Header="{x:Static local:ResourceLanquage.LightMn}"
+                          Command="{Binding MenuThemes}" CommandParameter="{Binding ElementName=lbLight}" Tag="Light"></MenuItem>
+                <MenuItem Name="lbDark" Style="{DynamicResource MenuStyle}" Header="{x:Static local:ResourceLanquage.DarkMn}"
+                          Command="{Binding MenuThemes}" CommandParameter="{Binding ElementName=lbDark}" Tag="Dark"></MenuItem>
+            </MenuItem>
+            <MenuItem Style="{DynamicResource MenuStyle}" Header="{x:Static local:ResourceLanquage.LanquagesMn}">
+                <MenuItem Style="{DynamicResource MenuStyle}" Header="{x:Static local:ResourceLanquage.HelpMn}">
+                    <MenuItem Style="{DynamicResource MenuStyle}" Header="{x:Static local:ResourceLanquage.HelpLge}"></MenuItem>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+
+        <StackPanel Grid.Column="0" Grid.Row="1">
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.ListAuto}"></Label>
+            <ListBox Height="200" ItemsSource="{Binding Path=Autos}" Style="{DynamicResource ListStyle}" SelectedItem="{Binding Path=SelectedAuto}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Name}"></TextBlock>
+                            <TextBlock Text="  "></TextBlock>
+                            <TextBlock Text="{Binding Model}"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Expander Style="{DynamicResource MenuStyle}" HorizontalAlignment="Left"  Height="85" Header="{x:Static local:ResourceLanquage.Sort}" Margin="10,0">
+                <StackPanel Orientation="Horizontal" Margin="10,0,0,0">
+                    <StackPanel>
+                        <RadioButton Style="{DynamicResource ControlStyle}"  Content="{x:Static local:ResourceLanquage.SortName}" Command="{Binding SortCommand}" CommandParameter="Name"/>
+                        <RadioButton Style="{DynamicResource ControlStyle}"  Content="{x:Static local:ResourceLanquage.SortModel}" Command="{Binding SortCommand}" CommandParameter="Model"/>
+                        <RadioButton Style="{DynamicResource ControlStyle}"  Content="{x:Static local:ResourceLanquage.SortBodyType}" Command="{Binding SortCommand}" CommandParameter="BodyType"/>
+                        <RadioButton Style="{DynamicResource ControlStyle}"  Content="{x:Static local:ResourceLanquage.SortEngineCapacity}" Command="{Binding SortCommand}" CommandParameter="EngineCapacity"/>
+                    </StackPanel>
+                    <StackPanel>
+                        <RadioButton Style="{DynamicResource ControlStyle}"  Content="{x:Static local:ResourceLanquage.SortPower}" Command="{Binding SortCommand}" CommandParameter="Power"/>
+                        <RadioButton Style="{DynamicResource ControlStyle}"  Content="{x:Static local:ResourceLanquage.SortMass}" Command="{Binding SortCommand}" CommandParameter="Mass"/>
+                        <RadioButton Style="{DynamicResource ControlStyle}"  Content="{x:Static local:ResourceLanquage.SortCountryManufacturer}" Command="{Binding SortCommand}" CommandParameter="CountryManufacturer"/>
+                        <RadioButton Style="{DynamicResource ControlStyle}"  Content="{x:Static local:ResourceLanquage.SortYearOfIssue}" Command="{Binding SortCommand}" CommandParameter="YearOfIssue"/>
+                    </StackPanel>
+                </StackPanel>
+            </Expander>
+            <StackPanel Height="30" Margin="10,5">
+                <RadioButton HorizontalAlignment="Left" Style="{DynamicResource ControlStyle}"  Content="{x:Static local:ResourceLanquage.SortAscending}" Command="{Binding HowSortCommand}" CommandParameter="false"/>
+                <RadioButton HorizontalAlignment="Left" Style="{DynamicResource ControlStyle}"  Content="{x:Static local:ResourceLanquage.SortDescending}" Command="{Binding HowSortCommand}" CommandParameter="true"/>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="1">
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.ChooseAuto}"></Label>
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.NameLb}"></Label>
+            <TextBox Style="{DynamicResource ControlStyle}" Text="{Binding SelectedAuto.Name, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.ModelLb}"></Label>
+            <TextBox Style="{DynamicResource ControlStyle}" Text="{Binding SelectedAuto.Model, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.BodyTypeLb}"></Label>
+            <ComboBox Style="{DynamicResource ComboStyle}" ItemsSource="{Binding Path=BodyTypes, Mode=TwoWay}" 
+                      SelectedItem="{Binding SelectedAuto.BodyType, Mode=TwoWay}">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding BodyTypeName}"></TextBlock>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.EngineCapacityLb}"></Label>
+            <TextBox Style="{DynamicResource ControlStyle}" Text="{Binding SelectedAuto.EngineCapacity, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.PowerLb}"></Label>
+            <TextBox Style="{DynamicResource ControlStyle}" Text="{Binding SelectedAuto.Power, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.MassLb}"></Label>
+            <TextBox Style="{DynamicResource ControlStyle}" Text="{Binding SelectedAuto.Mass, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.CountryManufacturerLb}"></Label>
+            <ComboBox Style="{DynamicResource ComboStyle}" ItemsSource="{Binding Path=Manufacturers, Mode=TwoWay}" 
+                      SelectedItem="{Binding SelectedAuto.CountryManufacturer, Mode=TwoWay}" >
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding CountryName}"></TextBlock>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.YeahOfIssueLb}"></Label>
+            <TextBox Style="{DynamicResource ControlStyle}" Text="{Binding SelectedAuto.YearOfIssue, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" HorizontalAlignment="Center">
+            <Button Style="{DynamicResource ButtonStyle}" Content="Save" Command="{Binding SaveCommand}"/>
+            <Button Style="{DynamicResource ButtonStyle}" Content="Add" Command="{Binding AddCommand}"/>
+            <Button Style="{DynamicResource ButtonStyle}" Content="Remove" Command="{Binding RemoveCommand}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="2">
+            <Label Style="{DynamicResource ControlStyle}" Content="{x:Static local:ResourceLanquage.PhotoCar}"></Label>
+            <Slider Margin="10,10,10,50"
+                    Name="sld"
+                    Grid.Row="1"
+                    Style="{StaticResource Style.Slider.Scale}"
+                    ToolTip="{Binding RelativeSource={RelativeSource Self}, Path=Value}">
+            </Slider>
+            <Image Source="{Binding SelectedPhoto, UpdateSourceTrigger=PropertyChanged}" Style="{DynamicResource ImageStyle}">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="{Binding ElementName=sld, Path=Value}" ScaleY="{Binding ElementName=sld, Path=Value}"/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Name="prev" Command="{Binding PrevNextCommand}" CommandParameter="{Binding ElementName=prev}" Style="{DynamicResource ControlStyle}" Height="20" Width="100" Margin="10,50,10,10" Tag="prev" Content="{x:Static local:ResourceLanquage.btnPrev}"></Button>
+                    <Button Name="next" Command="{Binding PrevNextCommand}" CommandParameter="{Binding ElementName=next}" Style="{DynamicResource ControlStyle}" Height="20" Width="100" Margin="10,50,10,10" Tag="next" Content="{x:Static local:ResourceLanquage.btnNext}"></Button>
+                </StackPanel>
+                <Button Name="addPhoto" Command="{Binding AddPhotoCommand}" Style="{DynamicResource ControlStyle}" Height="20" Width="150" Margin="10" Content="{x:Static local:ResourceLanquage.AddPhotoBtn}"></Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

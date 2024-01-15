@@ -1,0 +1,13 @@
+.photo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left:260px;
+    top:155px;
+
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out();
+}
+
+
+

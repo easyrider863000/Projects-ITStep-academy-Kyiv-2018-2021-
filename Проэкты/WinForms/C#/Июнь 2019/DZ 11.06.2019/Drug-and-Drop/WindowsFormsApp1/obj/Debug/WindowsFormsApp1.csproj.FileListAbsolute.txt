@@ -1,0 +1,55 @@
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Igor\source\repos\WebApplication\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPerson.resources
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPerson.resources
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\WinForms\Lesson 1 Test\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPerson.resources
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\WinForms\Lesson 2 drag and drop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPerson.resources
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\student.LAN\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormPerson.resources
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 11.06.2019\Drug-and-Drop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

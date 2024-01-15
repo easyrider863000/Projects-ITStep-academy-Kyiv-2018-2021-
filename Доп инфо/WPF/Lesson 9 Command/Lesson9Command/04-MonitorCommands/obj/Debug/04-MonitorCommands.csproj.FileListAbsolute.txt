@@ -1,0 +1,15 @@
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\04-MonitorCommands.csprojAssemblyReference.cache
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\App.g.cs
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\04-MonitorCommands_MarkupCompile.cache
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\04-MonitorCommands_MarkupCompile.lref
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\bin\Debug\04-MonitorCommands.exe.config
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\bin\Debug\04-MonitorCommands.exe
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\bin\Debug\04-MonitorCommands.pdb
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\04-MonitorCommands.g.resources
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\_04_MonitorCommands.Properties.Resources.resources
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\04-MonitorCommands.csproj.GenerateResource.cache
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\04-MonitorCommands.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\04-MonitorCommands.exe
+C:\WPF\Lesson 9 Command\Lesson9Command\04-MonitorCommands\obj\Debug\04-MonitorCommands.pdb

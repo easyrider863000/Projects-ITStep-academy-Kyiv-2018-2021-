@@ -1,0 +1,47 @@
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\bin\Debug\EntityFramework.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\bin\Debug\EntityFramework.SqlServer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\bin\Debug\EntityFramework.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\bin\Debug\EntityFramework.SqlServer.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csproj.CopyComplete
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 25.01.2020 paggination\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\bin\Debug\EntityFramework.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\bin\Debug\EntityFramework.SqlServer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\bin\Debug\EntityFramework.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\bin\Debug\EntityFramework.SqlServer.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csproj.CopyComplete
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 01.02.2020 strongtyped\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\bin\Debug\EntityFramework.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\bin\Debug\EntityFramework.SqlServer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\bin\Debug\EntityFramework.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\bin\Debug\EntityFramework.SqlServer.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csproj.CopyComplete
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 08.02.2020 ModelState\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.dll.config
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\bin\Debug\DAL_Paggination.pdb
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\bin\Debug\EntityFramework.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\bin\Debug\EntityFramework.SqlServer.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\bin\Debug\EntityFramework.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\bin\Debug\EntityFramework.SqlServer.xml
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.csproj.CopyComplete
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.dll
+D:\Шаг\Проэкты\ASP.NET\DZ 22.02.2020 MVC Auth\DZ\DAL_Paggination\obj\Debug\DAL_Paggination.pdb

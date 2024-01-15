@@ -1,0 +1,20 @@
+D:\Projects\Lesson 1. ADONETIntro\WinFormsExample\bin\Debug\WinFormsExample.exe.config
+D:\Projects\Lesson 1. ADONETIntro\WinFormsExample\bin\Debug\WinFormsExample.exe
+D:\Projects\Lesson 1. ADONETIntro\WinFormsExample\bin\Debug\WinFormsExample.pdb
+D:\Projects\Lesson 1. ADONETIntro\WinFormsExample\obj\Debug\WinFormsExample.csprojAssemblyReference.cache
+D:\Projects\Lesson 1. ADONETIntro\WinFormsExample\obj\Debug\WinFormsExample.Form1.resources
+D:\Projects\Lesson 1. ADONETIntro\WinFormsExample\obj\Debug\WinFormsExample.Properties.Resources.resources
+D:\Projects\Lesson 1. ADONETIntro\WinFormsExample\obj\Debug\WinFormsExample.csproj.GenerateResource.cache
+D:\Projects\Lesson 1. ADONETIntro\WinFormsExample\obj\Debug\WinFormsExample.csproj.CoreCompileInputs.cache
+D:\Projects\Lesson 1. ADONETIntro\WinFormsExample\obj\Debug\WinFormsExample.exe
+D:\Projects\Lesson 1. ADONETIntro\WinFormsExample\obj\Debug\WinFormsExample.pdb
+D:\Шаг\Доп инфо\ADO.NET\Lesson 1. ADONETIntro_1\WinFormsExample\bin\Debug\WinFormsExample.exe.config
+D:\Шаг\Доп инфо\ADO.NET\Lesson 1. ADONETIntro_1\WinFormsExample\bin\Debug\WinFormsExample.exe
+D:\Шаг\Доп инфо\ADO.NET\Lesson 1. ADONETIntro_1\WinFormsExample\bin\Debug\WinFormsExample.pdb
+D:\Шаг\Доп инфо\ADO.NET\Lesson 1. ADONETIntro_1\WinFormsExample\obj\Debug\WinFormsExample.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\ADO.NET\Lesson 1. ADONETIntro_1\WinFormsExample\obj\Debug\WinFormsExample.Form1.resources
+D:\Шаг\Доп инфо\ADO.NET\Lesson 1. ADONETIntro_1\WinFormsExample\obj\Debug\WinFormsExample.Properties.Resources.resources
+D:\Шаг\Доп инфо\ADO.NET\Lesson 1. ADONETIntro_1\WinFormsExample\obj\Debug\WinFormsExample.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\ADO.NET\Lesson 1. ADONETIntro_1\WinFormsExample\obj\Debug\WinFormsExample.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\ADO.NET\Lesson 1. ADONETIntro_1\WinFormsExample\obj\Debug\WinFormsExample.exe
+D:\Шаг\Доп инфо\ADO.NET\Lesson 1. ADONETIntro_1\WinFormsExample\obj\Debug\WinFormsExample.pdb

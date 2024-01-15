@@ -1,0 +1,21 @@
+﻿<Window x:Class="Fiveth_DataContext.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fiveth_DataContext"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Name="grid">
+        <StackPanel>
+            <Button Click="Button_Click_2">Change Name</Button>
+            <Label FontSize="30" Content="{Binding Student.Name}"></Label>
+            <Label FontSize="30" Content="{Binding Student.LastName}"></Label>
+            <Button Click="Button_Click">Add</Button>
+            <Button Click="Button_Click_1">Remove</Button>
+            <ListBox Background="LightCoral" FontSize="30"
+                 ItemsSource="{Binding Strings}"
+                     SelectedItem="{Binding SelectedString}"></ListBox>
+        </StackPanel>
+    </Grid>
+</Window>

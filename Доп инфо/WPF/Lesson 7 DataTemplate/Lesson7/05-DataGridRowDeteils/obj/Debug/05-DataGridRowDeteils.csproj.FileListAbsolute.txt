@@ -1,0 +1,36 @@
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\bin\Debug\05-DataGridRowDeteils.exe.config
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\bin\Debug\05-DataGridRowDeteils.exe
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\bin\Debug\05-DataGridRowDeteils.pdb
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\bin\Debug\DataForSolution.dll
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\bin\Debug\DataForSolution.pdb
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.csprojAssemblyReference.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\App.g.cs
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils_MarkupCompile.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils_MarkupCompile.lref
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.g.resources
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\_05_DataGridRowDeteils.Properties.Resources.resources
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.csproj.GenerateResource.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.csproj.CopyComplete
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.exe
+C:\WPF\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.pdb
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\bin\Debug\05-DataGridRowDeteils.exe.config
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\bin\Debug\05-DataGridRowDeteils.exe
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\bin\Debug\05-DataGridRowDeteils.pdb
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\bin\Debug\DataForSolution.dll
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\bin\Debug\DataForSolution.pdb
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.g.resources
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\_05_DataGridRowDeteils.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.csproj.CopyComplete
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.exe
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\05-DataGridRowDeteils\obj\Debug\05-DataGridRowDeteils.pdb

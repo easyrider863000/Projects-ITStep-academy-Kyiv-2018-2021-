@@ -1,0 +1,14 @@
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\bin\Debug\PredicateBuilderSample.exe.config
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\bin\Debug\PredicateBuilderSample.exe
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\bin\Debug\PredicateBuilderSample.pdb
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\bin\Debug\EntityFramework.dll
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\bin\Debug\LinqKit.dll
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\bin\Debug\EntityFramework.xml
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\bin\Debug\LinqKit.xml
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\obj\Debug\PredicateBuilderSample.csprojAssemblyReference.cache
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\obj\Debug\PredicateBuilderSample.csproj.CoreCompileInputs.cache
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\obj\Debug\PredicateBuilderSample.csproj.CopyComplete
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\obj\Debug\PredicateBuilderSample.exe
+D:\Projects\PredicateBuilderSample\PredicateBuilderSample\obj\Debug\PredicateBuilderSample.pdb

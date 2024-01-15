@@ -1,0 +1,19 @@
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\bin\Debug\03.07.2019 lesson 10 MVVM.exe.config
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\bin\Debug\03.07.2019 lesson 10 MVVM.exe
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\bin\Debug\03.07.2019 lesson 10 MVVM.pdb
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\03.07.2019 lesson 10 MVVM.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\03.07.2019 lesson 10 MVVM_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\03.07.2019 lesson 10 MVVM_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\03.07.2019 lesson 10 MVVM.g.resources
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\_03._07._2019_lesson_10_MVVM.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\03.07.2019 lesson 10 MVVM.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\03.07.2019 lesson 10 MVVM.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\03.07.2019 lesson 10 MVVM.exe
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\03.07.2019 lesson 10 MVVM.pdb
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\App.baml
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\Views\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\Views\NewUserWindow.g.cs
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\Views\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Июль 2019\Homework\03.07.2019 lesson 10 MVVM\obj\Debug\Views\NewUserWindow.baml

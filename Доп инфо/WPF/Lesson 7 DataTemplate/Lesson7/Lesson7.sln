@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-ComboBox", "01-ComboBox\01-ComboBox.csproj", "{45F9BCAE-2815-4FC3-96D3-3572B89F8D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataForSolution", "DataForSolution\DataForSolution.csproj", "{ED25215E-6D0A-4EC8-82A4-BDCE11FC4F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-GridViewSample", "02-GridViewSample\02-GridViewSample.csproj", "{ABBB4CAC-4848-4F69-BEAC-D1BBFE6F6F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-DataGridCustomer", "03-DataGridCustomer\03-DataGridCustomer.csproj", "{7EA0CE8E-8883-4D70-9A2C-117A103AB825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-DataGridCustomerExt", "04-DataGridCustomerExt\04-DataGridCustomerExt.csproj", "{86B81ED1-31A5-4412-97D3-3937BE7991A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-DataGridRowDeteils", "05-DataGridRowDeteils\05-DataGridRowDeteils.csproj", "{BA803F18-5B57-4DCA-9659-BB488A52E357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ 26.06.2019_", "DZ 26.06.2019_\DZ 26.06.2019_.csproj", "{FFA5EB78-C99D-4850-AFD8-10A315AE24FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F9BCAE-2815-4FC3-96D3-3572B89F8D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F9BCAE-2815-4FC3-96D3-3572B89F8D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F9BCAE-2815-4FC3-96D3-3572B89F8D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F9BCAE-2815-4FC3-96D3-3572B89F8D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED25215E-6D0A-4EC8-82A4-BDCE11FC4F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED25215E-6D0A-4EC8-82A4-BDCE11FC4F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED25215E-6D0A-4EC8-82A4-BDCE11FC4F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED25215E-6D0A-4EC8-82A4-BDCE11FC4F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBB4CAC-4848-4F69-BEAC-D1BBFE6F6F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBB4CAC-4848-4F69-BEAC-D1BBFE6F6F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBB4CAC-4848-4F69-BEAC-D1BBFE6F6F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBB4CAC-4848-4F69-BEAC-D1BBFE6F6F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA0CE8E-8883-4D70-9A2C-117A103AB825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA0CE8E-8883-4D70-9A2C-117A103AB825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA0CE8E-8883-4D70-9A2C-117A103AB825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA0CE8E-8883-4D70-9A2C-117A103AB825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B81ED1-31A5-4412-97D3-3937BE7991A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B81ED1-31A5-4412-97D3-3937BE7991A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B81ED1-31A5-4412-97D3-3937BE7991A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B81ED1-31A5-4412-97D3-3937BE7991A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA803F18-5B57-4DCA-9659-BB488A52E357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA803F18-5B57-4DCA-9659-BB488A52E357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA803F18-5B57-4DCA-9659-BB488A52E357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA803F18-5B57-4DCA-9659-BB488A52E357}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA5EB78-C99D-4850-AFD8-10A315AE24FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA5EB78-C99D-4850-AFD8-10A315AE24FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA5EB78-C99D-4850-AFD8-10A315AE24FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA5EB78-C99D-4850-AFD8-10A315AE24FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {932903D9-3955-4BFC-B435-FCE1A0CF5D36}
+	EndGlobalSection
+EndGlobal

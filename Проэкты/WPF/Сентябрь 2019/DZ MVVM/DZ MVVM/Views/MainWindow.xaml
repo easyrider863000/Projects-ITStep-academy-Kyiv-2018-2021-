@@ -1,0 +1,76 @@
+﻿<Window x:Class="DZ_MVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DZ_MVVM"
+        xmlns:vm="clr-namespace:DZ_MVVM.ViewModels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="380" Width="400" MinHeight="380" MinWidth="400">
+    <Window.DataContext>
+        <vm:MainViewModel></vm:MainViewModel>
+    </Window.DataContext>
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="5,10"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0" Grid.Column="0">
+            <ListBox Margin="10" MaxHeight="200"
+					 ItemsSource="{Binding Students}"
+					 SelectedItem="{Binding SelectedStudent}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="{Binding Name}"></Label>
+                            <Label Content="{Binding Lastname}"></Label>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel></StackPanel>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+            </ListBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <Button Command="{Binding AddCommand}" >Add</Button>
+            <Button Command="{Binding RemoveCommand}" CommandParameter="{Binding SelectedStudent}">Remove</Button>
+            <Button Command="{Binding SaveCommand}" >Save</Button>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="0">
+            <Label>Name</Label>
+            <TextBox Width="200" Margin="5" Text="{Binding SelectedStudent.Name, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Label>Surname</Label>
+            <TextBox Width="200" Margin="5" Text="{Binding SelectedStudent.Lastname, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <Label>Group</Label>
+            <TextBox Width="200" Margin="5" Text="{Binding SelectedStudent.Group}"></TextBox>
+            <Label>YearBirth</Label>
+            <TextBox Width="200" Margin="5" Text="{Binding SelectedStudent.YearBirth}"></TextBox>
+        </StackPanel>
+        <DockPanel Grid.Row="1" Grid.Column="0">
+            <Expander Height="85" DockPanel.Dock="Top" Header="Order by" Margin="10,0">
+                <StackPanel Margin="10,0,0,0">
+                    <RadioButton Content="Name" Command="{Binding SortCommand}" CommandParameter="Name"/>
+                    <RadioButton Content="Surname" Command="{Binding SortCommand}" CommandParameter="Surname"/>
+                    <RadioButton Content="Group" Command="{Binding SortCommand}" CommandParameter="Group"/>
+                    <RadioButton Content="YearBirth" Command="{Binding SortCommand}" CommandParameter="YearBirth"/>
+                </StackPanel>
+            </Expander>
+            <StackPanel Height="30" DockPanel.Dock="Top" Margin="10,5">
+                <RadioButton Content="Ascending" Command="{Binding HowSortCommand}" CommandParameter="false"/>
+                <RadioButton Content="Descending" Command="{Binding HowSortCommand}" CommandParameter="true"/>
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Window>

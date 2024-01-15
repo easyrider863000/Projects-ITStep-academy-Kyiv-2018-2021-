@@ -1,0 +1,11 @@
+D:\Projects\CarsApp\CarsApp.BLL\bin\Debug\CarsApp.BLL.dll
+D:\Projects\CarsApp\CarsApp.BLL\bin\Debug\CarsApp.BLL.pdb
+D:\Projects\CarsApp\CarsApp.BLL\bin\Debug\CarsApp.DAL.dll
+D:\Projects\CarsApp\CarsApp.BLL\bin\Debug\Ninject.dll
+D:\Projects\CarsApp\CarsApp.BLL\bin\Debug\CarsApp.DAL.pdb
+D:\Projects\CarsApp\CarsApp.BLL\bin\Debug\Ninject.xml
+D:\Projects\CarsApp\CarsApp.BLL\obj\Debug\CarsApp.BLL.csprojAssemblyReference.cache
+D:\Projects\CarsApp\CarsApp.BLL\obj\Debug\CarsApp.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\CarsApp\CarsApp.BLL\obj\Debug\CarsApp.BLL.csproj.CopyComplete
+D:\Projects\CarsApp\CarsApp.BLL\obj\Debug\CarsApp.BLL.dll
+D:\Projects\CarsApp\CarsApp.BLL\obj\Debug\CarsApp.BLL.pdb

@@ -1,0 +1,17 @@
+D:\Projects\PredicateBuilderSample\WinFormsSample\bin\Debug\WinFormsSample.exe.config
+D:\Projects\PredicateBuilderSample\WinFormsSample\bin\Debug\WinFormsSample.exe
+D:\Projects\PredicateBuilderSample\WinFormsSample\bin\Debug\WinFormsSample.pdb
+D:\Projects\PredicateBuilderSample\WinFormsSample\bin\Debug\EntityFramework.dll
+D:\Projects\PredicateBuilderSample\WinFormsSample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PredicateBuilderSample\WinFormsSample\bin\Debug\LinqKit.dll
+D:\Projects\PredicateBuilderSample\WinFormsSample\bin\Debug\EntityFramework.xml
+D:\Projects\PredicateBuilderSample\WinFormsSample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\PredicateBuilderSample\WinFormsSample\bin\Debug\LinqKit.xml
+D:\Projects\PredicateBuilderSample\WinFormsSample\obj\Debug\WinFormsSample.csprojAssemblyReference.cache
+D:\Projects\PredicateBuilderSample\WinFormsSample\obj\Debug\WinFormsSample.Form1.resources
+D:\Projects\PredicateBuilderSample\WinFormsSample\obj\Debug\WinFormsSample.Properties.Resources.resources
+D:\Projects\PredicateBuilderSample\WinFormsSample\obj\Debug\WinFormsSample.csproj.GenerateResource.cache
+D:\Projects\PredicateBuilderSample\WinFormsSample\obj\Debug\WinFormsSample.csproj.CoreCompileInputs.cache
+D:\Projects\PredicateBuilderSample\WinFormsSample\obj\Debug\WinFormsSample.csproj.CopyComplete
+D:\Projects\PredicateBuilderSample\WinFormsSample\obj\Debug\WinFormsSample.exe
+D:\Projects\PredicateBuilderSample\WinFormsSample\obj\Debug\WinFormsSample.pdb

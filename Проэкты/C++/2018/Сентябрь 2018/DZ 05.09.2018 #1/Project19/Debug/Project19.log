@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\vs projects\project19\project19\source.cpp(79): warning C4715: 'spwd': not all control paths return a value
+  Project19.vcxproj -> D:\VS Projects\Project19\Debug\Project19.exe

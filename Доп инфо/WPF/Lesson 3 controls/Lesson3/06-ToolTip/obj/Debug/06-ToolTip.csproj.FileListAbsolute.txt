@@ -1,0 +1,15 @@
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\bin\Debug\06-ToolTip.exe.config
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\bin\Debug\06-ToolTip.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\bin\Debug\06-ToolTip.pdb
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\06-ToolTip.csprojAssemblyReference.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\App.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\06-ToolTip_MarkupCompile.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\06-ToolTip_MarkupCompile.lref
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\06-ToolTip.g.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\_06_ToolTip.Properties.Resources.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\06-ToolTip.csproj.GenerateResource.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\06-ToolTip.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\06-ToolTip.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\06-ToolTip\obj\Debug\06-ToolTip.pdb

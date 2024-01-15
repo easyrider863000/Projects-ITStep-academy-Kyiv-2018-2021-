@@ -1,0 +1,29 @@
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\bin\Debug\04-OneWayToSource.exe.config
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\bin\Debug\04-OneWayToSource.exe
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\bin\Debug\04-OneWayToSource.pdb
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\App.g.cs
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource_MarkupCompile.cache
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource_MarkupCompile.lref
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.g.resources
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\_04_OneWayToSource.Properties.Resources.resources
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.csproj.GenerateResource.cache
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.exe
+C:\WPF\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.pdb
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\bin\Debug\04-OneWayToSource.exe.config
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\bin\Debug\04-OneWayToSource.exe
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\bin\Debug\04-OneWayToSource.pdb
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.csprojAssemblyReference.cache
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\App.g.cs
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource_MarkupCompile.cache
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource_MarkupCompile.lref
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.g.resources
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\_04_OneWayToSource.Properties.Resources.resources
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.csproj.GenerateResource.cache
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.exe
+C:\WPF\Lesson 6 Binding\Lesson 6 Binding\Lesson6Binding\04-OneWayToSource\obj\Debug\04-OneWayToSource.pdb

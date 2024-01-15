@@ -1,0 +1,14 @@
+C:\WinForms\Lesson 4 events\EventsUnderstand\04-PingPong\bin\Debug\04-PingPong.exe.config
+C:\WinForms\Lesson 4 events\EventsUnderstand\04-PingPong\bin\Debug\04-PingPong.exe
+C:\WinForms\Lesson 4 events\EventsUnderstand\04-PingPong\bin\Debug\04-PingPong.pdb
+C:\WinForms\Lesson 4 events\EventsUnderstand\04-PingPong\obj\Debug\04-PingPong.csprojAssemblyReference.cache
+C:\WinForms\Lesson 4 events\EventsUnderstand\04-PingPong\obj\Debug\04-PingPong.csproj.CoreCompileInputs.cache
+C:\WinForms\Lesson 4 events\EventsUnderstand\04-PingPong\obj\Debug\04-PingPong.exe
+C:\WinForms\Lesson 4 events\EventsUnderstand\04-PingPong\obj\Debug\04-PingPong.pdb
+C:\WPF\Lesson 5 events\EventsUnderstand\04-PingPong\bin\Debug\04-PingPong.exe.config
+C:\WPF\Lesson 5 events\EventsUnderstand\04-PingPong\bin\Debug\04-PingPong.exe
+C:\WPF\Lesson 5 events\EventsUnderstand\04-PingPong\bin\Debug\04-PingPong.pdb
+C:\WPF\Lesson 5 events\EventsUnderstand\04-PingPong\obj\Debug\04-PingPong.csprojAssemblyReference.cache
+C:\WPF\Lesson 5 events\EventsUnderstand\04-PingPong\obj\Debug\04-PingPong.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 5 events\EventsUnderstand\04-PingPong\obj\Debug\04-PingPong.exe
+C:\WPF\Lesson 5 events\EventsUnderstand\04-PingPong\obj\Debug\04-PingPong.pdb

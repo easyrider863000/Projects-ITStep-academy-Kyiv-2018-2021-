@@ -1,0 +1,35 @@
+﻿@model IEnumerable<DAL_Paggination.Good>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <meta charset="utf-8" />
+    <title>first web-aplication</title>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Menu</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    @Ajax.ActionLink($"Table Manufacturers", "TableManufacturers", new { id = 1 }, new AjaxOptions { UpdateTargetId = "place" }, new { @class = "navbar-brand" })
+                </li>
+                <li class="nav-item">
+                    @Ajax.ActionLink($"Table Categories", "TableCategories", new { id = 1 }, new AjaxOptions { UpdateTargetId = "place" }, new { @class = "navbar-brand" })
+                </li>
+                <li class="nav-item">
+                    @Ajax.ActionLink($"Table Goods", "TableGoods", new { id = 1 }, new AjaxOptions { UpdateTargetId = "place" }, new { @class = "navbar-brand" })
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div id="place">
+        @Html.Partial("TableGoods", Model)
+    </div>
+    <script src="~/scripts/jquery-1.10.2.js"></script>
+    <script src="~/scripts/jquery.unobtrusive-ajax.js"></script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\bin\Debug\08-OnlyNumbers.exe.config
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\bin\Debug\08-OnlyNumbers.exe
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\bin\Debug\08-OnlyNumbers.pdb
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.csprojAssemblyReference.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\App.g.cs
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers_MarkupCompile.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers_MarkupCompile.lref
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.g.resources
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\_08_OnlyNumbers.Properties.Resources.resources
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.csproj.GenerateResource.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.exe
+C:\WPF\Lesson 4 BaseControls\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.pdb
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\bin\Debug\08-OnlyNumbers.exe.config
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\bin\Debug\08-OnlyNumbers.exe
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\bin\Debug\08-OnlyNumbers.pdb
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.csprojAssemblyReference.cache
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\App.g.cs
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers_MarkupCompile.cache
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers_MarkupCompile.lref
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.g.resources
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\_08_OnlyNumbers.Properties.Resources.resources
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.csproj.GenerateResource.cache
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.exe
+C:\WPF\Lesson 5 events\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.pdb
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\bin\Debug\08-OnlyNumbers.exe.config
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\bin\Debug\08-OnlyNumbers.exe
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\bin\Debug\08-OnlyNumbers.pdb
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.g.resources
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\_08_OnlyNumbers.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.exe
+D:\Шаг\Доп инфо\Lesson5\08-OnlyNumbers\obj\Debug\08-OnlyNumbers.pdb

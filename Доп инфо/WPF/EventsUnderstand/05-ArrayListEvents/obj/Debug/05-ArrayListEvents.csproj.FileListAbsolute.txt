@@ -1,0 +1,14 @@
+C:\WinForms\Lesson 4 events\EventsUnderstand\05-ArrayListEvents\obj\Debug\05-ArrayListEvents.csprojAssemblyReference.cache
+C:\WinForms\Lesson 4 events\EventsUnderstand\05-ArrayListEvents\obj\Debug\05-ArrayListEvents.csproj.CoreCompileInputs.cache
+C:\WinForms\Lesson 4 events\EventsUnderstand\05-ArrayListEvents\bin\Debug\05-ArrayListEvents.exe.config
+C:\WinForms\Lesson 4 events\EventsUnderstand\05-ArrayListEvents\bin\Debug\05-ArrayListEvents.exe
+C:\WinForms\Lesson 4 events\EventsUnderstand\05-ArrayListEvents\bin\Debug\05-ArrayListEvents.pdb
+C:\WinForms\Lesson 4 events\EventsUnderstand\05-ArrayListEvents\obj\Debug\05-ArrayListEvents.exe
+C:\WinForms\Lesson 4 events\EventsUnderstand\05-ArrayListEvents\obj\Debug\05-ArrayListEvents.pdb
+C:\WPF\Lesson 5 events\EventsUnderstand\05-ArrayListEvents\bin\Debug\05-ArrayListEvents.exe.config
+C:\WPF\Lesson 5 events\EventsUnderstand\05-ArrayListEvents\bin\Debug\05-ArrayListEvents.exe
+C:\WPF\Lesson 5 events\EventsUnderstand\05-ArrayListEvents\bin\Debug\05-ArrayListEvents.pdb
+C:\WPF\Lesson 5 events\EventsUnderstand\05-ArrayListEvents\obj\Debug\05-ArrayListEvents.csprojAssemblyReference.cache
+C:\WPF\Lesson 5 events\EventsUnderstand\05-ArrayListEvents\obj\Debug\05-ArrayListEvents.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 5 events\EventsUnderstand\05-ArrayListEvents\obj\Debug\05-ArrayListEvents.exe
+C:\WPF\Lesson 5 events\EventsUnderstand\05-ArrayListEvents\obj\Debug\05-ArrayListEvents.pdb

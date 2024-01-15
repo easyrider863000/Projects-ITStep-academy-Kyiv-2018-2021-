@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\vs projects\project20\project20\source.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\vs projects\project20\project20\source.cpp(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\vs projects\project20\project20\source.cpp(60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\vs projects\project20\project20\source.cpp(66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\vs projects\project20\project20\source.cpp(89): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+d:\vs projects\project20\project20\source.cpp(103): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Project20.vcxproj -> D:\VS Projects\Project20\Debug\Project20.exe

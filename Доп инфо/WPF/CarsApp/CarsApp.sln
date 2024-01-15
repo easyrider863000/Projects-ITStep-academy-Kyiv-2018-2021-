@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsApp", "CarsApp\CarsApp.csproj", "{9E0D9866-A0E3-4EF1-A264-105EEF02F404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsApp.DAL", "CarsApp.DAL\CarsApp.DAL.csproj", "{12AEFF66-E513-4BEE-A41B-48C5B42F2493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsApp.BLL", "CarsApp.BLL\CarsApp.BLL.csproj", "{41EB5B43-E573-4070-BE0F-ADCE46C116F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E0D9866-A0E3-4EF1-A264-105EEF02F404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0D9866-A0E3-4EF1-A264-105EEF02F404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0D9866-A0E3-4EF1-A264-105EEF02F404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0D9866-A0E3-4EF1-A264-105EEF02F404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12AEFF66-E513-4BEE-A41B-48C5B42F2493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AEFF66-E513-4BEE-A41B-48C5B42F2493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AEFF66-E513-4BEE-A41B-48C5B42F2493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AEFF66-E513-4BEE-A41B-48C5B42F2493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EB5B43-E573-4070-BE0F-ADCE46C116F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EB5B43-E573-4070-BE0F-ADCE46C116F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EB5B43-E573-4070-BE0F-ADCE46C116F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EB5B43-E573-4070-BE0F-ADCE46C116F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2375F7DF-03DB-454B-8320-0EAE83EF2B08}
+	EndGlobalSection
+EndGlobal

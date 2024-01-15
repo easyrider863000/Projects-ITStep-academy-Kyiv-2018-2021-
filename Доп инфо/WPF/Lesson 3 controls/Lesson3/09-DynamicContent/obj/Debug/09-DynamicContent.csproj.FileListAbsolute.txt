@@ -1,0 +1,14 @@
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\bin\Debug\09-DynamicContent.exe.config
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\bin\Debug\09-DynamicContent.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\bin\Debug\09-DynamicContent.pdb
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\App.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\09-DynamicContent_MarkupCompile.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\09-DynamicContent_MarkupCompile.lref
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\09-DynamicContent.g.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\_09_DynamicContent.Properties.Resources.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\09-DynamicContent.csproj.GenerateResource.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\09-DynamicContent.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\09-DynamicContent.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\09-DynamicContent\obj\Debug\09-DynamicContent.pdb

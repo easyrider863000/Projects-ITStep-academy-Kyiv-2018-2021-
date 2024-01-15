@@ -1,0 +1,144 @@
+# GET https://localhost:5001/api/goods
+# Authorization: bearer yJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJ1bmlxdWVfbmFtZSI6IjMiLCJuYmYiOjE1OTEyMTUwMzIsImV4cCI6MTU5MTIxNjgzMiwiaWF0IjoxNTkxMjE1MDMyfQ.XLoJQYzBIBs5ELCQGkD8-lTri2Hhf0Ei5toGsv0qpz4
+
+
+# PUT https://localhost:5001/api/goods/32
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjMiLCJyb2xlIjoiYWRtaW4iLCJuYmYiOjE1ODkzMjIzMjYsImV4cCI6MTU4OTMyNDEyNiwiaWF0IjoxNTg5MzIyMzI2fQ.pWqWoSBlG3Uslf3BrnS8PbDBdy9sSjbIaV7n3-bqosc
+# Content-Type: application/json
+
+# {
+#       "Name": "test2",
+#       "Number": "170518",
+#       "Description":"rfvf0",
+#       "IdManufacturer": 20,
+#       "IdCategory": 3,
+#       "IdSupplier": 3,
+#       "Price": 130,
+#       "IsBeating":true,
+#       "IsLiquid":true,
+#       "PhotoPath": "https://img.icons8.com/ios-filled/2x/unsplash.png"
+# }
+
+# {
+#     "Name": "test",
+#     "Number": "frfmdvkd",
+#     "Description": "rg",
+#     "IdManufacturer":1,
+#     "IdCategory": 1,
+#     "IdSupplier": 1,
+#     "Price": 10,
+#     "PhotoPath":"fvdf"
+# }
+# GET https://localhost:5001/api/clients/address/11
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJuYW1laWQiOiIzIiwibmJmIjoxNTk3NzUxODQ1LCJleHAiOjE1OTc3NTM2NDUsImlhdCI6MTU5Nzc1MTg0NX0.cWCxye7BCVerYGf-UsazSySKYfA5FPla7yw90Oqx5Io
+
+
+
+# POST https://localhost:5001/api/auth/authenticate
+# Content-Type: application/json
+
+# {
+#     "Login":"3",
+#     "Password":"321"
+# }
+
+# POST https://localhost:5001/api/auth/authenticate
+# Content-Type: application/json
+
+# {
+#     "Login":"3",
+#     "Password":"321"
+# }
+
+# POST https://localhost:5001/api/clients
+# Content-Type: application/json
+
+# {
+#     "Name":"3",
+#     "SurName":"1",
+#     "Description":"kis",
+#     "Login":"3",
+#     "Password":"321",
+#     "IdRole":1
+# }
+
+
+
+
+
+
+# PUT https://localhost:5001/api/clients/12
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJuYW1laWQiOiIzIiwibmJmIjoxNTkxMzA3NDAwLCJleHAiOjE1OTEzMDkyMDAsImlhdCI6MTU5MTMwNzQwMH0.QMlt2mdVYWCfTEOHmbxov_AGGOLlQ6zksPKVRM67fcY
+# Content-Type: application/json
+
+# {
+#     "Name":"258",
+#     "SurName":"1",
+#     "Description":"kis",
+#     "Login":"3",
+#     "Password":"123",
+#     "IdRole":1
+# }
+
+
+GET http://localhost:5000/api/clients/addressmail/1038/33
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJuYW1laWQiOiJ1aSIsIm5iZiI6MTU5Nzk0NTkzNCwiZXhwIjoxNTk3OTQ3NzM0LCJpYXQiOjE1OTc5NDU5MzR9.UH6khSRFiU2oSsYm6RszEoDEnNlB9HhGSEtIaSm1gvQ
+
+# DELETE http://localhost:5000/api/clients/address/12/23
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJuYW1laWQiOiIzIiwibmJmIjoxNTkxMzU4OTc0LCJleHAiOjE1OTEzNjA3NzQsImlhdCI6MTU5MTM1ODk3NH0.OsGKtOVK_nRCu2HlQ8fYRpsvs1ym3ifMwIjmlYasRmA
+    
+
+
+# POST http://localhost:5000/api/clients/address/11
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJuYW1laWQiOiIzIiwibmJmIjoxNTk3OTQ1NDE3LCJleHAiOjE1OTc5NDcyMTcsImlhdCI6MTU5Nzk0NTQxN30.Jso44j7KlpkHhVRDzr_-T9WBycP4GZKg5ISBS-nmTQM
+# Content-Type: application/json
+
+# {
+#     "Country":"UE",
+#     "City":"Europa",
+#     "Street":"Kowalskego",
+#     "House":"19",
+#     "Flat":"10b",
+#     "Description":"Consierzz"
+# }
+
+
+
+# PUT http://localhost:5000/api/clients/address/12/25
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJuYW1laWQiOiIzIiwibmJmIjoxNTkxMzU4OTc0LCJleHAiOjE1OTEzNjA3NzQsImlhdCI6MTU5MTM1ODk3NH0.OsGKtOVK_nRCu2HlQ8fYRpsvs1ym3ifMwIjmlYasRmA
+# Content-Type: application/json
+
+# {
+#     "Country":"America",
+#     "City":"Europa",
+#     "Street":"Kego",
+#     "House":"15",
+#     "Flat":"10r",
+#     "Description":"2 padik"
+# }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# GET https://localhost:5001/api/orderdetails
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJuYW1laWQiOiIzIiwibmJmIjoxNTkxNDA1MzE2LCJleHAiOjE1OTE0MDcxMTYsImlhdCI6MTU5MTQwNTMxNn0.-EzcOJ9tlGE9h8WQVlM6zbyLflgmPJl-U6GdBSht93o
+
+
+
+
+

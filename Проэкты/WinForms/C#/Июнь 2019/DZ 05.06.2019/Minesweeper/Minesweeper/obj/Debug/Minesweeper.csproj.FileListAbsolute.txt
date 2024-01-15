@@ -1,0 +1,10 @@
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 05.06.2019\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 05.06.2019\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 05.06.2019\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 05.06.2019\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 05.06.2019\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 05.06.2019\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 05.06.2019\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 05.06.2019\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 05.06.2019\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Шаг\Проэкты\WinForms\C#\Июнь 2019\DZ 05.06.2019\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb

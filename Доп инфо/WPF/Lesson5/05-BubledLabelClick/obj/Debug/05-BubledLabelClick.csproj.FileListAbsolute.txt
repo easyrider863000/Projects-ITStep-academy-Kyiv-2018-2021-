@@ -1,0 +1,45 @@
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\bin\Debug\05-BubledLabelClick.exe.config
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\bin\Debug\05-BubledLabelClick.exe
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\bin\Debug\05-BubledLabelClick.pdb
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.csprojAssemblyReference.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\App.g.cs
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick_MarkupCompile.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick_MarkupCompile.lref
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.g.resources
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\_05_BubledLabelClick.Properties.Resources.resources
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.csproj.GenerateResource.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.exe
+C:\WPF\Lesson 4 BaseControls\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.pdb
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\bin\Debug\05-BubledLabelClick.exe.config
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\bin\Debug\05-BubledLabelClick.exe
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\bin\Debug\05-BubledLabelClick.pdb
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.csprojAssemblyReference.cache
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\App.g.cs
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick_MarkupCompile.cache
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick_MarkupCompile.lref
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.g.resources
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\_05_BubledLabelClick.Properties.Resources.resources
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.csproj.GenerateResource.cache
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.exe
+C:\WPF\Lesson 5 events\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.pdb
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\bin\Debug\05-BubledLabelClick.exe.config
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\bin\Debug\05-BubledLabelClick.exe
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\bin\Debug\05-BubledLabelClick.pdb
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.g.resources
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\_05_BubledLabelClick.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.exe
+D:\Шаг\Доп инфо\Lesson5\05-BubledLabelClick\obj\Debug\05-BubledLabelClick.pdb

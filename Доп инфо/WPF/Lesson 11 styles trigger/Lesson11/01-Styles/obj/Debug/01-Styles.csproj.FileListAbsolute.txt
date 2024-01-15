@@ -1,0 +1,30 @@
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\bin\Debug\01-Styles.exe.config
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\bin\Debug\01-Styles.exe
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\bin\Debug\01-Styles.pdb
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\01-Styles.csprojAssemblyReference.cache
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\App.g.cs
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\01-Styles_MarkupCompile.cache
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\01-Styles_MarkupCompile.lref
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\01-Styles.g.resources
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\_01_Styles.Properties.Resources.resources
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\01-Styles.csproj.GenerateResource.cache
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\01-Styles.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\01-Styles.exe
+C:\WPF\Lesson 11 style trigger\Lesson11\01-Styles\obj\Debug\01-Styles.pdb
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\bin\Debug\01-Styles.exe.config
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\bin\Debug\01-Styles.exe
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\bin\Debug\01-Styles.pdb
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\01-Styles.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\01-Styles_MarkupCompile.cache
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\01-Styles_MarkupCompile.lref
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\01-Styles.g.resources
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\_01_Styles.Properties.Resources.resources
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\01-Styles.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\01-Styles.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\01-Styles.exe
+D:\Шаг\Доп инфо\WPF\Lesson 11 styles trigger\Lesson11\01-Styles\obj\Debug\01-Styles.pdb

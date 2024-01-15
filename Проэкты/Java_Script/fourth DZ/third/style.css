@@ -1,0 +1,20 @@
+.div{
+    border-width: medium;
+    border-style: solid;
+}
+.btn{
+    border-width: medium;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+    border-color: black;
+    background-color: cadetblue;
+    color: white;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.text{
+    background-color: lightblue;
+    display: none;
+}

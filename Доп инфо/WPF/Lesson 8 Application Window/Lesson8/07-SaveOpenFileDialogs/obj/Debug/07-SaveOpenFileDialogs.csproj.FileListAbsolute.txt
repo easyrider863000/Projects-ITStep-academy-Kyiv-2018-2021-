@@ -1,0 +1,30 @@
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\bin\Debug\07-SaveOpenFileDialogs.exe.config
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\bin\Debug\07-SaveOpenFileDialogs.exe
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\bin\Debug\07-SaveOpenFileDialogs.pdb
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\App.g.cs
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs_MarkupCompile.cache
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs_MarkupCompile.lref
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\MainWindow.baml
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.g.resources
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\_07_SaveOpenFileDialogs.Properties.Resources.resources
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.exe
+C:\Users\Igor\source\repos\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.pdb
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\bin\Debug\07-SaveOpenFileDialogs.exe.config
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\bin\Debug\07-SaveOpenFileDialogs.exe
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\bin\Debug\07-SaveOpenFileDialogs.pdb
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.csprojAssemblyReference.cache
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\MainWindow.g.cs
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\App.g.cs
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs_MarkupCompile.cache
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs_MarkupCompile.lref
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\MainWindow.baml
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.g.resources
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\_07_SaveOpenFileDialogs.Properties.Resources.resources
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.csproj.GenerateResource.cache
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.csproj.CoreCompileInputs.cache
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.exe
+Y:\Группы\!9п1_31\wpf\Lesson 8 Application Window\Lesson8\07-SaveOpenFileDialogs\obj\Debug\07-SaveOpenFileDialogs.pdb

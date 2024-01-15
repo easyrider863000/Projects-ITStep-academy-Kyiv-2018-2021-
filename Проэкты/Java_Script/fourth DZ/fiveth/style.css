@@ -1,0 +1,17 @@
+td{
+    text-align: center;
+    width:50px;
+}
+[type="button"]{
+    width: 300px;
+    text-align: center;
+    margin: 20px 0;
+}
+[type="text"]{
+    width: 50px;
+    margin: 10px;
+}
+body{
+    text-align: center;
+    background-color: wheat;
+}

@@ -1,0 +1,7 @@
+C:\WinForms\Lesson 4 events\EventsUnderstand\02-EventDotNet\obj\Debug\02-EventDotNet.csprojAssemblyReference.cache
+C:\WinForms\Lesson 4 events\EventsUnderstand\02-EventDotNet\obj\Debug\02-EventDotNet.csproj.CoreCompileInputs.cache
+C:\WinForms\Lesson 4 events\EventsUnderstand\02-EventDotNet\bin\Debug\02-EventDotNet.exe.config
+C:\WinForms\Lesson 4 events\EventsUnderstand\02-EventDotNet\bin\Debug\02-EventDotNet.exe
+C:\WinForms\Lesson 4 events\EventsUnderstand\02-EventDotNet\bin\Debug\02-EventDotNet.pdb
+C:\WinForms\Lesson 4 events\EventsUnderstand\02-EventDotNet\obj\Debug\02-EventDotNet.exe
+C:\WinForms\Lesson 4 events\EventsUnderstand\02-EventDotNet\obj\Debug\02-EventDotNet.pdb

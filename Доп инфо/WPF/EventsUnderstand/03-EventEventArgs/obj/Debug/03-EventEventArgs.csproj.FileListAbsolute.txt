@@ -1,0 +1,14 @@
+C:\WinForms\Lesson 4 events\EventsUnderstand\03-EventEventArgs\bin\Debug\03-EventEventArgs.exe.config
+C:\WinForms\Lesson 4 events\EventsUnderstand\03-EventEventArgs\bin\Debug\03-EventEventArgs.exe
+C:\WinForms\Lesson 4 events\EventsUnderstand\03-EventEventArgs\bin\Debug\03-EventEventArgs.pdb
+C:\WinForms\Lesson 4 events\EventsUnderstand\03-EventEventArgs\obj\Debug\03-EventEventArgs.csproj.CoreCompileInputs.cache
+C:\WinForms\Lesson 4 events\EventsUnderstand\03-EventEventArgs\obj\Debug\03-EventEventArgs.exe
+C:\WinForms\Lesson 4 events\EventsUnderstand\03-EventEventArgs\obj\Debug\03-EventEventArgs.pdb
+C:\WinForms\Lesson 4 events\EventsUnderstand\03-EventEventArgs\obj\Debug\03-EventEventArgs.csprojAssemblyReference.cache
+C:\WPF\Lesson 5 events\EventsUnderstand\03-EventEventArgs\bin\Debug\03-EventEventArgs.exe.config
+C:\WPF\Lesson 5 events\EventsUnderstand\03-EventEventArgs\bin\Debug\03-EventEventArgs.exe
+C:\WPF\Lesson 5 events\EventsUnderstand\03-EventEventArgs\bin\Debug\03-EventEventArgs.pdb
+C:\WPF\Lesson 5 events\EventsUnderstand\03-EventEventArgs\obj\Debug\03-EventEventArgs.csprojAssemblyReference.cache
+C:\WPF\Lesson 5 events\EventsUnderstand\03-EventEventArgs\obj\Debug\03-EventEventArgs.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 5 events\EventsUnderstand\03-EventEventArgs\obj\Debug\03-EventEventArgs.exe
+C:\WPF\Lesson 5 events\EventsUnderstand\03-EventEventArgs\obj\Debug\03-EventEventArgs.pdb

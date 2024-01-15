@@ -1,0 +1,4 @@
+﻿  modless_wnd.cpp
+  mod_wnd.cpp
+d:\xlam\win32_dlg_wnd_1558031723\win32_dlg_wnd\win32_dlg_wnd\mod_wnd.cpp(6): error C2065: 'IDD_DIALOG1': undeclared identifier
+  Generating Code...

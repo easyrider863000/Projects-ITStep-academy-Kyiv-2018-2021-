@@ -1,0 +1,22 @@
+D:\Projects\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapperSample.exe.config
+D:\Projects\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapperSample.exe
+D:\Projects\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapperSample.pdb
+D:\Projects\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapper.dll
+D:\Projects\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapper.pdb
+D:\Projects\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapper.xml
+D:\Projects\AutoMapperSample\AutoMapperSample\obj\Debug\AutoMapperSample.csprojAssemblyReference.cache
+D:\Projects\AutoMapperSample\AutoMapperSample\obj\Debug\AutoMapperSample.csproj.CoreCompileInputs.cache
+D:\Projects\AutoMapperSample\AutoMapperSample\obj\Debug\AutoMapperSample.csproj.CopyComplete
+D:\Projects\AutoMapperSample\AutoMapperSample\obj\Debug\AutoMapperSample.exe
+D:\Projects\AutoMapperSample\AutoMapperSample\obj\Debug\AutoMapperSample.pdb
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapperSample.exe.config
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapperSample.exe
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapperSample.pdb
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapper.dll
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapper.pdb
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\bin\Debug\AutoMapper.xml
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\obj\Debug\AutoMapperSample.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\obj\Debug\AutoMapperSample.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\obj\Debug\AutoMapperSample.csproj.CopyComplete
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\obj\Debug\AutoMapperSample.exe
+D:\Шаг\Доп инфо\ADO.NET\AutoMapperSample\AutoMapperSample\obj\Debug\AutoMapperSample.pdb

@@ -1,0 +1,15 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\bin\Debug\First.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\bin\Debug\First.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\bin\Debug\First.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\First.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\First_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\First_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\First.g.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\First.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\First.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\First.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\Bindings\First\obj\Debug\First.pdb

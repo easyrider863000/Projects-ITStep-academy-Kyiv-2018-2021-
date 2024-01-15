@@ -1,0 +1,25 @@
+.joke{
+    margin:20px;
+    display: flex;
+    flex-direction: column;
+    background-color: honeydew;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: indigo;
+}
+.joke :hover{
+    cursor: pointer;
+}
+
+.joke-prop{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size:30px;
+}
+
+.question{
+    color: slateblue;
+}
+.punchline{
+    color: deeppink;
+}

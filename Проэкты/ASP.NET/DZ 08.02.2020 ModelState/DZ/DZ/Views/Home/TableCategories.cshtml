@@ -1,0 +1,50 @@
+﻿@using DAL_Paggination.Repositories;
+@model IEnumerable<DAL_Paggination.Category>
+
+
+@Ajax.ActionLink("Create",
+                 "Create",
+                 new { @type = "Category" },
+                 new AjaxOptions { UpdateTargetId = "place" },
+                 new { @class = "btn btn-info my-3" })
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>CategoryId</th>
+            <th>CategoryName</th>
+            <th>Button for delete</th>
+            <th>Button for update</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var i in Model)
+        {
+            <tr>
+                <td>@i.CategoryId</td>
+                <td>
+                    @i.CategoryName
+                </td>
+                <td>
+                    @Ajax.ActionLink("Delete",
+                    "Delete",
+                    new { @id = i.CategoryId, @type = "Category" },
+                    new AjaxOptions { UpdateTargetId = "place" },
+                    new { @class = GoodRepoMethods.IsInvolvedCategory(ViewBag.good, i.CategoryId)? "btn btn-danger disabled" : "btn btn-danger" })
+                </td>
+                <td>
+                    @Ajax.ActionLink("Update",
+                                         "Update",
+                                         new { @id = i.CategoryId, @type = "Category" },
+                                         new AjaxOptions { UpdateTargetId = "place" },
+                                         new { @class = "btn btn-warning" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div id="paging">
+    @for (int i = 0; i < ViewBag.PageCount; i++)
+    {
+        @Ajax.ActionLink($"{i + 1}", "TableCategories", new { id = @i + 1 }, new AjaxOptions { UpdateTargetId = "place" }, new { @class = "btn btn-success" })
+    }
+</div>

@@ -1,0 +1,117 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\DZ MVVM.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\DZ MVVM.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\DZ MVVM.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ MVVM.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\Views\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ MVVM_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ MVVM_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\Views\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ MVVM.g.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ_MVVM.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ MVVM.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ MVVM.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ MVVM.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ MVVM.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\Newtonsoft.Json.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\Newtonsoft.Json.xml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ MVVM.csproj.CopyComplete
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\netstandard.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.AppContext.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Collections.Concurrent.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Collections.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Collections.NonGeneric.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Collections.Specialized.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.ComponentModel.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Console.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Data.Common.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Diagnostics.Debug.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Diagnostics.Process.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Diagnostics.Tools.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Drawing.Primitives.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Dynamic.Runtime.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Globalization.Calendars.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Globalization.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Globalization.Extensions.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.Compression.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.FileSystem.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.Pipes.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Linq.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Linq.Expressions.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Linq.Parallel.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Linq.Queryable.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.Http.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.NameResolution.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.NetworkInformation.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.Ping.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.Primitives.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.Requests.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.Security.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.Sockets.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Net.WebSockets.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.ObjectModel.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Reflection.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Reflection.Extensions.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Reflection.Primitives.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Resources.Reader.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Resources.ResourceManager.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Resources.Writer.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.Extensions.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.Handles.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.InteropServices.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.Numerics.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Security.Claims.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Security.Principal.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Security.SecureString.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Text.Encoding.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Text.RegularExpressions.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Threading.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Threading.Overlapped.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Threading.Tasks.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Threading.Thread.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Threading.ThreadPool.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Threading.Timer.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.ValueTuple.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Xml.XDocument.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Xml.XmlDocument.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Xml.XPath.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\bin\Debug\SoapFormatter.dll
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ MVVM\DZ MVVM\obj\Debug\DZ MVVM.exe.config

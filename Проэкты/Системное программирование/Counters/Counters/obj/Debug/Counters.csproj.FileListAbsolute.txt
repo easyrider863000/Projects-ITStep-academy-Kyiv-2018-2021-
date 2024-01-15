@@ -1,0 +1,10 @@
+D:\Шаг\Проэкты\Системное программирование\Counters\Counters\bin\Debug\Counters.exe.config
+D:\Шаг\Проэкты\Системное программирование\Counters\Counters\bin\Debug\Counters.exe
+D:\Шаг\Проэкты\Системное программирование\Counters\Counters\bin\Debug\Counters.pdb
+D:\Шаг\Проэкты\Системное программирование\Counters\Counters\obj\Debug\Counters.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\Системное программирование\Counters\Counters\obj\Debug\Counters.Form1.resources
+D:\Шаг\Проэкты\Системное программирование\Counters\Counters\obj\Debug\Counters.Properties.Resources.resources
+D:\Шаг\Проэкты\Системное программирование\Counters\Counters\obj\Debug\Counters.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\Системное программирование\Counters\Counters\obj\Debug\Counters.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\Системное программирование\Counters\Counters\obj\Debug\Counters.exe
+D:\Шаг\Проэкты\Системное программирование\Counters\Counters\obj\Debug\Counters.pdb

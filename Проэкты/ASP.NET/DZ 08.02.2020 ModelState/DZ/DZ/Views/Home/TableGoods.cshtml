@@ -1,0 +1,70 @@
+﻿@using DAL_Paggination.Repositories;
+@using DAL_Paggination.Models;
+@model IEnumerable<DAL_Paggination.Good>
+
+@Ajax.ActionLink("Create",
+                 "Create",
+                 new { @type = "Good" },
+                 new AjaxOptions { UpdateTargetId = "place" },
+                 new { @class = "btn btn-info my-3" })
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>GoodId</th>
+            <th>GoodName</th>
+            <th>Manufacturer</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>GoodCount</th>
+            <th>Button for delete</th>
+            <th>Button for update</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var good in Model)
+        {
+            <tr>
+                <td>@good.GoodId</td>
+                <td>@good.GoodName</td>
+                <td>
+                    @if (good.ManufacturerId != null)
+                    {
+                        @((from el in GoodRepoMethods.GetAllManufacturers()
+                                   where el.ManufacturerId == good.ManufacturerId
+                                   select el.ManufacturerName).FirstOrDefault())
+                    }
+                </td>
+                <td>
+                    @if (good.CategoryId != null)
+                    {
+                        @((from el in GoodRepoMethods.GetAllCategories()
+                                   where el.CategoryId == good.CategoryId
+                                   select el.CategoryName).FirstOrDefault())
+                    }
+                </td>
+                <td>@good.Price</td>
+                <td>@good.GoodCount</td>
+                <td>
+                    @Ajax.ActionLink("Delete",
+                                          "Delete",
+                                          new { @id = good.GoodId, @type = "Good" },
+                                          new AjaxOptions { UpdateTargetId = "place" },
+                                          new { @class = "btn btn-danger" })
+                </td>
+                <td>
+                    @Ajax.ActionLink("Update",
+                                         "Update",
+                                         new { @id = good.GoodId, @type = "Good" },
+                                         new AjaxOptions { UpdateTargetId = "place" },
+                                         new { @class = "btn btn-warning" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div id="paging">
+    @for (int i = 0; i < ViewBag.PageCount; i++)
+    {
+        @Ajax.ActionLink($"{i + 1}", "TableGoods", new { id = @i + 1 }, new AjaxOptions { UpdateTargetId = "place" }, new { @class = "btn btn-success" })
+    }
+</div>

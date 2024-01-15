@@ -1,0 +1,26 @@
+﻿<Window x:Class="_04_OneWayToSource.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04_OneWayToSource"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Orientation="Vertical" Margin="5">
+        <!--Для того чтобы не удалялись лишние пробелы установлен атрибут xml:space="preserve"-->
+        <Label VerticalAlignment="Center"
+                   Margin="5,10" xml:space="preserve">
+            <Run Name="runParagraphOne" Text="{Binding ElementName=txt, Path=Text}" ></Run>
+             
+        </Label>
+        
+        <!--UpdateSourceTrigger=PropertyChanged обновление привязки будет происходить 
+            при изменении значения свойства
+            для поля ввода по умолчанию LostFocus-->
+        <TextBox Name="txt" Text="{Binding ElementName=lblSampleText, 
+                            Path=FontSize, 
+                            UpdateSourceTrigger=LostFocus, 
+                            Mode=TwoWay}" 
+                     Margin="5,10" ></TextBox>
+    </StackPanel>
+</Window>

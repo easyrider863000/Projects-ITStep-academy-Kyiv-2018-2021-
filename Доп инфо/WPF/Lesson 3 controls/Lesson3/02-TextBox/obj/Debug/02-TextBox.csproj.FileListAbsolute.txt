@@ -1,0 +1,29 @@
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\bin\Debug\02-TextBox.exe.config
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\bin\Debug\02-TextBox.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\bin\Debug\02-TextBox.pdb
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\App.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\02-TextBox_MarkupCompile.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\02-TextBox_MarkupCompile.lref
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\02-TextBox.g.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\_02_TextBox.Properties.Resources.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\02-TextBox.csproj.GenerateResource.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\02-TextBox.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\02-TextBox.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\02-TextBox\obj\Debug\02-TextBox.pdb
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\bin\Debug\02-TextBox.exe.config
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\bin\Debug\02-TextBox.exe
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\bin\Debug\02-TextBox.pdb
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\02-TextBox.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\02-TextBox_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\02-TextBox_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\02-TextBox.g.resources
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\_02_TextBox.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\02-TextBox.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\02-TextBox.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\02-TextBox.exe
+D:\Шаг\Доп инфо\Lesson 3 controls\Lesson3\02-TextBox\obj\Debug\02-TextBox.pdb

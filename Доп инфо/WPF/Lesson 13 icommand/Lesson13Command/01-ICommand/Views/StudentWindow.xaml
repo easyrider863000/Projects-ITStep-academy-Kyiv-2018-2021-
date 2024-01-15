@@ -1,0 +1,40 @@
+﻿<Window x:Class="_01_ICommand.Views.StudentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01_ICommand.Views"
+        mc:Ignorable="d"
+        Title="StudentWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="0.8*" />
+        </Grid.ColumnDefinitions>
+        <ListBox Grid.Column="0" ItemsSource="{Binding collection , Mode=TwoWay}"
+               Margin="20" SelectedItem="{Binding SelectedStudent,Mode=TwoWay,UpdateSourceTrigger=Default}" IsSynchronizedWithCurrentItem="True">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="5">
+                        <TextBlock Text="{Binding Path=Name}" />
+                        <TextBlock Text="{Binding Path=Age}" />
+
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+
+        </ListBox>
+
+        <StackPanel Grid.Column="1">
+            <TextBlock Text="Выбранный элемент"  />
+            <TextBlock Text="Name" />
+            <TextBox Text="{Binding SelectedStudent.Name, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="Age" />
+            <TextBox Text="{Binding SelectedStudent.Age, UpdateSourceTrigger=PropertyChanged, NotifyOnValidationError=True}" />
+            <Button Content="Remove" Command="{Binding RemoveCommand}"></Button>
+            <Button  Content="Add" Command="{Binding AddCommand}"  ></Button>
+        </StackPanel>
+
+    </Grid>
+</Window>

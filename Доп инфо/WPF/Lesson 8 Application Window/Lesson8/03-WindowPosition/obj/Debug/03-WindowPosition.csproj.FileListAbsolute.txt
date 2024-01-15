@@ -1,0 +1,15 @@
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\bin\Debug\03-WindowPosition.exe.config
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\bin\Debug\03-WindowPosition.exe
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\bin\Debug\03-WindowPosition.pdb
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\03-WindowPosition.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\App.g.cs
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\03-WindowPosition_MarkupCompile.cache
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\03-WindowPosition_MarkupCompile.lref
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\MainWindow.baml
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\03-WindowPosition.g.resources
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\_03_WindowPosition.Properties.Resources.resources
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\03-WindowPosition.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\03-WindowPosition.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\03-WindowPosition.exe
+C:\Users\Igor\source\repos\Lesson8\03-WindowPosition\obj\Debug\03-WindowPosition.pdb

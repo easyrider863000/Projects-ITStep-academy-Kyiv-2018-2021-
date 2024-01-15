@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="block1">
+        <div class="header">Search:</div>
+        <div id="Search">
+            <div>
+                <span>Title:</span>
+                <input id="title" class="inp" type="text">
+            </div>
+            <div>
+                <span>Type:</span>
+                <select class="inp" id="type">
+                    <option>movie</option>
+                    <option>series</option>
+                    <option>episode</option>
+                </select>
+            </div>
+            <button id="btn-srch">Search</button>
+        </div>
+        <div class="header">Films:
+            
+        </div>
+        <div id="Films"></div>
+        <div id="load" style="text-align: center; display: none;">    
+            <img style="width:50px;" src="gif.gif">
+        </div>
+        <button id="more">More</button>
+    </div>
+    <div id="modalWindow" class="modal"></div>
+    <script src="script.js"></script>
+</body>
+</html>

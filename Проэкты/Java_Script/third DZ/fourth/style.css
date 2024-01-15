@@ -1,0 +1,26 @@
+.circle {
+    margin:10px;
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+.colors {
+    display: flex;
+    flex-flow: row;
+    background-color: grey;
+    margin:10px;
+    border-radius: 1em;
+}
+.flex{
+    display: flex;
+    flex-flow: row;
+}
+input{
+    width: 100px;
+    margin:10px;
+    border-radius: 1em;
+    font-size: x-large;
+}

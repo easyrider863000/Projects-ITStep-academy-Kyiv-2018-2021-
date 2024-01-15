@@ -1,0 +1,15 @@
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\bin\Debug\082-TabControl.exe.config
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\bin\Debug\082-TabControl.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\bin\Debug\082-TabControl.pdb
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\082-TabControl.csprojAssemblyReference.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\App.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\082-TabControl_MarkupCompile.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\082-TabControl_MarkupCompile.lref
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\082-TabControl.g.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\_082_TabControl.Properties.Resources.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\082-TabControl.csproj.GenerateResource.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\082-TabControl.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\082-TabControl.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\082-TabControl\obj\Debug\082-TabControl.pdb

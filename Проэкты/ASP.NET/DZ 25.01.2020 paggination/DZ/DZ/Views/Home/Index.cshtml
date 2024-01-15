@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <meta charset="utf-8" />
+    <title>first web-aplication</title>
+</head>
+<body>
+    @{
+        ViewBag.Title = "Index";
+    }
+
+    <h2>Good</h2>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Menu</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    @Html.ActionLink("Category", "Categories", "Home", new { area = "" }, new { @class = "navbar-brand" })"
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Manufacturer", "Manufacturers", "Home", new { area = "" }, new { @class = "navbar-brand" })"
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Good", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })"
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>GoodId</th>
+                <th>GoodName</th>
+                <th>ManufacturerId</th>
+                <th>CategoryId</th>
+                <th>Price</th>
+                <th>GoodCount</th>
+                <th>Button for delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var good in ViewBag.Goods)
+            {
+                <tr>
+                    <td>@good.GoodId</td>
+                    <td>@good.GoodName</td>
+                    <td>@good.ManufacturerId</td>
+                    <td>@good.CategoryId</td>
+                    <td>@good.Price</td>
+                    <td>@good.GoodCount</td>
+                    <td>
+                        @Html.ActionLink("Delete",
+                                             "Delete",
+                                             new { @id = good.GoodId, @type = "Good" },
+                                             new {@class = "btn btn-danger" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div id="paging">
+        @for (int i = 0; i < ViewBag.PageCount; i++)
+        {
+            @Html.ActionLink($"{i + 1}","Index",
+                                             new {@id = i + 1 },
+                                             new {@class = "btn btn-success" })
+        }
+    </div>
+    </body>
+</html>

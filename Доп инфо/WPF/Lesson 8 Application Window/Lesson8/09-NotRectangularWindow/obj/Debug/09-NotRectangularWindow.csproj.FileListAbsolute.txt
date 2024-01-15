@@ -1,0 +1,15 @@
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\09-NotRectangularWindow.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\App.g.cs
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\09-NotRectangularWindow_MarkupCompile.cache
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\09-NotRectangularWindow_MarkupCompile.lref
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\bin\Debug\09-NotRectangularWindow.exe.config
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\bin\Debug\09-NotRectangularWindow.exe
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\bin\Debug\09-NotRectangularWindow.pdb
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\MainWindow.baml
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\09-NotRectangularWindow.g.resources
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\_09_NotRectangularWindow.Properties.Resources.resources
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\09-NotRectangularWindow.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\09-NotRectangularWindow.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\09-NotRectangularWindow.exe
+C:\Users\Igor\source\repos\Lesson8\09-NotRectangularWindow\obj\Debug\09-NotRectangularWindow.pdb

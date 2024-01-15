@@ -1,0 +1,10 @@
+C:\03.06.2019\03.06.2019\bin\Debug\03.06.2019.exe.config
+C:\03.06.2019\03.06.2019\bin\Debug\03.06.2019.exe
+C:\03.06.2019\03.06.2019\bin\Debug\03.06.2019.pdb
+C:\03.06.2019\03.06.2019\obj\Debug\03.06.2019.csprojAssemblyReference.cache
+C:\03.06.2019\03.06.2019\obj\Debug\_03._06._2019.Form1.resources
+C:\03.06.2019\03.06.2019\obj\Debug\_03._06._2019.Properties.Resources.resources
+C:\03.06.2019\03.06.2019\obj\Debug\03.06.2019.csproj.GenerateResource.cache
+C:\03.06.2019\03.06.2019\obj\Debug\03.06.2019.csproj.CoreCompileInputs.cache
+C:\03.06.2019\03.06.2019\obj\Debug\03.06.2019.exe
+C:\03.06.2019\03.06.2019\obj\Debug\03.06.2019.pdb

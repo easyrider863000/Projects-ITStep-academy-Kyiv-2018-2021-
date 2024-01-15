@@ -1,0 +1,15 @@
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\bin\Debug\03-Label.exe.config
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\bin\Debug\03-Label.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\bin\Debug\03-Label.pdb
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\03-Label.csprojAssemblyReference.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\App.g.cs
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\03-Label_MarkupCompile.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\03-Label_MarkupCompile.lref
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\03-Label.g.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\_03_Label.Properties.Resources.resources
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\03-Label.csproj.GenerateResource.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\03-Label.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\03-Label.exe
+C:\WPF\Lesson 3 BaseControls\Lesson3\03-Label\obj\Debug\03-Label.pdb

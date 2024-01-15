@@ -1,0 +1,47 @@
+﻿<Window x:Class="ClassExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClassExample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Margin="10" ItemsSource="{Binding Path=Products}"
+                 SelectedItem="{Binding Path=SelectedProduct}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding ProductName}"></TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+              
+        </ListBox>
+        <StackPanel Grid.Column="1"  >
+            <TextBlock Text="Выбранный элемент" Margin="30" />
+            <TextBlock Text="Name" />
+            <TextBox Text="{Binding SelectedProduct.ProductName, UpdateSourceTrigger=PropertyChanged}" />
+            <TextBlock Text="Category" />
+
+            <ComboBox ItemsSource="{Binding Path=Categorys, Mode=TwoWay}" 
+                      SelectedItem="{Binding SelectedProduct.SelCategory, Mode=TwoWay}" >
+
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding CategoryName}"></TextBlock>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+
+
+            </ComboBox>
+
+           
+            
+            <!--<Button Content="Remove" Command="{Binding RemoveCommand}" Style="{DynamicResource ButtonStyle}"></Button>
+            <Button  Content="Add" Command="{Binding AddCommand}"  Style="{DynamicResource ButtonStyle}"></Button>-->
+        </StackPanel>
+    </Grid>
+</Window>

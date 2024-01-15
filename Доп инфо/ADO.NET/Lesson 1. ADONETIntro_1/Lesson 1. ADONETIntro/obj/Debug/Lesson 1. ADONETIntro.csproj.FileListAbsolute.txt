@@ -1,0 +1,7 @@
+D:\Projects\Lesson 1. ADONETIntro\Lesson 1. ADONETIntro\bin\Debug\Lesson_1.ADONETIntro.exe.config
+D:\Projects\Lesson 1. ADONETIntro\Lesson 1. ADONETIntro\bin\Debug\Lesson_1.ADONETIntro.exe
+D:\Projects\Lesson 1. ADONETIntro\Lesson 1. ADONETIntro\bin\Debug\Lesson_1.ADONETIntro.pdb
+D:\Projects\Lesson 1. ADONETIntro\Lesson 1. ADONETIntro\obj\Debug\Lesson 1. ADONETIntro.csprojAssemblyReference.cache
+D:\Projects\Lesson 1. ADONETIntro\Lesson 1. ADONETIntro\obj\Debug\Lesson 1. ADONETIntro.csproj.CoreCompileInputs.cache
+D:\Projects\Lesson 1. ADONETIntro\Lesson 1. ADONETIntro\obj\Debug\Lesson_1.ADONETIntro.exe
+D:\Projects\Lesson 1. ADONETIntro\Lesson 1. ADONETIntro\obj\Debug\Lesson_1.ADONETIntro.pdb

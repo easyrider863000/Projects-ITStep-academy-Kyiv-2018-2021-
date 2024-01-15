@@ -1,0 +1,17 @@
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\bin\Debug\02-WindowEvents.exe.config
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\bin\Debug\02-WindowEvents.exe
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\bin\Debug\02-WindowEvents.pdb
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\02-WindowEvents.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\WindowClosing.g.cs
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\App.g.cs
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\02-WindowEvents_MarkupCompile.cache
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\02-WindowEvents_MarkupCompile.lref
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\MainWindow.baml
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\WindowClosing.baml
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\02-WindowEvents.g.resources
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\_02_WindowEvents.Properties.Resources.resources
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\02-WindowEvents.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\02-WindowEvents.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\02-WindowEvents.exe
+C:\Users\Igor\source\repos\Lesson8\02-WindowEvents\obj\Debug\02-WindowEvents.pdb

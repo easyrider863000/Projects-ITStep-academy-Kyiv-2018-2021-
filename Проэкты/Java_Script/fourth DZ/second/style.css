@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+.btn{
+    margin:100px;
+    font-size: xx-large;
+}
+.btn:hover{
+    cursor: pointer;
+}
+#img{
+    width: 200px;
+}
+.place{
+    width:200px;
+}

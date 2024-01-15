@@ -1,0 +1,45 @@
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\bin\Debug\06-KeyPressEvent.exe.config
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\bin\Debug\06-KeyPressEvent.exe
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\bin\Debug\06-KeyPressEvent.pdb
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.csprojAssemblyReference.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\App.g.cs
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent_MarkupCompile.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent_MarkupCompile.lref
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.g.resources
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\_06_KeyPressEvent.Properties.Resources.resources
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.csproj.GenerateResource.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.exe
+C:\WPF\Lesson 4 BaseControls\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.pdb
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\bin\Debug\06-KeyPressEvent.exe.config
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\bin\Debug\06-KeyPressEvent.exe
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\bin\Debug\06-KeyPressEvent.pdb
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.csprojAssemblyReference.cache
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\App.g.cs
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent_MarkupCompile.cache
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent_MarkupCompile.lref
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.g.resources
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\_06_KeyPressEvent.Properties.Resources.resources
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.csproj.GenerateResource.cache
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.exe
+C:\WPF\Lesson 5 events\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.pdb
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\bin\Debug\06-KeyPressEvent.exe.config
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\bin\Debug\06-KeyPressEvent.exe
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\bin\Debug\06-KeyPressEvent.pdb
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.g.resources
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\_06_KeyPressEvent.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.exe
+D:\Шаг\Доп инфо\Lesson5\06-KeyPressEvent\obj\Debug\06-KeyPressEvent.pdb

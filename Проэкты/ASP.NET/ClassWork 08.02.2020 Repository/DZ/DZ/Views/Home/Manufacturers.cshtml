@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <meta charset="utf-8" />
+    <title>first web-aplication</title>
+</head>
+<body>
+    @{
+        ViewBag.Title = "Manufacturer";
+    }
+
+    <h2>Manufacturers</h2>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Menu</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    @Html.ActionLink("Category", "Categories", "Home", new { area = "" }, new { @class = "navbar-brand" })"
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Manufacturer", "Manufacturers", "Home", new { area = "" }, new { @class = "navbar-brand" })"
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Good", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })"
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>ManufacturerId</th>
+                <th>ManufacturerName</th>
+                <th>Button for delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var manufacturer in ViewBag.Manufacturers)
+            {
+                <tr>
+                    <td>@manufacturer.ManufacturerId</td>
+                    <td>@manufacturer.ManufacturerName</td>
+                    <td>
+                        @Html.ActionLink("Delete",
+                                             "Delete",
+                                             new { @id = manufacturer.ManufacturerId, @type = "Manufacturer" },
+                                             new {@class = ViewBag.good.IsInvolvedManufacturer(manufacturer.ManufacturerId)? "btn btn-danger disabled" : "btn btn-danger" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div id="paging">
+        @for (int i = 0; i < ViewBag.PageCount; i++)
+        {
+            @Html.ActionLink($"{i + 1}","Manufacturers",
+                                             new {@id = i + 1 },
+                                             new {@class = "btn btn-success" })
+        }
+    </div>
+    </body>
+</html>

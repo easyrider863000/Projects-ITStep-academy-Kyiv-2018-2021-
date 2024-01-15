@@ -1,0 +1,172 @@
+*таблица производителей.[Manufacturer]
+*Id, Name, Country, PhotoPath
+
+*таблица категории.[Category]
+*Id, Name, PhotoPath
+
+*таблица поставщиков.[Supplier]
+*Id, Name, Description
+
+*таблица статусов доставки.[StatusDelivery]
+*Id, Name, Description
+
+*таблица адрес.[Address]
+*Id, Street, House, Flat, Description
+
+
+
+
+
+
+
+
+
+
+*таблица адрес-телефон.[AddressPhoneNumber]
+*Id, IdAddress, PhoneNumber
+
+*таблица адрес-почта.[AddressMail]
+*Id, IdAddress, Mail.
+
+
+
+
+
+
+
+
+
+
+
+
+*таблица товаров.[Good]
+*Id, Name, Description, IdManufacturer, IdCategory, IdSupplier, IdOrder, Price, Count, IsBeating, IsLiquid
+
+*таблица клиентов.[Client]
+*Id, Name, Surname, Login, Password, PriceDelivery, Description
+
+
+
+
+
+
+
+
+
+
+---------таблица товар-клиент.[ClientGood]
+---------IdClient, IdGood
+
+*таблица адрес-поставщика.[SupplierAddress]
+*Id, IdSupplier, IdAddress
+
+*таблица адрес-клиента.[ClientAddress]
+*Id, IdClient, IdAddress
+
+
+
+
+
+
+
+
+
+
+*таблица заказов.[Order]
+*Id, GoodId, IdClient, StatusId, OrderDate
+
+
+
+
+
+
++OrderDetails
+
+
+
+
+
+
+
+стиль для иконок "icons8 ios filled"
+
+
+
+
+
+
+
+
+
+
+Инфо для заполнения:
++1. Список производителей + фото *10
++2. Список категорий(весь) + фото
++3. Список поставщиков *10
++4. Список Статусов доставки(весь)(в дороге,...)
++5. Список адресов()(Страна, город, улица, дом, квартира) *20
++6. Список телефонов номеров *30
++7. Список имейлов *25
+8. Список товаров()(название, описание, производитель, категория, поставщик, цена, количество, Бьется ли, Жидкость ли, заказ) *30
+9. Список клиентов()(Имя, Фамилия, процент стоимости доставки, логин, пароль) *10
+
+
+
+3 таблици на соотношение:
+	1)Адресс - Поставщик
+	2)Адресс - Клиент
+	3)Заказ(товар, клиент, статус, дата)
+
+
+
+
+
+
+Реализованые таблици:
+
++++Order -- crud -- проблема в безопасности
++++OrderDetails -- crud -- проблема в безопасности
++++AddressPhoneNumber -- crud
++++AddressMail -- crud
++++Address
++++SupplierAddress -- crud
++++Supplier -- crud
++++Category -- crud
++++Client -- crud
++++ClientAddress -- crud
++++Good -- crud
++++Manufacturer -- crud
++++Role -- r
++++StatusDelivery -- crud
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

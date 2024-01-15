@@ -1,0 +1,34 @@
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\bin\Debug\06-WindowsOwnership.exe.config
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\bin\Debug\06-WindowsOwnership.exe
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\bin\Debug\06-WindowsOwnership.pdb
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\Child.g.cs
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\App.g.cs
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership_MarkupCompile.cache
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership_MarkupCompile.lref
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\Child.baml
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\MainWindow.baml
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.g.resources
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\_06_WindowsOwnership.Properties.Resources.resources
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.exe
+C:\Users\Igor\source\repos\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.pdb
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\bin\Debug\06-WindowsOwnership.exe.config
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\bin\Debug\06-WindowsOwnership.exe
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\bin\Debug\06-WindowsOwnership.pdb
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\Child.g.cs
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\Child.baml
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.g.resources
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\_06_WindowsOwnership.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.exe
+D:\Шаг\Доп инфо\Lesson 8 Application Window\Lesson8\06-WindowsOwnership\obj\Debug\06-WindowsOwnership.pdb

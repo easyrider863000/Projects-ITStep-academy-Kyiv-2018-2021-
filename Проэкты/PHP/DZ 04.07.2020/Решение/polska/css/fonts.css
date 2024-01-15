@@ -1,0 +1,72 @@
+@font-face {
+    font-family: Montserrat-Light; /* Имя шрифта */
+    src: url(../fonts/Montserrat-Light.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Black; /* Имя шрифта */
+    src: url(../fonts/Montserrat-Black.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-BlackItalic; /* Имя шрифта */
+    src: url(../fonts/Montserrat-BlackItalic.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Bold; /* Имя шрифта */
+    src: url(../fonts/Montserrat-Bold.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-BoldItalic; /* Имя шрифта */
+    src: url(../fonts/Montserrat-BoldItalic.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-ExtraBold; /* Имя шрифта */
+    src: url(../fonts/Montserrat-ExtraBold.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-ExtraBoldItalic; /* Имя шрифта */
+    src: url(../fonts/Montserrat-ExtraBoldItalic.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-ExtraLight; /* Имя шрифта */
+    src: url(../fonts/Montserrat-ExtraLight.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-ExtraLightItalic; /* Имя шрифта */
+    src: url(../fonts/Montserrat-ExtraLightItalic.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Italic; /* Имя шрифта */
+    src: url(../fonts/Montserrat-Italic.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-LightItalic; /* Имя шрифта */
+    src: url(../fonts/Montserrat-LightItalic.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Medium; /* Имя шрифта */
+    src: url(../fonts/Montserrat-Medium.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-MediumItalic; /* Имя шрифта */
+    src: url(../fonts/Montserrat-MediumItalic.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Regular; /* Имя шрифта */
+    src: url(../fonts/Montserrat-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-SemiBold; /* Имя шрифта */
+    src: url(../fonts/Montserrat-SemiBold.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-SemiBoldItalic; /* Имя шрифта */
+    src: url(../fonts/Montserrat-SemiBoldItalic.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Thin; /* Имя шрифта */
+    src: url(../fonts/Montserrat-Thin.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-ThinItalic; /* Имя шрифта */
+    src: url(../fonts/Montserrat-ThinItalic.ttf); /* Путь к файлу со шрифтом */
+}

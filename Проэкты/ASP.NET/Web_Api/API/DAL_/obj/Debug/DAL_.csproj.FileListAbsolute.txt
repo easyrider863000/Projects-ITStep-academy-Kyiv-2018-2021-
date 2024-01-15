@@ -1,0 +1,1 @@
+D:\Шаг\Проэкты\ASP.NET\Web_Api\API\DAL_\obj\Debug\DAL_.csproj.CoreCompileInputs.cache

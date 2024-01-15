@@ -1,0 +1,30 @@
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\bin\Debug\02-ObjectResource.exe.config
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\bin\Debug\02-ObjectResource.exe
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\bin\Debug\02-ObjectResource.pdb
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.csprojAssemblyReference.cache
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\App.g.cs
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource_MarkupCompile.cache
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource_MarkupCompile.lref
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.g.resources
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\_02_ObjectResource.Properties.Resources.resources
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.csproj.GenerateResource.cache
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.exe
+C:\WPF\Lesson 10 Resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.pdb
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\bin\Debug\02-ObjectResource.exe.config
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\bin\Debug\02-ObjectResource.exe
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\bin\Debug\02-ObjectResource.pdb
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.g.resources
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\_02_ObjectResource.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.exe
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\02-ObjectResource\obj\Debug\02-ObjectResource.pdb

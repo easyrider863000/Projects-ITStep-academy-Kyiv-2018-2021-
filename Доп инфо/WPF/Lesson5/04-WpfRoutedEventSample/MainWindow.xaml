@@ -1,0 +1,23 @@
+﻿<Window x:Class="_04_WpfRoutedEventSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04_WpfRoutedEventSample"
+        xmlns:myButtons="clr-namespace:_04_WpfRoutedEventSample"
+        
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <myButtons:ExtraButton x:Name="OuterButton"
+                               Margin="30" 
+                               MyButtonClick="ExtraButton_MyButtonClick">
+            <StackPanel>
+                <myButtons:ExtraButton x:Name="InnerButton"
+                                       Padding="30"  
+                                       MyButtonClick="ExtraButton_MyButtonClick" Content="Вложенная кнопка">
+                </myButtons:ExtraButton>
+            </StackPanel>
+        </myButtons:ExtraButton>
+    </Grid>
+</Window>

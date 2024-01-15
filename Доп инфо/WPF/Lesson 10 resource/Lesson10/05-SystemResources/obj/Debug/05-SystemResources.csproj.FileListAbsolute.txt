@@ -1,0 +1,30 @@
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\bin\Debug\05-SystemResources.exe.config
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\bin\Debug\05-SystemResources.exe
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\bin\Debug\05-SystemResources.pdb
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.csprojAssemblyReference.cache
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\App.g.cs
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources_MarkupCompile.cache
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources_MarkupCompile.lref
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.g.resources
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\_05_SystemResources.Properties.Resources.resources
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.csproj.GenerateResource.cache
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.exe
+C:\WPF\Lesson 10 Resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.pdb
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\bin\Debug\05-SystemResources.exe.config
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\bin\Debug\05-SystemResources.exe
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\bin\Debug\05-SystemResources.pdb
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.g.resources
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\_05_SystemResources.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.exe
+D:\Шаг\Доп инфо\Lesson 10 resource\Lesson10\05-SystemResources\obj\Debug\05-SystemResources.pdb

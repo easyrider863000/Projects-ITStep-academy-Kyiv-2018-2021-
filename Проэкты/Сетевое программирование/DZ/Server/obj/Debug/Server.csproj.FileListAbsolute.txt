@@ -1,0 +1,11 @@
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\bin\Debug\Server.exe.config
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\bin\Debug\Server.exe
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\bin\Debug\Server.pdb
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\bin\Debug\Client.exe
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\bin\Debug\Client.pdb
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\bin\Debug\Client.exe.config
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\obj\Debug\Server.exe
+D:\Шаг\Проэкты\Сетивое программирование\DZ\Server\obj\Debug\Server.pdb

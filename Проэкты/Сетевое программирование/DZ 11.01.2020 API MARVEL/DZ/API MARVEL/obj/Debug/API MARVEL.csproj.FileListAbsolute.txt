@@ -1,0 +1,39 @@
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\API MARVEL.exe.config
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\API MARVEL.exe
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\API MARVEL.pdb
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\Views\MainView.g.cs
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\API MARVEL_MarkupCompile.cache
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\API MARVEL_MarkupCompile.lref
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\Views\MainView.baml
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\API MARVEL.g.resources
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\API_MARVEL.Properties.Resources.resources
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\API MARVEL.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\API MARVEL.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\API MARVEL.exe
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\API MARVEL.pdb
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\Newtonsoft.Json.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\System.Windows.Interactivity.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\Newtonsoft.Json.xml
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\System.Windows.Interactivity.xml
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\API MARVEL.csproj.CopyComplete
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\Views\AutorizationView.g.cs
+D:\Шаг\Проэкты\Сетивое программирование\DZ 11.01.2020 API MARVEL\DZ\API MARVEL\obj\Debug\Views\AutorizationView.baml

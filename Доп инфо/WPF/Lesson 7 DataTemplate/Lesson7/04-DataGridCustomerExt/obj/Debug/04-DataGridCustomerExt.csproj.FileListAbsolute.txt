@@ -1,0 +1,36 @@
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\bin\Debug\04-DataGridCustomerExt.exe.config
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\bin\Debug\04-DataGridCustomerExt.exe
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\bin\Debug\04-DataGridCustomerExt.pdb
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\App.g.cs
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt_MarkupCompile.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt_MarkupCompile.lref
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.g.resources
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\_04_DataGridCustomerExt.Properties.Resources.resources
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.csproj.GenerateResource.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.exe
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.pdb
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\bin\Debug\DataForSolution.dll
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\bin\Debug\DataForSolution.pdb
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.csprojAssemblyReference.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.csproj.CopyComplete
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\bin\Debug\04-DataGridCustomerExt.exe.config
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\bin\Debug\04-DataGridCustomerExt.exe
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\bin\Debug\04-DataGridCustomerExt.pdb
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\bin\Debug\DataForSolution.dll
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\bin\Debug\DataForSolution.pdb
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.g.resources
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\_04_DataGridCustomerExt.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.csproj.CopyComplete
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.exe
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\04-DataGridCustomerExt\obj\Debug\04-DataGridCustomerExt.pdb

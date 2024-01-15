@@ -1,0 +1,10 @@
+D:\Шаг\Проэкты\WinForms\C#\Май 2019\DZ 22.05.2019\DZ 22.05.2019\bin\Debug\DZ 22.05.2019.exe.config
+D:\Шаг\Проэкты\WinForms\C#\Май 2019\DZ 22.05.2019\DZ 22.05.2019\bin\Debug\DZ 22.05.2019.exe
+D:\Шаг\Проэкты\WinForms\C#\Май 2019\DZ 22.05.2019\DZ 22.05.2019\bin\Debug\DZ 22.05.2019.pdb
+D:\Шаг\Проэкты\WinForms\C#\Май 2019\DZ 22.05.2019\DZ 22.05.2019\obj\Debug\DZ 22.05.2019.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WinForms\C#\Май 2019\DZ 22.05.2019\DZ 22.05.2019\obj\Debug\DZ_22._05._2019.Properties.Resources.resources
+D:\Шаг\Проэкты\WinForms\C#\Май 2019\DZ 22.05.2019\DZ 22.05.2019\obj\Debug\DZ 22.05.2019.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WinForms\C#\Май 2019\DZ 22.05.2019\DZ 22.05.2019\obj\Debug\DZ 22.05.2019.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WinForms\C#\Май 2019\DZ 22.05.2019\DZ 22.05.2019\obj\Debug\DZ 22.05.2019.exe
+D:\Шаг\Проэкты\WinForms\C#\Май 2019\DZ 22.05.2019\DZ 22.05.2019\obj\Debug\DZ 22.05.2019.pdb
+D:\Шаг\Проэкты\WinForms\C#\Май 2019\DZ 22.05.2019\DZ 22.05.2019\obj\Debug\DZ_22._05._2019.LinkList.resources

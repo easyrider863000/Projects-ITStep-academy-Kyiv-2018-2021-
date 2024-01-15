@@ -1,0 +1,10 @@
+D:\Шаг\Проэкты\Системное программирование\DyspetcherZadach\DyspetcherZadach\bin\Debug\DyspetcherZadach.exe.config
+D:\Шаг\Проэкты\Системное программирование\DyspetcherZadach\DyspetcherZadach\bin\Debug\DyspetcherZadach.exe
+D:\Шаг\Проэкты\Системное программирование\DyspetcherZadach\DyspetcherZadach\bin\Debug\DyspetcherZadach.pdb
+D:\Шаг\Проэкты\Системное программирование\DyspetcherZadach\DyspetcherZadach\obj\Debug\DyspetcherZadach.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\Системное программирование\DyspetcherZadach\DyspetcherZadach\obj\Debug\DyspetcherZadach.Form1.resources
+D:\Шаг\Проэкты\Системное программирование\DyspetcherZadach\DyspetcherZadach\obj\Debug\DyspetcherZadach.Properties.Resources.resources
+D:\Шаг\Проэкты\Системное программирование\DyspetcherZadach\DyspetcherZadach\obj\Debug\DyspetcherZadach.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\Системное программирование\DyspetcherZadach\DyspetcherZadach\obj\Debug\DyspetcherZadach.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\Системное программирование\DyspetcherZadach\DyspetcherZadach\obj\Debug\DyspetcherZadach.exe
+D:\Шаг\Проэкты\Системное программирование\DyspetcherZadach\DyspetcherZadach\obj\Debug\DyspetcherZadach.pdb

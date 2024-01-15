@@ -1,0 +1,36 @@
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.csprojAssemblyReference.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\App.g.cs
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample_MarkupCompile.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\bin\Debug\02-GridViewSample.exe.config
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\bin\Debug\02-GridViewSample.exe
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\bin\Debug\02-GridViewSample.pdb
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\bin\Debug\DataForSolution.dll
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\bin\Debug\DataForSolution.pdb
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\MainWindow.g.cs
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample_MarkupCompile.lref
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\MainWindow.baml
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.g.resources
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\_02_GridViewSample.Properties.Resources.resources
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.csproj.GenerateResource.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.csproj.CoreCompileInputs.cache
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.csproj.CopyComplete
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.exe
+C:\WPF\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.pdb
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\bin\Debug\02-GridViewSample.exe.config
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\bin\Debug\02-GridViewSample.exe
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\bin\Debug\02-GridViewSample.pdb
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\bin\Debug\DataForSolution.dll
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\bin\Debug\DataForSolution.pdb
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.csprojAssemblyReference.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\MainWindow.g.cs
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\App.g.cs
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample_MarkupCompile.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample_MarkupCompile.lref
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\MainWindow.baml
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.g.resources
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\_02_GridViewSample.Properties.Resources.resources
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.csproj.GenerateResource.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.csproj.CoreCompileInputs.cache
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.csproj.CopyComplete
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.exe
+D:\Шаг\Доп инфо\Lesson 7 DataTemplate\Lesson7\02-GridViewSample\obj\Debug\02-GridViewSample.pdb

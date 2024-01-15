@@ -1,0 +1,6 @@
+D:\Projects\CarsApp\CarsApp.DAL\bin\Debug\CarsApp.DAL.dll
+D:\Projects\CarsApp\CarsApp.DAL\bin\Debug\CarsApp.DAL.pdb
+D:\Projects\CarsApp\CarsApp.DAL\obj\Debug\CarsApp.DAL.csprojAssemblyReference.cache
+D:\Projects\CarsApp\CarsApp.DAL\obj\Debug\CarsApp.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\CarsApp\CarsApp.DAL\obj\Debug\CarsApp.DAL.dll
+D:\Projects\CarsApp\CarsApp.DAL\obj\Debug\CarsApp.DAL.pdb

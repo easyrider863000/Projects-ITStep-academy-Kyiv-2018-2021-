@@ -1,0 +1,15 @@
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\bin\Debug\DZ 14.09.2019 second.exe.config
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\bin\Debug\DZ 14.09.2019 second.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\bin\Debug\DZ 14.09.2019 second.pdb
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\DZ 14.09.2019 second.csprojAssemblyReference.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\MainWindow.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\App.g.cs
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\DZ 14.09.2019 second_MarkupCompile.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\DZ 14.09.2019 second_MarkupCompile.lref
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\MainWindow.baml
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\DZ 14.09.2019 second.g.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\DZ_14._09._2019_second.Properties.Resources.resources
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\DZ 14.09.2019 second.csproj.GenerateResource.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\DZ 14.09.2019 second.csproj.CoreCompileInputs.cache
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\DZ 14.09.2019 second.exe
+D:\Шаг\Проэкты\WPF\Сентябрь 2019\DZ 14.09.2019 second\DZ 14.09.2019 second\obj\Debug\DZ 14.09.2019 second.pdb

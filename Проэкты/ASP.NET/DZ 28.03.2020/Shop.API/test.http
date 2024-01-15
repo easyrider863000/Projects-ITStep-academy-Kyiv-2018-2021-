@@ -1,0 +1,39 @@
+
+# POST http://localhost:5000/api/auth/authenticate
+# Content-Type: application/json
+
+# {
+#     "Login": "Corolla",
+#     "Password": "Corolla123"
+# }
+
+
+# GET http://localhost:5000/api/categories
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ItCb0Y7QtNC80LjQu9CwIiwicm9sZSI6ImNvcm9sbGFfZHJpdmVyIiwibmJmIjoxNTg3MTU3NDM4LCJleHAiOjE1ODcxNTkyMzgsImlhdCI6MTU4NzE1NzQzOH0.G-bjRdv2GJ-MUkH-itscXf2SDDHvCocpcKKQ4HZP63U
+
+
+
+# PUT http://localhost:5000/api/categories/10000
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ItCb0Y7QtNC80LjQu9CwIiwicm9sZSI6ImNvcm9sbGFfZHJpdmVyIiwibmJmIjoxNTg3MTU3NDM4LCJleHAiOjE1ODcxNTkyMzgsImlhdCI6MTU4NzE1NzQzOH0.G-bjRdv2GJ-MUkH-itscXf2SDDHvCocpcKKQ4HZP63U
+# Content-Type: application/json
+
+# {
+#     "name":"Laptop"
+# }
+
+
+
+# POST http://localhost:5000/api/categories
+# Content-Type: application/json
+
+# {
+#     "Name": "Printer"
+# }
+
+
+# PUT http://localhost:5000/api/categories/10000
+# Content-Type: application/json
+
+# {
+#     "Name": "Laptop"
+# }

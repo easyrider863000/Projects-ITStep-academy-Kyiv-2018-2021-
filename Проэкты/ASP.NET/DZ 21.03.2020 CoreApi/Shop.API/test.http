@@ -1,0 +1,23 @@
+//GET http://localhost:5000/api/goods/
+
+# POST http://localhost:5000/api/goods
+# Content-Type: application/json
+
+# {
+#     "GoodName": "Automat"
+# }
+
+
+
+# PUT http://localhost:5000/api/goods/100
+# Content-Type: application/json
+
+# {
+#     "GoodName":"Automat",
+#     "GoodCount":0,
+#     "CategoryId":10001,
+#     "ManufacturerId":100,
+#     "Price":150
+# }
+
+//DELETE http://localhost:5000/api/goods/100

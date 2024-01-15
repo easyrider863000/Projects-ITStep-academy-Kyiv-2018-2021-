@@ -1,0 +1,57 @@
+
+# POST http://localhost:5000/api/auth/authenticate
+# Content-Type: application/json
+
+# {
+#     "Login": "Corolla",
+#     "Password": "Corolla123"
+# }
+
+
+
+
+GET http://localhost:5000/api/users
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ItCb0Y7QtNC80LjQu9CwIiwicm9sZSI6WyJjb3JvbGxhX2RyaXZlciIsImZvcmV2ZXJfY29yb2xsYV9kcml2ZXIiXSwibmJmIjoxNTg4NjIyNTMwLCJleHAiOjE1ODg2MjQzMzAsImlhdCI6MTU4ODYyMjUzMH0.ZMB3xhUH0lFpZgX432NgHKT2OV0r_c8cWiVT9nq0TFA
+
+
+
+
+# POST http://localhost:5000/api/categories
+# Content-Type: application/json
+
+# {
+#     "Name": "Printer"
+# }
+
+
+# PUT http://localhost:5000/api/categories/10000
+# Content-Type: application/json
+
+# {
+#     "Name": "Laptop"
+# }
+
+# POST http://localhost:5000/api/roles
+# Content-Type: application/json
+
+# {
+#     "Name": "bad_corolla_driver"
+# }
+
+
+# GET http://localhost:5000/api/userroles/1001
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ItCb0Y7QtNC80LjQu9CwIiwicm9sZSI6WyJjb3JvbGxhX2RyaXZlciIsImZvcmV2ZXJfY29yb2xsYV9kcml2ZXIiXSwibmJmIjoxNTg3MTM4NzI3LCJleHAiOjE1ODcxNDA1MjcsImlhdCI6MTU4NzEzODcyN30.vjGGygnh9GaFaF5HCtAyVige8E7ZuTIad0nlovtITYE
+
+
+# GET http://localhost:5000/api/userroles/1000
+# Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ItCb0Y7QtNC80LjQu9CwIiwicm9sZSI6WyJjb3JvbGxhX2RyaXZlciIsImZvcmV2ZXJfY29yb2xsYV9kcml2ZXIiXSwibmJmIjoxNTg3MTM4NzI3LCJleHAiOjE1ODcxNDA1MjcsImlhdCI6MTU4NzEzODcyN30.vjGGygnh9GaFaF5HCtAyVige8E7ZuTIad0nlovtITYE
+
+
+DELETE http://localhost:5000/api/userroles
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ItCb0Y7QtNC80LjQu9CwIiwicm9sZSI6WyJjb3JvbGxhX2RyaXZlciIsImZvcmV2ZXJfY29yb2xsYV9kcml2ZXIiXSwibmJmIjoxNTg3MTM4NzI3LCJleHAiOjE1ODcxNDA1MjcsImlhdCI6MTU4NzEzODcyN30.vjGGygnh9GaFaF5HCtAyVige8E7ZuTIad0nlovtITYE
+Content-Type: application/json
+
+{
+    "UserId": 777,
+    "RoleId": 1005
+}
